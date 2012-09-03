@@ -1720,3 +1720,32 @@ mebeme, H4ZM4T[m
 2012-09-03 21:08:00 [WARNING] DSCT: Socket closed
 2012-09-03 21:08:00 [INFO] Closing listening thread
 2012-09-03 21:08:00 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@35d44da1
+2012-09-03 21:08:53 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 21:08:53 [INFO] Loading properties
+2012-09-03 21:08:53 [INFO] Default game type: SURVIVAL
+2012-09-03 21:08:53 [INFO] Generating keypair
+2012-09-03 21:08:53 [INFO] Starting Minecraft server on *:25568
+2012-09-03 21:08:54 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 21:08:54 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 21:08:54 [INFO] Preparing level "world"
+2012-09-03 21:08:54 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 21:08:55 [INFO] Preparing spawn area: 61%
+2012-09-03 21:08:56 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 21:08:56 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 21:08:56 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 21:08:56 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 21:08:56 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 21:08:56 [INFO] Done (2.203s)! For help, type "help" or "?"
+2012-09-03 21:08:57 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:57 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 21:08:57 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:57 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 21:08:57 [INFO] CONSOLE: Save complete.[m
+2012-09-03 21:08:57 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:57 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 21:08:58 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 21:08:58 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 21:08:59 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 21:09:02 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 21:09:02 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 13:15:46 [WARNING] Time ran backwards! Did the system time change?

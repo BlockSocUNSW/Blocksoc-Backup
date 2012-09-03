@@ -1744,3 +1744,50 @@
 2012-09-03 21:08:00 [INFO] Closing listening thread
 2012-09-03 21:08:00 [INFO] Saving chunks for level 'world_nether'/Nether
 2012-09-03 21:08:00 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 21:08:53 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 21:08:53 [INFO] Loading properties
+2012-09-03 21:08:53 [INFO] Default game type: SURVIVAL
+2012-09-03 21:08:53 [INFO] Generating keypair
+2012-09-03 21:08:54 [INFO] Starting Minecraft server on *:25565
+2012-09-03 21:08:54 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 21:08:54 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 21:08:54 [INFO] Preparing level "world"
+2012-09-03 21:08:55 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 21:08:55 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 21:08:56 [INFO] Preparing spawn area: 0%
+2012-09-03 21:08:56 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 21:08:56 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 21:08:56 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 21:08:56 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 21:08:56 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 21:08:56 [INFO] ----- ------------------- -----
+2012-09-03 21:08:57 [INFO] Preparing spawn area: 77%
+2012-09-03 21:08:57 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 21:08:57 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 21:08:57 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 21:08:57 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 21:08:57 [INFO] [xServer] Starting as Host
+2012-09-03 21:08:57 [INFO] [xServer] Connection made on port 33777
+2012-09-03 21:08:57 [INFO] Adding Client
+2012-09-03 21:08:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 21:08:57 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 21:08:57 [INFO] Done (3.238s)! For help, type "help" or "?"
+2012-09-03 21:08:58 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:58 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 21:08:58 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:58 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 21:08:58 [INFO] CONSOLE: Save complete.[m
+2012-09-03 21:08:58 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:58 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 21:08:58 [INFO] [xServer] Connection made on port 33777
+2012-09-03 21:08:58 [INFO] Adding Client
+2012-09-03 21:08:58 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 21:08:59 [INFO] [xServer] Connection made on port 33777
+2012-09-03 21:08:59 [INFO] Adding Client
+2012-09-03 21:08:59 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 21:09:02 [INFO] [xServer] Connection made on port 33777
+2012-09-03 21:09:02 [INFO] Adding Client
+2012-09-03 21:09:02 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 21:09:02 [INFO] [xServer] Connection made on port 33777
+2012-09-03 21:09:02 [INFO] Adding Client
+2012-09-03 21:09:02 [INFO] [34;1m[xServer] Tekkit-R has connected[m
