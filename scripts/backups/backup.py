@@ -50,12 +50,12 @@ def serverCmd(command,critical=False):
 # Script to push the server data to a git repo.
 def gitPush():
     cwd = os.getcwd()
-    os.chir(BACKUP_TARGET_DIR)
+    os.chdir(BACKUP_TARGET_DIR)
     osCmd("git add server scripts")
-    osCmd("git commit  -m " + NOW.strftime("%Y-%m-%d %H:%M"))
-    osCmd("git push -u origin master")
+    osCmd("git commit  -m \"" + NOW.strftime("%Y-%m-%d %H:%M") + "\"")
+    osCmd("git push origin master")
     osCmd("git gc")
-    os.chir(cwd)
+    os.chdir(cwd)
     return
     
 # creates a tar backup of the target directory.
@@ -132,7 +132,7 @@ if __name__=='__main__':
         logger.info("Tar check done.")
         
         logger.info("Pushing to git.")
-        #gitPush()
+        gitPush()
         logger.info("Git push done.")
         #send alert that backup complete and enable saves.
         os.chdir(os.path.dirname(UP_SCRIPT))
