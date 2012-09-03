@@ -1,0 +1,1326 @@
+2012-08-23 23:05:44 [INFO] Starting minecraft server version 1.3.1
+2012-08-23 23:05:44 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-08-23 23:05:44 [INFO] Loading properties
+2012-08-23 23:05:44 [WARNING] server.properties does not exist
+2012-08-23 23:05:44 [INFO] Generating new properties file
+2012-08-23 23:05:44 [INFO] Default game type: SURVIVAL
+2012-08-23 23:05:44 [INFO] Generating keypair
+2012-08-23 23:05:45 [INFO] Starting Minecraft server on *:25565
+2012-08-23 23:05:45 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-08-23 23:05:45 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2012-08-23 23:05:45 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2012-08-23 23:05:45 [INFO] Preparing level "world"
+2012-08-23 23:05:45 [INFO] Preparing start region for level 0 (Seed: 7284924033293034491)
+2012-08-23 23:05:46 [INFO] Preparing spawn area: 3%
+2012-08-23 23:05:47 [INFO] Preparing spawn area: 4%
+2012-08-23 23:05:48 [INFO] Preparing spawn area: 8%
+2012-08-23 23:05:49 [INFO] Preparing spawn area: 16%
+2012-08-23 23:05:50 [INFO] Preparing spawn area: 28%
+2012-08-23 23:05:51 [INFO] Preparing spawn area: 40%
+2012-08-23 23:05:52 [INFO] Preparing spawn area: 52%
+2012-08-23 23:05:53 [INFO] Preparing spawn area: 65%
+2012-08-23 23:05:54 [INFO] Preparing spawn area: 85%
+2012-08-23 23:05:55 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-08-23 23:05:55 [INFO] Preparing spawn area: 0%
+2012-08-23 23:05:56 [INFO] Preparing spawn area: 12%
+2012-08-23 23:05:57 [INFO] Preparing spawn area: 36%
+2012-08-23 23:05:58 [INFO] Preparing spawn area: 53%
+2012-08-23 23:05:59 [INFO] Preparing spawn area: 69%
+2012-08-23 23:06:00 [INFO] Preparing spawn area: 85%
+2012-08-23 23:06:01 [INFO] Preparing start region for level 2 (Seed: 7284924033293034491)
+2012-08-23 23:06:01 [INFO] Preparing spawn area: 16%
+2012-08-23 23:06:02 [INFO] Preparing spawn area: 69%
+2012-08-23 23:06:03 [INFO] Done (18.217s)! For help, type "help" or "?"
+2012-08-23 23:40:40 [INFO] Unknown command. Type "help" for help.[m
+2012-08-23 23:40:43 [INFO] CONSOLE: Stopping the server..[m
+2012-08-23 23:40:43 [INFO] Stopping server
+2012-08-23 23:40:43 [WARNING] DSCT: Socket closed
+2012-08-23 23:40:43 [INFO] Closing listening thread
+2012-08-23 23:40:43 [INFO] Saving players
+2012-08-23 23:40:43 [INFO] Saving worlds
+2012-08-23 23:40:43 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@308a1f38
+2012-08-23 23:40:44 [INFO] Saving chunks for level 'world_nether'/net.minecraft.server.WorldProviderHell@1c4c94e5
+2012-08-23 23:40:44 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@56091d7c
+2012-08-24 02:52:36 [INFO] Starting minecraft server version 1.3.1
+2012-08-24 02:52:36 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-08-24 02:52:36 [INFO] Loading properties
+2012-08-24 02:52:36 [INFO] Default game type: SURVIVAL
+2012-08-24 02:52:36 [INFO] Generating keypair
+2012-08-24 02:52:36 [INFO] Starting Minecraft server on *:25565
+2012-08-24 02:52:36 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-08-24 02:52:36 [INFO] Preparing level "world"
+2012-08-24 02:52:36 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-08-24 02:52:37 [INFO] Preparing spawn area: 97%
+2012-08-24 02:52:37 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-08-24 02:52:38 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-08-24 02:52:38 [INFO] Done (1.452s)! For help, type "help" or "?"
+2012-08-24 02:55:01 [INFO] lluoc[/14.200.158.249:55786] logged in with entity id 788 at ([world] -7.5, 72.62000000476837, 1.5)
+2012-08-24 02:55:11 [INFO] CONSOLE: Opped lluoc[m
+2012-08-24 02:55:19 [INFO] lluoc: Set own game mode to CREATIVE mode[m
+2012-08-24 02:56:20 [WARNING] lluoc moved too quickly! 0.020877945111124063,10.086679810833772,0.0 (0.020877945111124063, 10.086679810833772, 0.0)
+2012-08-24 02:56:20 [WARNING] lluoc moved too quickly! 0.0,22.60741146187118,0.0 (0.0, 22.60741146187118, 0.0)
+2012-08-24 02:56:21 [WARNING] lluoc moved too quickly! 0.0,13.259710562957395,0.0 (0.0, 13.259710562957395, 0.0)
+2012-08-24 02:56:53 [WARNING] lluoc moved too quickly! 0.0,21.31651773893293,0.0 (0.0, 21.31651773893293, 0.0)
+2012-08-24 02:56:55 [WARNING] lluoc moved too quickly! 0.0,11.168005550866553,0.0 (0.0, 11.168005550866553, 0.0)
+2012-08-24 02:56:55 [WARNING] lluoc moved too quickly! 0.0,18.613979855802,0.0 (0.0, 18.613979855802, 0.0)
+2012-08-24 02:57:04 [INFO] Connection reset
+2012-08-24 02:57:04 [INFO] lluoc lost connection: disconnect.quitting
+2012-08-24 02:57:07 [INFO] CONSOLE: Stopping the server..[m
+2012-08-24 02:57:07 [INFO] Stopping server
+2012-08-24 02:57:07 [WARNING] DSCT: Socket closed
+2012-08-24 02:57:07 [INFO] Closing listening thread
+2012-08-24 02:57:07 [INFO] Saving players
+2012-08-24 02:57:07 [INFO] Saving worlds
+2012-08-24 02:57:07 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@2d9f90e3
+2012-08-24 02:57:08 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@6dcd2197
+2012-08-24 02:57:23 [INFO] Starting minecraft server version 1.3.1
+2012-08-24 02:57:23 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-08-24 02:57:23 [INFO] Loading properties
+2012-08-24 02:57:23 [INFO] Default game type: SURVIVAL
+2012-08-24 02:57:23 [INFO] Generating keypair
+2012-08-24 02:57:23 [INFO] Starting Minecraft server on *:25565
+2012-08-24 02:57:24 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-08-24 02:57:24 [INFO] Preparing level "world"
+2012-08-24 02:57:24 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-08-24 02:57:25 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-08-24 02:57:25 [INFO] Preparing spawn area: 16%
+2012-08-24 02:57:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-08-24 02:57:25 [INFO] Done (1.356s)! For help, type "help" or "?"
+2012-08-24 02:57:34 [INFO] lluoc[/14.200.158.249:56413] logged in with entity id 334 at ([world] 8.15978316361653, 68.0, 3.1117818856047528)
+2012-08-24 02:57:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-24 02:57:59 [INFO] Connection reset
+2012-08-24 02:57:59 [INFO] lluoc lost connection: disconnect.quitting
+2012-08-24 03:53:06 [INFO] lluoc[/14.200.158.249:52521] logged in with entity id 1569 at ([world] -112.48622415075981, 97.0, -0.8157656316858182)
+2012-08-24 03:53:59 [INFO] lluoc: Set own game mode to SURVIVAL mode[m
+2012-08-24 03:54:20 [INFO] lluoc: Set own game mode to CREATIVE mode[m
+2012-08-24 03:55:35 [INFO] Connection reset
+2012-08-24 03:55:35 [INFO] lluoc lost connection: disconnect.quitting
+2012-08-24 04:35:32 [INFO] lluoc[/14.200.158.249:62981] logged in with entity id 3612 at ([world] -31.470552939876008, 64.0, 56.04650864349616)
+2012-08-24 04:35:38 [INFO] Connection reset
+2012-08-24 04:35:38 [INFO] lluoc lost connection: disconnect.quitting
+2012-08-24 05:03:05 [INFO] H4ZM4T[/60.241.170.155:54347] logged in with entity id 3808 at ([world] -8.5, 72.62000000476837, 2.5)
+2012-08-24 05:03:12 [INFO] <H4ZM4T> woop woop[m
+2012-08-24 05:03:51 [INFO] <H4ZM4T> WHY IS IT NIGHT?[m
+2012-08-24 05:04:29 [INFO] Connection reset
+2012-08-24 05:04:29 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 05:04:44 [INFO] H4ZM4T[/60.241.170.155:54381] logged in with entity id 4499 at ([world] 37.13315411975015, 65.0, 31.016157495690628)
+2012-08-24 05:18:49 [INFO] notsarah[/60.242.55.223:52679] logged in with entity id 10365 at ([world] 4.5, 69.62000000476837, 7.5)
+2012-08-24 05:18:57 [INFO] <H4ZM4T> evening[m
+2012-08-24 05:18:59 [INFO] <notsarah> hiya[m
+2012-08-24 05:22:59 [INFO] <notsarah> dammit, no coal.[m
+2012-08-24 05:23:24 [INFO] <H4ZM4T> dc and I shall sleep[m
+2012-08-24 05:23:38 [INFO] <H4ZM4T> ?[m
+2012-08-24 05:23:40 [INFO] <notsarah> I'll cope :)[m
+2012-08-24 05:23:43 [INFO] <H4ZM4T> but[m
+2012-08-24 05:23:43 [INFO] <H4ZM4T> but[m
+2012-08-24 05:23:47 [INFO] <H4ZM4T> I am in le bed[m
+2012-08-24 05:24:13 [INFO] <H4ZM4T> ...damn[m
+2012-08-24 05:24:13 [INFO] <notsarah> but but survival :P[m
+2012-08-24 05:24:27 [INFO] <notsarah> way more fun to nearly die[m
+2012-08-24 05:24:29 [INFO] <notsarah> coal :D[m
+2012-08-24 05:26:34 [INFO] <H4ZM4T> holy[m
+2012-08-24 05:26:36 [INFO] <H4ZM4T> fucking[m
+2012-08-24 05:26:37 [INFO] <H4ZM4T> shite[m
+2012-08-24 05:26:40 [INFO] <notsarah> mm?[m
+2012-08-24 05:26:51 [INFO] <H4ZM4T> just came across a cave unlike anything I have seen[m
+2012-08-24 05:26:55 [INFO] <H4ZM4T> such an expanse[m
+2012-08-24 05:27:04 [INFO] <notsarah> coords?[m
+2012-08-24 05:27:13 [INFO] <H4ZM4T> come to spawn[m
+2012-08-24 05:27:16 [INFO] <H4ZM4T> to the water[m
+2012-08-24 05:27:33 [INFO] <H4ZM4T> 50, 25[m
+2012-08-24 05:28:04 [INFO] <H4ZM4T> you know what this is though, right?.[m
+2012-08-24 05:28:09 [INFO] <H4ZM4T> this server?[m
+2012-08-24 05:28:20 [INFO] <notsarah> a social experiment like the one I read about on /r/minecraft the other day?[m
+2012-08-24 05:28:25 [INFO] <H4ZM4T> mhmmm[m
+2012-08-24 05:28:29 [INFO] <notsarah> oh good[m
+2012-08-24 05:28:34 [INFO] <H4ZM4T> want to work together?[m
+2012-08-24 05:28:40 [INFO] <notsarah> sure[m
+2012-08-24 05:28:44 [INFO] <notsarah> do I know you irl? :P[m
+2012-08-24 05:28:46 [INFO] <H4ZM4T> this server isn't running the whole, all players must be online[m
+2012-08-24 05:28:50 [INFO] <H4ZM4T> I don't think we have met[m
+2012-08-24 05:28:57 [INFO] <notsarah> I've got purple hair[m
+2012-08-24 05:28:58 [INFO] <H4ZM4T> at least, I don't know a face to your name[m
+2012-08-24 05:29:01 [INFO] <H4ZM4T> hrmm[m
+2012-08-24 05:29:04 [INFO] <notsarah> and I'm not beth[m
+2012-08-24 05:29:08 [INFO] <notsarah> she had purple hair at some point[m
+2012-08-24 05:29:10 [INFO] <H4ZM4T> I think I would have met you[m
+2012-08-24 05:29:21 [INFO] <H4ZM4T> but I don't know[m
+2012-08-24 05:29:29 [INFO] <H4ZM4T> I don't tend to hang round k17 that much[m
+2012-08-24 05:29:32 [INFO] <notsarah> yeah, me neither[m
+2012-08-24 05:29:35 [INFO] <H4ZM4T> you herE?.[m
+2012-08-24 05:29:38 [INFO] <H4ZM4T> near?.[m
+2012-08-24 05:29:44 [INFO] <notsarah> near, yes[m
+2012-08-24 05:30:20 [INFO] <notsarah> whoa,  nice[m
+2012-08-24 05:30:26 [INFO] <notsarah> I've seen ones like this on my uual server[m
+2012-08-24 05:30:37 [INFO] <notsarah> lots of clay O_o[m
+2012-08-24 05:30:41 [INFO] <H4ZM4T> mhmm[m
+2012-08-24 05:30:44 [INFO] <H4ZM4T> ALL OF THE CLAY[m
+2012-08-24 05:30:51 [INFO] <notsarah> dammit.[m
+2012-08-24 05:30:55 [INFO] <H4ZM4T> heh[m
+2012-08-24 05:31:10 [INFO] <H4ZM4T> I kind of want to light all the trees on fire[m
+2012-08-24 05:31:29 [INFO] <notsarah> heh[m
+2012-08-24 05:32:10 [INFO] <notsarah> hehe[m
+2012-08-24 05:32:23 [INFO] <notsarah> dmamit[m
+2012-08-24 05:32:25 [INFO] <H4ZM4T> please close doors[m
+2012-08-24 05:32:25 [INFO] <notsarah> he didn't die[m
+2012-08-24 05:32:33 [INFO] <notsarah> oh right[m
+2012-08-24 05:32:38 [INFO] <notsarah> they autoclose on my usual server :P[m
+2012-08-24 05:33:07 [INFO] <notsarah> I'm so bad at vanilla minecraft :P[m
+2012-08-24 05:33:10 [INFO] <H4ZM4T> hehe[m
+2012-08-24 05:33:11 [INFO] <H4ZM4T> me too[m
+2012-08-24 05:33:17 [INFO] <H4ZM4T> I was so used to tekkit[m
+2012-08-24 05:34:48 [INFO] <H4ZM4T> holy shit[m
+2012-08-24 05:34:51 [INFO] <notsarah> mm?[m
+2012-08-24 05:34:51 [INFO] <H4ZM4T> it is all like this[m
+2012-08-24 05:34:54 [INFO] <notsarah> nice[m
+2012-08-24 05:34:56 [INFO] <H4ZM4T> all of the tunnels[m
+2012-08-24 05:35:03 [INFO] <notsarah> appropriate :P[m
+2012-08-24 05:35:34 [INFO] <notsarah> this is rather large.[m
+2012-08-24 05:37:17 [INFO] Read timed out
+2012-08-24 05:37:18 [INFO] notsarah lost connection: disconnect.endOfStream
+2012-08-24 05:39:13 [INFO] notsarah[/60.242.55.223:52795] logged in with entity id 19299 at ([world] 55.677459291153355, 52.0, 27.747328034559196)
+2012-08-24 05:39:17 [INFO] <H4ZM4T> wb[m
+2012-08-24 05:39:26 [INFO] <notsarah> thanks. dropped out[m
+2012-08-24 05:39:28 [INFO] <notsarah> dammit[m
+2012-08-24 05:39:35 [INFO] <notsarah> dropped out but still kept playing[m
+2012-08-24 05:39:37 [INFO] <notsarah> but it did't save[m
+2012-08-24 05:39:53 [INFO] <notsarah> that or you snuck in and filled my hole with ston to freak me out[m
+2012-08-24 05:39:57 [INFO] <H4ZM4T> nope[m
+2012-08-24 05:40:19 [INFO] <H4ZM4T> in this gamemode, trolling allies = getting self killed[m
+2012-08-24 05:40:25 [INFO] <notsarah> heh[m
+2012-08-24 05:40:55 [INFO] <H4ZM4T> this new gravel texture is throwing me off[m
+2012-08-24 05:41:01 [INFO] <H4ZM4T> at a distance I think its cobble[m
+2012-08-24 05:41:08 [INFO] <notsarah> yeah[m
+2012-08-24 05:42:27 [INFO] <notsarah> I've finally found a texture pack I like[m
+2012-08-24 05:42:31 [INFO] <H4ZM4T> yeah>/[m
+2012-08-24 05:42:32 [INFO] <H4ZM4T> ?[m
+2012-08-24 05:42:32 [INFO] <notsarah> it's 64x default :P[m
+2012-08-24 05:42:38 [INFO] <H4ZM4T> wait[m
+2012-08-24 05:42:39 [INFO] <H4ZM4T> what[m
+2012-08-24 05:42:42 [INFO] <H4ZM4T> thats a thing?[m
+2012-08-24 05:42:44 [INFO] <notsarah> yeah[m
+2012-08-24 05:42:49 [INFO] <H4ZM4T> in vanilla?[m
+2012-08-24 05:42:50 [INFO] <notsarah> all the nondeafult ones I tried I just didn't like[m
+2012-08-24 05:42:53 [INFO] <notsarah> they felt too not-minecraft[m
+2012-08-24 05:42:57 [INFO] <notsarah> nah, it's a texture pack[m
+2012-08-24 05:43:01 [INFO] <H4ZM4T> ah kk[m
+2012-08-24 05:43:07 [INFO] <H4ZM4T> sphax is pretty good though[m
+2012-08-24 05:43:17 [INFO] <notsarah> this doesn't look like it's trying to be a not-minecraft game[m
+2012-08-24 05:43:22 [INFO] <notsarah> but it also looks less pixely[m
+2012-08-24 05:43:32 [INFO] <H4ZM4T> read: less shite[m
+2012-08-24 05:43:38 [INFO] <notsarah> mhmm[m
+2012-08-24 05:43:42 [INFO] <notsarah> the font is higher definition[m
+2012-08-24 05:43:44 [INFO] <notsarah> hurts my eyes less[m
+2012-08-24 05:44:27 [INFO] <notsarah> oh lol, I can see my skin because I'm not wearing armor[m
+2012-08-24 05:44:31 [INFO] <notsarah> I look like my minecraft character irl[m
+2012-08-24 05:44:34 [INFO] <H4ZM4T> hehe[m
+2012-08-24 05:44:37 [INFO] <H4ZM4T> shiny[m
+2012-08-24 05:44:40 [INFO] <notsarah> purple hair, grey jeans, a black and purple striped sweatshirt[m
+2012-08-24 05:44:47 [INFO] <H4ZM4T> wait, are you in pokesoc?[m
+2012-08-24 05:44:51 [INFO] <notsarah> although i usually wear my hat with cat ears too[m
+2012-08-24 05:44:57 [INFO] <notsarah> the facebook group, yeah[m
+2012-08-24 05:44:59 [INFO] <notsarah> I've never been to a thing[m
+2012-08-24 05:45:18 [INFO] <H4ZM4T> but as in, are you the one who goes to meets (I rarely do, but someone there has purple hair)[m
+2012-08-24 05:45:25 [INFO] <notsarah> nope[m
+2012-08-24 05:45:32 [INFO] <notsarah> dammit, I'm not unique ;_;[m
+2012-08-24 05:47:16 [INFO] <notsarah> have any food?[m
+2012-08-24 05:47:20 [INFO] <H4ZM4T> not much[m
+2012-08-24 05:47:26 [INFO] <notsarah> maybe i'll make stew[m
+2012-08-24 05:47:36 [INFO] <H4ZM4T> save some for growing giant mushrooms[m
+2012-08-24 05:47:44 [INFO] <H4ZM4T> hehe[m
+2012-08-24 05:47:50 [INFO] <notsarah> dammit[m
+2012-08-24 05:47:51 [INFO] <notsarah> lost[m
+2012-08-24 05:47:56 [INFO] <H4ZM4T> we should destroy all the trees and replace them with mushrooms[m
+2012-08-24 05:48:00 [INFO] <notsarah> heh[m
+2012-08-24 05:48:26 [INFO] <notsarah> how do you grow giant mushrooms?[m
+2012-08-24 05:48:29 [INFO] <H4ZM4T> you can find me[m
+2012-08-24 05:48:36 [INFO] <H4ZM4T> via my headbarthing[m
+2012-08-24 05:48:41 [INFO] <H4ZM4T> you use bone meal[m
+2012-08-24 05:48:55 [INFO] <notsarah> aha[m
+2012-08-24 05:48:59 [INFO] <H4ZM4T> also, light this place up like a xmas tree[m
+2012-08-24 05:49:04 [INFO] <notsarah> yup[m
+2012-08-24 05:49:05 [INFO] <notsarah> I have bone meal :P[m
+2012-08-24 05:49:40 [INFO] <notsarah> gold down here[m
+2012-08-24 05:49:45 [INFO] <H4ZM4T> nice[m
+2012-08-24 05:49:50 [WARNING] notsarah moved wrongly!
+2012-08-24 05:49:56 [INFO] <H4ZM4T> mushies glow....[m
+2012-08-24 05:49:58 [INFO] <H4ZM4T> ever so slightly[m
+2012-08-24 05:50:02 [INFO] <notsarah> yup[m
+2012-08-24 05:50:04 [INFO] <notsarah> heh[m
+2012-08-24 05:50:07 [INFO] <notsarah> shit[m
+2012-08-24 05:50:08 [INFO] <notsarah> starving[m
+2012-08-24 05:50:15 [INFO] <H4ZM4T> oooh[m
+2012-08-24 05:50:17 [INFO] <H4ZM4T> free bow[m
+2012-08-24 05:50:46 [INFO] <notsarah> dammit[m
+2012-08-24 05:50:47 [INFO] <notsarah> so lost[m
+2012-08-24 05:50:48 [INFO] <notsarah> where is home[m
+2012-08-24 05:51:01 [INFO] <H4ZM4T> go back to lavas[m
+2012-08-24 05:51:07 [INFO] <notsarah> ther'es lava everywhere[m
+2012-08-24 05:51:18 [INFO] <H4ZM4T> can't hjelp then[m
+2012-08-24 05:51:56 [INFO] <notsarah> mushroom stew ftw[m
+2012-08-24 05:54:55 [INFO] <notsarah> aha[m
+2012-08-24 05:54:56 [INFO] <notsarah> found it[m
+2012-08-24 05:54:58 [INFO] <H4ZM4T> ?[m
+2012-08-24 05:55:09 [INFO] <notsarah> home sweet home[m
+2012-08-24 05:55:13 [INFO] <H4ZM4T> heh[m
+2012-08-24 05:56:50 [INFO] <notsarah> dammit my wheat didn't grow[m
+2012-08-24 05:57:07 [INFO] <notsarah> what. no seeds back D:[m
+2012-08-24 05:57:24 [INFO] <H4ZM4T> only from fully grown stuff[m
+2012-08-24 05:57:29 [INFO] <notsarah> it was[m
+2012-08-24 05:57:29 [INFO] <notsarah> I bonemealed it[m
+2012-08-24 05:57:46 [INFO] <notsarah> I got a wheat[m
+2012-08-24 05:58:47 [INFO] <notsarah> mkay. wheat farm[m
+2012-08-24 06:01:59 [INFO] Connection reset
+2012-08-24 06:01:59 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 06:02:31 [INFO] H4ZM4T[/60.241.170.155:54760] logged in with entity id 32676 at ([world] 75.38845389643383, 53.0, 129.96897490282547)
+2012-08-24 06:02:36 [INFO] <notsarah> hiya[m
+2012-08-24 06:02:39 [INFO] <H4ZM4T> hehe[m
+2012-08-24 06:02:40 [INFO] <H4ZM4T> back[m
+2012-08-24 06:02:45 [INFO] <notsarah> tada[m
+2012-08-24 06:04:00 [INFO] <notsarah> signs pointing to the entrance :P[m
+2012-08-24 06:04:23 [INFO] <H4ZM4T> awesome, thanks[m
+2012-08-24 06:04:29 [INFO] <notsarah> I'll make more[m
+2012-08-24 06:04:33 [INFO] <notsarah> gonna chop some wood I think[m
+2012-08-24 06:04:38 [INFO] <notsarah> nope, it's night[m
+2012-08-24 06:04:48 [INFO] <H4ZM4T> there are some vines underground[m
+2012-08-24 06:04:49 [INFO] <H4ZM4T> odd[m
+2012-08-24 06:05:00 [INFO] <notsarah> cool/weird[m
+2012-08-24 06:07:11 [WARNING] notsarah moved wrongly!
+2012-08-24 06:07:43 [INFO] Connection reset
+2012-08-24 06:07:43 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-24 06:07:53 [INFO] notsarah[/60.242.55.223:53070] logged in with entity id 35328 at ([world] 59.22190314464329, 29.0, 73.66042858879237)
+2012-08-24 06:15:00 [INFO] adrianjboyer[/121.209.249.44:54365] logged in with entity id 40259 at ([world] 1.5, 70.62000000476837, 2.5)
+2012-08-24 06:15:03 [INFO] <H4ZM4T> evening[m
+2012-08-24 06:15:04 [INFO] <notsarah> hey[m
+2012-08-24 06:15:18 [INFO] <adrianjboyer> i am extremely drunk[m
+2012-08-24 06:15:22 [INFO] <notsarah> cool[m
+2012-08-24 06:15:27 [INFO] <notsarah> what's that like?[m
+2012-08-24 06:15:29 [INFO] <H4ZM4T> hehe[m
+2012-08-24 06:15:46 [INFO] <adrianjboyer> thought i should preface my behaviour with that[m
+2012-08-24 06:15:55 [INFO] <H4ZM4T> hai[m
+2012-08-24 06:15:59 [INFO] <H4ZM4T> spawn[m
+2012-08-24 06:16:00 [INFO] <adrianjboyer> hi[m
+2012-08-24 06:16:00 [INFO] <H4ZM4T> wont work[m
+2012-08-24 06:21:05 [INFO] <notsarah> o_o[m
+2012-08-24 06:21:07 [INFO] <H4ZM4T> ?[m
+2012-08-24 06:21:22 [INFO] <notsarah> diamonds :D[m
+2012-08-24 06:21:25 [INFO] <H4ZM4T> :D[m
+2012-08-24 06:27:31 [INFO] <notsarah> fuck[m
+2012-08-24 06:27:33 [INFO] <H4ZM4T> ?[m
+2012-08-24 06:27:35 [INFO] <H4ZM4T> oh[m
+2012-08-24 06:27:41 [INFO] <notsarah> I had diamonds.[m
+2012-08-24 06:27:46 [INFO] <notsarah> 8, 151[m
+2012-08-24 06:27:55 [INFO] <H4ZM4T> can't help[m
+2012-08-24 06:27:56 [INFO] <H4ZM4T> lava[m
+2012-08-24 06:28:04 [INFO] <notsarah> I walked into the lava[m
+2012-08-24 06:28:07 [INFO] <notsarah> there was a nice safe place[m
+2012-08-24 06:28:11 [INFO] <notsarah> but yeah[m
+2012-08-24 06:28:12 [INFO] <notsarah> I should sleep :P[m
+2012-08-24 06:28:14 [INFO] Connection reset
+2012-08-24 06:28:14 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-24 06:33:05 [INFO] Connection reset
+2012-08-24 06:33:05 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 06:49:13 [INFO] H4ZM4T[/60.241.170.155:55090] logged in with entity id 69488 at ([world] 49.30000001192083, 58.0, 25.569387211748335)
+2012-08-24 06:55:27 [INFO] <adrianjboyer> go to zleeeep[m
+2012-08-24 06:55:31 [INFO] <H4ZM4T> no can do[m
+2012-08-24 06:59:23 [INFO] Connection reset
+2012-08-24 06:59:23 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 07:06:03 [INFO] H4ZM4T[/60.241.170.155:55557] logged in with entity id 89718 at ([world] 28.30000001192093, 66.0, -229.69999998807907)
+2012-08-24 07:13:06 [INFO] Connection reset
+2012-08-24 07:13:06 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-08-24 07:46:10 [INFO] mebeme[/60.241.170.155:49721] logged in with entity id 212847 at ([world] -3.5, 71.62000000476837, -6.5)
+2012-08-24 07:47:31 [INFO] Connection reset
+2012-08-24 07:47:31 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 07:48:02 [INFO] H4ZM4T[/60.241.170.155:56119] logged in with entity id 214156 at ([world] -164.38000140643436, 51.0, -53.97105783810059)
+2012-08-24 07:49:15 [INFO] <mebeme> ahoy asshole[m
+2012-08-24 07:49:20 [INFO] <H4ZM4T> ahoy[m
+2012-08-24 07:51:27 [INFO] There are 2/20 players online:
+mebeme, H4ZM4T[m
+2012-08-24 07:57:23 [INFO] lluoc[/14.200.158.249:59056] logged in with entity id 223758 at ([world] -31.470552939876008, 64.0, 56.04650864349616)
+2012-08-24 07:57:31 [INFO] <lluoc> hey[m
+2012-08-24 07:57:34 [INFO] <mebeme> o/[m
+2012-08-24 07:57:53 [INFO] lluoc: Opped H4ZM4T[m
+2012-08-24 07:58:03 [INFO] lluoc: Set own game mode to SURVIVAL mode[m
+2012-08-24 07:58:18 [INFO] <H4ZM4T> ohai[m
+2012-08-24 07:58:26 [INFO] <H4ZM4T> (lluoc)[m
+2012-08-24 07:58:28 [INFO] <lluoc> you are op again[m
+2012-08-24 07:58:33 [INFO] <H4ZM4T> shiny[m
+2012-08-24 07:58:35 [INFO] <H4ZM4T> :D[m
+2012-08-24 07:58:52 [INFO] <lluoc> how is the map?[m
+2012-08-24 07:58:57 [INFO] <mebeme> secure >:([m
+2012-08-24 07:59:01 [INFO] <lluoc> heh heh[m
+2012-08-24 07:59:34 [INFO] <H4ZM4T> you say you made the world with world painter[m
+2012-08-24 07:59:40 [INFO] <lluoc> ya[m
+2012-08-24 07:59:43 [INFO] <H4ZM4T> but did you make the tunnels that way?[m
+2012-08-24 08:00:11 [INFO] <H4ZM4T> right next to spawn next to the river is my first hovel[m
+2012-08-24 08:00:18 [INFO] <H4ZM4T> I am a little more secluded at the moment[m
+2012-08-24 08:00:28 [INFO] <lluoc> ahh spider[m
+2012-08-24 08:00:28 [INFO] <H4ZM4T> but go down into my first hovel and have a look at the cave system[m
+2012-08-24 08:00:48 [INFO] <lluoc> umm, the caves would have been done with world paibnter[m
+2012-08-24 08:00:55 [INFO] <lluoc> I'll look at them soon[m
+2012-08-24 08:00:59 [INFO] <H4ZM4T> also, I doubt we will have issues with resources what with there not being much in the way of people[m
+2012-08-24 08:01:18 [INFO] <lluoc> yeah... so why is there a chest here[m
+2012-08-24 08:01:23 [INFO] <lluoc> that seems to have ALL the clay[m
+2012-08-24 08:01:31 [INFO] <H4ZM4T> heheheh[m
+2012-08-24 08:01:36 [INFO] <H4ZM4T> it has barely any[m
+2012-08-24 08:01:42 [INFO] <H4ZM4T> I have 3 stacks of clay blocks right now[m
+2012-08-24 08:02:24 [INFO] <lluoc> thus has 30+ stacks[m
+2012-08-24 08:02:28 [INFO] <lluoc> ...[m
+2012-08-24 08:02:39 [INFO] <H4ZM4T> that entire hole in the sand there, was clay[m
+2012-08-24 08:02:42 [INFO] <H4ZM4T> like 5 deeps[m
+2012-08-24 08:03:14 [INFO] <lluoc> ... ok[m
+2012-08-24 08:03:25 [INFO] <lluoc> thats weird[m
+2012-08-24 08:03:37 [INFO] <H4ZM4T> world painter has put some clay in the middle of forests too[m
+2012-08-24 08:03:40 [INFO] <H4ZM4T> its a bit weird[m
+2012-08-24 08:03:47 [INFO] <lluoc> heh, i noticed that[m
+2012-08-24 08:04:36 [INFO] <lluoc> actually sand here should be the raraest common resourse here[m
+2012-08-24 08:04:43 [INFO] <H4ZM4T> indeed[m
+2012-08-24 08:04:48 [INFO] <H4ZM4T> I noticed[m
+2012-08-24 08:04:55 [INFO] <H4ZM4T> hence the not over excessive use of glass[m
+2012-08-24 08:05:17 [INFO] <lluoc> hmm, where was spawn again[m
+2012-08-24 08:05:47 [INFO] <H4ZM4T> did you go into the tunnel?[m
+2012-08-24 08:05:59 [INFO] <lluoc> umm< just a sec[m
+2012-08-24 08:07:18 [INFO] <lluoc> ok. where is it[m
+2012-08-24 08:07:27 [INFO] <H4ZM4T> go into where you saw the clay[m
+2012-08-24 08:07:32 [INFO] <H4ZM4T> down the stairs[m
+2012-08-24 08:07:35 [INFO] <H4ZM4T> and through the door[m
+2012-08-24 08:07:38 [INFO] <H4ZM4T> then look round[m
+2012-08-24 08:07:42 [INFO] <lluoc> hello[m
+2012-08-24 08:07:43 [INFO] <lluoc> glass[m
+2012-08-24 08:07:54 [INFO] <lluoc> oh wow[m
+2012-08-24 08:07:57 [INFO] <H4ZM4T> ya[m
+2012-08-24 08:08:06 [INFO] <H4ZM4T> hence why I asked[m
+2012-08-24 08:08:08 [INFO] <lluoc> oh yeah, i tested a nether[m
+2012-08-24 08:08:12 [INFO] <lluoc> there wasn't a top[m
+2012-08-24 08:08:13 [INFO] <H4ZM4T> yeah?[m
+2012-08-24 08:08:16 [INFO] <H4ZM4T> o.o[m
+2012-08-24 08:08:19 [INFO] <H4ZM4T> kind of cool[m
+2012-08-24 08:08:19 [INFO] <lluoc> it was amaxing to fly though[m
+2012-08-24 08:08:24 [INFO] <lluoc> but broken[m
+2012-08-24 08:08:32 [INFO] <H4ZM4T> means we can build above the ghasts[m
+2012-08-24 08:08:35 [INFO] <H4ZM4T> broken....how?[m
+2012-08-24 08:08:41 [INFO] <lluoc> hard to keep people in[m
+2012-08-24 08:08:49 [INFO] <H4ZM4T> hehe[m
+2012-08-24 08:08:50 [INFO] <H4ZM4T> indeed[m
+2012-08-24 08:08:58 [INFO] <lluoc> cause after they get [ast 3000 ish in the nether they can portal out[m
+2012-08-24 08:09:16 [INFO] <lluoc> I kind of like this cave system[m
+2012-08-24 08:09:19 [INFO] <H4ZM4T> so make the nether walled off at 1/8*384[m
+2012-08-24 08:09:29 [INFO] <H4ZM4T> yeah, this cave system is cool[m
+2012-08-24 08:09:35 [INFO] <lluoc> annoying to do[m
+2012-08-24 08:09:42 [INFO] <lluoc> umm, gtg[m
+2012-08-24 08:09:44 [INFO] Connection reset
+2012-08-24 08:09:44 [INFO] lluoc lost connection: disconnect.quitting
+2012-08-24 08:09:47 [INFO] <H4ZM4T> kkbai[m
+2012-08-24 08:19:24 [INFO] <mebeme> You near your bed?[m
+2012-08-24 08:19:31 [INFO] <H4ZM4T> gimme a sec[m
+2012-08-24 08:19:53 [INFO] <H4ZM4T> mhmm[m
+2012-08-24 08:19:55 [INFO] <H4ZM4T> in bed[m
+2012-08-24 08:19:58 [INFO] Connection reset
+2012-08-24 08:19:58 [INFO] mebeme lost connection: disconnect.quitting
+2012-08-24 08:20:16 [INFO] mebeme[/60.241.170.155:50424] logged in with entity id 252406 at ([world] 252.7880817828688, 66.0, 112.6942141187055)
+2012-08-24 08:20:20 [INFO] <mebeme> cheers[m
+2012-08-24 08:22:40 [INFO] <H4ZM4T> resources seem much rarer than theyu are in tekkit[m
+2012-08-24 08:23:10 [INFO] <mebeme> Less god damn bluite[m
+2012-08-24 08:23:57 [INFO] <mebeme> Wait.. do passive mobs still respawn since mob farming was added?[m
+2012-08-24 08:24:11 [INFO] <H4ZM4T> uh[m
+2012-08-24 08:24:12 [INFO] <H4ZM4T> yes[m
+2012-08-24 08:24:16 [INFO] <H4ZM4T> but VERY slowly[m
+2012-08-24 08:24:51 [INFO] <H4ZM4T> this is odd[m
+2012-08-24 08:24:55 [INFO] <H4ZM4T> no redstone[m
+2012-08-24 08:24:58 [INFO] <H4ZM4T> very little coal[m
+2012-08-24 08:25:01 [INFO] <mebeme> What? no-where?[m
+2012-08-24 08:25:03 [INFO] <H4ZM4T> like, 2 iron[m
+2012-08-24 08:25:23 [INFO] <H4ZM4T> haven't found any, and I have gone 20 blocks at 10[m
+2012-08-24 08:25:33 [INFO] <mebeme> pfft, you are jsut too used to tekkit[m
+2012-08-24 08:25:50 [INFO] <mebeme> redstone is really rare when you WANT to find it[m
+2012-08-24 08:26:16 [INFO] <mebeme> .. for example, I found some..[m
+2012-08-24 08:26:22 [INFO] <mebeme> no iron so I can't get through it[m
+2012-08-24 08:26:29 [INFO] <H4ZM4T> hehe[m
+2012-08-24 08:27:56 [INFO] <H4ZM4T> REDSTONE[m
+2012-08-24 08:29:02 [INFO] <H4ZM4T> Suddenly, ALL the minerals[m
+2012-08-24 08:31:45 [INFO] <H4ZM4T> HOLYSHIT[m
+2012-08-24 08:31:52 [INFO] <H4ZM4T> ALL OF THE SKELLIES[m
+2012-08-24 08:31:52 [INFO] <mebeme> ..?[m
+2012-08-24 08:31:53 [INFO] <H4ZM4T> OW[m
+2012-08-24 08:31:56 [INFO] <mebeme> xD[m
+2012-08-24 08:32:09 [INFO] Connection reset
+2012-08-24 08:32:09 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 08:32:14 [INFO] H4ZM4T[/60.241.170.155:56664] logged in with entity id 267542 at ([world] -202.80833765682806, 11.5, -55.69999998807907)
+2012-08-24 08:38:17 [INFO] Connection reset
+2012-08-24 08:38:17 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 08:42:44 [INFO] <mebeme> ffs[m
+2012-08-24 09:14:54 [INFO] Connection reset
+2012-08-24 09:14:54 [INFO] mebeme lost connection: disconnect.quitting
+2012-08-24 19:22:49 [INFO] H4ZM4T[/60.241.170.155:56991] logged in with entity id 306049 at ([world] -151.17806020009644, 61.0, -53.43711167720494)
+2012-08-24 19:44:10 [INFO] Connection reset
+2012-08-24 19:44:10 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-08-24 21:05:14 [INFO] There are 0/20 players online:
+[m
+2012-08-24 23:35:58 [INFO] adrianjboyer[/121.209.249.44:55628] logged in with entity id 320733 at ([world] -127.69999998807907, 56.0, 244.75942681928697)
+2012-08-24 23:46:30 [INFO] Connection reset
+2012-08-24 23:46:30 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-08-24 23:49:58 [INFO] There are 0/20 players online:
+[m
+2012-08-24 23:58:24 [INFO] ozymandias12345[/149.171.116.234:56314] logged in with entity id 326360 at ([world] -0.5, 70.62000000476837, -8.5)
+2012-08-25 00:01:40 [INFO] Connection reset
+2012-08-25 00:01:40 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-08-25 00:21:17 [INFO] notsarah[/1.124.36.45:58712] logged in with entity id 327691 at ([world] -1.5662134198487927, 70.0, 4.80303421511492)
+2012-08-25 00:21:22 [INFO] Connection reset
+2012-08-25 00:21:22 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 02:27:06 [INFO] notsarah[/149.171.230.235:49139] logged in with entity id 328053 at ([world] 0.1162663113369572, 70.0, 5.1532708281044535)
+2012-08-25 02:43:26 [INFO] Connection reset
+2012-08-25 02:43:26 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 06:11:25 [INFO] notsarah[/60.242.55.223:50343] logged in with entity id 338057 at ([world] 87.3000000119209, 51.0, 64.81022572691307)
+2012-08-25 06:20:04 [INFO] Connection reset
+2012-08-25 06:20:04 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 06:20:21 [INFO] notsarah[/60.242.55.223:50443] logged in with entity id 343190 at ([world] 78.55546330301314, 56.0, 38.53372219564402)
+2012-08-25 06:26:53 [INFO] nightkhaos[/121.210.113.99:57650] logged in with entity id 348625 at ([world] -8.5, 72.62000000476837, -3.5)
+2012-08-25 06:26:56 [INFO] <notsarah> :)[m
+2012-08-25 06:27:04 [INFO] <nightkhaos> hello[m
+2012-08-25 06:27:22 [INFO] <notsarah> ooh, kitties :D[m
+2012-08-25 06:27:36 [INFO] <notsarah> the map is 300 by 300[m
+2012-08-25 06:27:38 [INFO] <notsarah> it's interesting.[m
+2012-08-25 06:27:52 [INFO] <nightkhaos> only 300 by 300?[m
+2012-08-25 06:27:53 [INFO] <notsarah> curretly hunting down red mushrooms, and seeds[m
+2012-08-25 06:28:00 [INFO] <notsarah> so I can make aminals and more red mushrooms[m
+2012-08-25 06:31:10 [INFO] <nightkhaos> hai[m
+2012-08-25 06:31:12 [INFO] <notsarah> hiya[m
+2012-08-25 06:31:51 [INFO] <notsarah> I really gotta find some iron... I had heaps of stuff yesterday, diamonds even[m
+2012-08-25 06:31:55 [INFO] <notsarah> but I was half asleep so I fell into lava[m
+2012-08-25 06:34:06 [INFO] <notsarah> why can't I make this grow[m
+2012-08-25 06:34:15 [INFO] <nightkhaos> MORE light?[m
+2012-08-25 06:35:13 [INFO] <notsarah> out of bonemeal :([m
+2012-08-25 06:39:48 [INFO] <nightkhaos> clever[m
+2012-08-25 06:39:52 [INFO] <notsarah> :)[m
+2012-08-25 06:39:56 [INFO] <notsarah> making this place be uh[m
+2012-08-25 06:40:07 [INFO] <notsarah> this big but square[m
+2012-08-25 06:40:18 [INFO] <notsarah> so 9 by 9 but with a border, so 10 by 10[m
+2012-08-25 06:40:20 [INFO] <notsarah> by 3[m
+2012-08-25 06:40:21 [INFO] <notsarah> :)[m
+2012-08-25 06:41:05 [INFO] <nightkhaos> skeli![m
+2012-08-25 06:41:23 [INFO] <notsarah> eek[m
+2012-08-25 06:41:25 [INFO] <nightkhaos> :([m
+2012-08-25 06:41:55 [INFO] <notsarah> woohoo[m
+2012-08-25 06:41:56 [INFO] <notsarah> killed it[m
+2012-08-25 06:42:51 [INFO] <nightkhaos> got some bones![m
+2012-08-25 06:42:53 [INFO] <notsarah> :)[m
+2012-08-25 06:43:00 [INFO] <notsarah> gonna grow wheat here if you want to help[m
+2012-08-25 06:43:08 [INFO] <nightkhaos> sure.[m
+2012-08-25 06:43:26 [INFO] <notsarah> then I'll make an animal pen somewhere[m
+2012-08-25 06:45:30 [INFO] * notsarah waves[m
+2012-08-25 06:45:46 [INFO] <nightkhaos> xD[m
+2012-08-25 06:46:10 [INFO] <notsarah> aw man[m
+2012-08-25 06:46:12 [INFO] <notsarah> broke my pickaxe[m
+2012-08-25 06:46:23 [INFO] <nightkhaos> take that one[m
+2012-08-25 06:46:27 [INFO] <notsarah> thaks[m
+2012-08-25 06:46:29 [INFO] <notsarah> now I have two :D[m
+2012-08-25 06:46:36 [INFO] <notsarah> wish I had those diamonds bakc[m
+2012-08-25 06:46:39 [INFO] <notsarah> I'd have made an enchantment table[m
+2012-08-25 06:46:42 [INFO] <nightkhaos> now to find some diamonds. :P[m
+2012-08-25 06:46:53 [INFO] <notsarah> if you can find my tunnel from yesterday, they're in there :P[m
+2012-08-25 06:47:02 [INFO] <notsarah> there were unmined oes still[m
+2012-08-25 06:47:37 [INFO] <nightkhaos> one iron[m
+2012-08-25 06:47:47 [INFO] <notsarah> coolcool[m
+2012-08-25 06:48:14 [INFO] <nightkhaos> 3[m
+2012-08-25 06:48:32 [INFO] <notsarah> :([m
+2012-08-25 06:48:39 [INFO] <nightkhaos> damn spider...[m
+2012-08-25 06:48:46 [INFO] <nightkhaos> can't deal with you and a SKil[m
+2012-08-25 06:48:47 [INFO] <notsarah> shall we make a beeffarm so we have leather?[m
+2012-08-25 06:48:56 [INFO] <nightkhaos> good idea[m
+2012-08-25 06:48:58 [INFO] <notsarah> I have 18 wheat[m
+2012-08-25 06:48:59 [INFO] <nightkhaos> let me get my tools[m
+2012-08-25 06:49:01 [INFO] <notsarah> sure[m
+2012-08-25 06:49:20 [INFO] <notsarah> make a 3x3x3 hole in the ground and lead cows into it with wheat[m
+2012-08-25 06:49:22 [INFO] <notsarah> then partially cover it up[m
+2012-08-25 06:49:22 [INFO] <nightkhaos> *sigh* creeper[m
+2012-08-25 06:49:24 [INFO] <nightkhaos> fun[m
+2012-08-25 06:50:54 [INFO] <nightkhaos> spider eye![m
+2012-08-25 06:50:56 [INFO] <notsarah> :)[m
+2012-08-25 06:51:51 [INFO] <nightkhaos> hey. :([m
+2012-08-25 06:51:53 [INFO] <notsarah> in wall[m
+2012-08-25 06:52:02 [INFO] <notsarah> looks better :)[m
+2012-08-25 06:52:21 [INFO] <nightkhaos> where is my iron?[m
+2012-08-25 06:52:28 [INFO] <notsarah> how many were in there?[m
+2012-08-25 06:52:30 [INFO] <nightkhaos> 3[m
+2012-08-25 06:52:38 [INFO] <notsarah> they ended up in my inv[m
+2012-08-25 06:53:45 [INFO] <nightkhaos> IRON PIC![m
+2012-08-25 06:53:55 [INFO] <notsarah> :)[m
+2012-08-25 06:54:03 [INFO] <nightkhaos> interesting[m
+2012-08-25 06:54:16 [INFO] <notsarah> xkcd.com/861 :P[m
+2012-08-25 06:54:20 [INFO] <notsarah> (I think)[m
+2012-08-25 06:54:25 [INFO] <notsarah> ("wisdom teeth")[m
+2012-08-25 06:54:30 [INFO] <nightkhaos> i know the one[m
+2012-08-25 06:54:56 [INFO] <notsarah> looks pretty :)[m
+2012-08-25 06:55:02 [INFO] <nightkhaos> expensive through[m
+2012-08-25 06:55:34 [INFO] <notsarah> what, cobble? :P[m
+2012-08-25 06:55:39 [INFO] <nightkhaos> point[m
+2012-08-25 06:55:51 [INFO] <notsarah> make this wall just cobble[m
+2012-08-25 06:56:29 [INFO] <notsarah> so hey, you're a cs major right?[m
+2012-08-25 06:56:32 [INFO] <nightkhaos> yes[m
+2012-08-25 06:56:34 [INFO] <nightkhaos> why?[m
+2012-08-25 06:56:36 [INFO] <notsarah> what sort of stuff are you into?[m
+2012-08-25 06:56:48 [INFO] <nightkhaos> games? do they count?[m
+2012-08-25 06:56:50 [INFO] <notsarah> :P[m
+2012-08-25 06:56:59 [INFO] <notsarah> what's your favorite course you've done so far?[m
+2012-08-25 06:57:07 [INFO] <notsarah> if you were doing a phd what would you do it in?[m
+2012-08-25 06:57:08 [INFO] <notsarah> etc[m
+2012-08-25 06:57:10 [INFO] <nightkhaos> Extended OS[m
+2012-08-25 06:57:17 [INFO] <notsarah> is that the death one or is that AOS?[m
+2012-08-25 06:57:22 [INFO] <nightkhaos> the death one is AOS[m
+2012-08-25 06:57:27 [INFO] <notsarah> heh[m
+2012-08-25 06:57:29 [INFO] <notsarah> so I should do EOS[m
+2012-08-25 06:57:31 [INFO] <notsarah> so I can do AOS[m
+2012-08-25 06:57:34 [INFO] <nightkhaos> tried that... didn't get very far[m
+2012-08-25 06:57:35 [INFO] <notsarah> right? :P[m
+2012-08-25 06:57:37 [INFO] <notsarah> sure[m
+2012-08-25 06:58:18 [INFO] <notsarah> there's stone in one of the furnaces[m
+2012-08-25 06:58:24 [INFO] <notsarah> just in case you're as ocd as me :P[m
+2012-08-25 06:59:20 [INFO] <notsarah> pretty room is pretty :)[m
+2012-08-25 07:00:00 [INFO] <notsarah> moat? :P[m
+2012-08-25 07:01:49 [INFO] <notsarah> ow[m
+2012-08-25 07:02:38 [INFO] lluoc[/14.200.158.249:57430] logged in with entity id 369337 at ([world] 101.77035151521675, 35.0, 124.64646055176854)
+2012-08-25 07:02:41 [INFO] <notsarah> heya[m
+2012-08-25 07:02:45 [INFO] <lluoc> hey[m
+2012-08-25 07:03:03 [INFO] <lluoc> so, hows the map?[m
+2012-08-25 07:03:07 [INFO] <notsarah> fun :)[m
+2012-08-25 07:03:12 [INFO] <notsarah> not enough sugarcane[m
+2012-08-25 07:03:14 [INFO] <notsarah> I want cake[m
+2012-08-25 07:03:31 [INFO] <lluoc> hey[m
+2012-08-25 07:03:39 [INFO] <lluoc> hey[m
+2012-08-25 07:03:44 [INFO] <nightkhaos> i'm building[m
+2012-08-25 07:03:51 [INFO] <lluoc> hidden[m
+2012-08-25 07:04:01 [INFO] <notsarah> where the hell is out?![m
+2012-08-25 07:04:05 [INFO] <lluoc> up[m
+2012-08-25 07:04:08 [INFO] <notsarah> duh :P[m
+2012-08-25 07:04:20 [INFO] <lluoc> this cave system...[m
+2012-08-25 07:04:28 [INFO] <notsarah> is intense?[m
+2012-08-25 07:04:37 [INFO] <notsarah> tada[m
+2012-08-25 07:04:41 [INFO] <lluoc> yeah. Wasn't expecting it[m
+2012-08-25 07:04:43 [INFO] <notsarah> ooh, pretty[m
+2012-08-25 07:05:11 [INFO] <nightkhaos> sarah, more iron[m
+2012-08-25 07:05:14 [INFO] <notsarah> :)[m
+2012-08-25 07:05:23 [INFO] <lluoc> I'm getting windy ambient noise down here...[m
+2012-08-25 07:05:50 [INFO] <notsarah> have spare iron to make two buckets/[m
+2012-08-25 07:05:54 [INFO] <notsarah> as in, a second one?[m
+2012-08-25 07:06:14 [INFO] <nightkhaos> sadly not... just found one ore[m
+2012-08-25 07:06:18 [INFO] <notsarah> sokay[m
+2012-08-25 07:06:32 [INFO] <lluoc> there was 4 iron ore in the roof of the cave[m
+2012-08-25 07:06:40 [INFO] <notsarah> there was a metric fuckton yesterday[m
+2012-08-25 07:06:43 [INFO] <notsarah> and I mined it all and fell into lava[m
+2012-08-25 07:06:45 [INFO] <notsarah> urgh[m
+2012-08-25 07:06:49 [INFO] <notsarah> I hate myself :([m
+2012-08-25 07:06:56 [INFO] <lluoc> heh[m
+2012-08-25 07:06:59 [INFO] <notsarah> I had diamonds![m
+2012-08-25 07:07:01 [INFO] <notsarah> thirteen![m
+2012-08-25 07:07:15 [INFO] <lluoc> I has.. nothing as I haven't played yet[m
+2012-08-25 07:07:34 [INFO] <lluoc> hey, was there any suger cane on the map?[m
+2012-08-25 07:07:37 [INFO] <notsarah> nope[m
+2012-08-25 07:07:54 [INFO] <lluoc> hmm...[m
+2012-08-25 07:08:00 [INFO] <notsarah> you'd better add some.[m
+2012-08-25 07:08:01 [INFO] <notsarah> and give it to me.[m
+2012-08-25 07:08:02 [INFO] <notsarah> :P[m
+2012-08-25 07:08:08 [INFO] lluoc: Set own game mode to CREATIVE mode[m
+2012-08-25 07:08:16 [INFO] <lluoc> I'll add some somewhere[m
+2012-08-25 07:08:37 [INFO] <nightkhaos> maybe 4 was a bad gradient for this idea[m
+2012-08-25 07:08:40 [INFO] <notsarah> :P[m
+2012-08-25 07:09:41 [INFO] <notsarah> woohoo, water physics[m
+2012-08-25 07:09:44 [INFO] <notsarah> we has a moat[m
+2012-08-25 07:09:56 [INFO] <nightkhaos> and a driveway...[m
+2012-08-25 07:10:04 [INFO] <notsarah> extend it to this door? :)[m
+2012-08-25 07:10:30 [INFO] <nightkhaos> I'm going to make it turn around now me thinks[m
+2012-08-25 07:10:35 [INFO] <nightkhaos> do a zig zag[m
+2012-08-25 07:10:42 [INFO] <notsarah> sure[m
+2012-08-25 07:11:00 [INFO] <nightkhaos> I need some gravel to finish it[m
+2012-08-25 07:11:05 [INFO] <notsarah> I have 17[m
+2012-08-25 07:11:25 [INFO] <nightkhaos> ty[m
+2012-08-25 07:11:27 [INFO] <notsarah> np[m
+2012-08-25 07:11:33 [INFO] <nightkhaos> IRON[m
+2012-08-25 07:13:05 [INFO] <notsarah> ooh, this is pretty[m
+2012-08-25 07:13:34 [INFO] <notsarah> beefcows[m
+2012-08-25 07:13:45 [INFO] <notsarah> hm, or slep time[m
+2012-08-25 07:14:16 [INFO] <lluoc> ok, I put some cane around. gtg[m
+2012-08-25 07:14:18 [INFO] Connection reset
+2012-08-25 07:14:18 [INFO] lluoc lost connection: disconnect.quitting
+2012-08-25 07:15:18 [INFO] <notsarah> goodbye cruel world[m
+2012-08-25 07:15:23 [INFO] <nightkhaos> goodnight[m
+2012-08-25 07:15:28 [INFO] <notsarah> nono[m
+2012-08-25 07:15:30 [INFO] <notsarah> just killing myself[m
+2012-08-25 07:15:44 [INFO] <notsarah> ran out of food :P[m
+2012-08-25 07:17:05 [INFO] <notsarah> log out for a sec?[m
+2012-08-25 07:17:06 [INFO] <notsarah> so I can sleep[m
+2012-08-25 07:17:09 [INFO] <notsarah> and make it day?[m
+2012-08-25 07:17:34 [INFO] Connection reset
+2012-08-25 07:17:34 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-08-25 07:17:40 [INFO] nightkhaos[/121.210.113.99:58483] logged in with entity id 380677 at ([world] 54.73738935044551, 52.0, 28.06847855866211)
+2012-08-25 07:17:42 [INFO] <notsarah> ty :)[m
+2012-08-25 07:18:12 [INFO] <notsarah> now, where are the beefcows[m
+2012-08-25 07:18:20 [INFO] <nightkhaos> i'm thinking I might stop for a bit. I'll talk to you Facebook?[m
+2012-08-25 07:18:23 [INFO] <notsarah> sure :)[m
+2012-08-25 07:18:31 [INFO] Connection reset
+2012-08-25 07:18:31 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-08-25 07:24:34 [INFO] Connection reset
+2012-08-25 07:24:34 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 08:18:07 [INFO] notsarah[/60.242.55.223:51798] logged in with entity id 385449 at ([world] 123.35724983880493, 67.0, 0.6974401447294832)
+2012-08-25 08:19:02 [INFO] Connection reset
+2012-08-25 08:19:02 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 08:19:21 [INFO] notsarah[/60.242.55.223:51815] logged in with entity id 385818 at ([world] 123.35724983880493, 67.0, 0.6974401447294832)
+2012-08-25 08:31:28 [INFO] Connection reset
+2012-08-25 08:31:28 [INFO] notsarah lost connection: disconnect.endOfStream
+2012-08-25 08:31:43 [INFO] notsarah[/60.242.55.223:51922] logged in with entity id 392626 at ([world] 48.5, 58.0, 25.5)
+2012-08-25 08:53:50 [INFO] Connection reset
+2012-08-25 08:53:50 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 09:22:45 [INFO] notsarah[/60.242.55.223:52181] logged in with entity id 407232 at ([world] 80.81125464320664, 47.0, 10.940360304003644)
+2012-08-25 09:33:40 [INFO] Connection reset
+2012-08-25 09:33:40 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 22:01:44 [INFO] notsarah[/60.242.55.223:42322] logged in with entity id 417426 at ([world] 227.72355586549122, 70.0, 85.5076253461545)
+2012-08-25 22:20:18 [INFO] Connection reset
+2012-08-25 22:20:18 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-25 23:32:10 [INFO] adrianjboyer[/121.209.249.44:57191] logged in with entity id 430352 at ([world] -127.5, 56.0, 243.5)
+2012-08-25 23:34:51 [INFO] Connection reset
+2012-08-25 23:34:51 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-08-26 02:30:58 [INFO] There are 0/20 players online:
+[m
+2012-08-26 23:20:44 [INFO] notsarah[/124.184.75.47:50522] logged in with entity id 434643 at ([world] 125.39591148816419, 68.0, 1.5312074204959054)
+2012-08-26 23:21:54 [INFO] Connection reset
+2012-08-26 23:21:54 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-26 23:22:01 [INFO] notsarah[/124.184.75.47:50662] logged in with entity id 435543 at ([world] 123.13340284939973, 69.0, 6.901609038753712)
+2012-08-26 23:22:11 [INFO] Connection reset
+2012-08-26 23:22:11 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-26 23:29:33 [INFO] notsarah[/124.184.75.47:51357] logged in with entity id 435652 at ([world] 123.38450825822439, 69.0, 5.870623539104476)
+2012-08-27 00:25:43 [INFO] Connection reset
+2012-08-27 00:25:43 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-27 05:11:42 [INFO] There are 0/20 players online:
+[m
+2012-08-27 09:25:40 [INFO] NotQuiteAs1[/60.241.170.155:58742] logged in with entity id 467006 at ([world] -4.5, 71.62000000476837, -7.5)
+2012-08-27 09:29:50 [INFO] Connection reset
+2012-08-27 09:29:50 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-08-27 18:34:02 [INFO] notsarah[/60.242.55.223:58320] logged in with entity id 470683 at ([world] 129.85946106704893, 68.0, 0.49573118931443916)
+2012-08-27 18:35:58 [WARNING] notsarah moved wrongly!
+2012-08-27 18:42:04 [INFO] Connection reset
+2012-08-27 18:42:04 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-28 01:05:40 [INFO] notsarah[/60.242.55.223:34293] logged in with entity id 477707 at ([world] 84.30000001192094, 47.0, 19.699999988079075)
+2012-08-28 01:17:18 [WARNING] notsarah moved wrongly!
+2012-08-28 01:20:59 [INFO] Connection reset
+2012-08-28 01:20:59 [INFO] notsarah lost connection: disconnect.quitting
+2012-08-28 05:29:53 [INFO] There are 0/20 players online:
+[m
+2012-08-28 07:41:13 [INFO] daevd[/123.243.194.223:59252] logged in with entity id 489195 at ([world] -0.5, 70.62000000476837, -5.5)
+2012-08-28 08:19:53 [WARNING] daevd moved wrongly!
+2012-08-28 09:18:50 [INFO] dejai[/122.106.254.100:35372] logged in with entity id 857518 at ([world] 7.5, 68.62000000476837, -3.5)
+2012-08-28 09:18:56 [INFO] <dejai> hehehe[m
+2012-08-28 09:18:59 [INFO] <daevd> sh[m
+2012-08-28 09:20:08 [INFO] <daevd> need a torch[m
+2012-08-28 09:20:45 [INFO] <daevd> raining sand[m
+2012-08-28 09:21:57 [INFO] <daevd> coming up?[m
+2012-08-28 09:22:10 [INFO] <daevd> sj[m
+2012-08-28 09:22:11 [INFO] <daevd> dj[m
+2012-08-28 09:22:18 [INFO] <dejai> Getting the basics[m
+2012-08-28 09:22:21 [INFO] <daevd> kk[m
+2012-08-28 09:22:24 [INFO] <daevd> there's stuff up here[m
+2012-08-28 09:22:38 [INFO] <dejai> We need a monopoly on trees[m
+2012-08-28 09:22:39 [INFO] <daevd> can 2 fit on a block?[m
+2012-08-28 09:22:44 [INFO] <daevd> i have a tree upstairs[m
+2012-08-28 09:22:48 [INFO] <daevd> planning on a farm[m
+2012-08-28 09:22:52 [INFO] <dejai> No we need to be the only ones with them[m
+2012-08-28 09:22:56 [INFO] <daevd> i was going to torch these ones[m
+2012-08-28 09:22:59 [INFO] <dejai> Need to get flint[m
+2012-08-28 09:22:59 [INFO] <daevd> but can't find flint[m
+2012-08-28 09:23:47 [INFO] <dejai> Making charcoal[m
+2012-08-28 09:24:08 [INFO] <daevd> watch out for hunger[m
+2012-08-28 09:24:10 [INFO] <daevd> you die quick[m
+2012-08-28 09:26:27 [INFO] <dejai> I thought someone was down here but it was a black sheep lol[m
+2012-08-28 09:26:37 [INFO] <dejai> ugh mc is crashing[m
+2012-08-28 09:26:40 [INFO] Connection reset
+2012-08-28 09:26:40 [INFO] dejai lost connection: disconnect.endOfStream
+2012-08-28 09:37:35 [INFO] Connection reset
+2012-08-28 09:37:35 [INFO] daevd lost connection: disconnect.quitting
+2012-08-29 02:54:13 [INFO] adrianjboyer[/121.209.249.44:60662] logged in with entity id 1126555 at ([world] -116.69999998807907, 35.0, 245.69999998807907)
+2012-08-29 02:59:03 [INFO] Connection reset
+2012-08-29 02:59:03 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-08-30 23:36:21 [INFO] notsarah[/60.242.55.223:53293] logged in with entity id 1133991 at ([world] 58.89987342715503, 57.0, -7.208077134096202)
+2012-08-30 23:37:01 [INFO] Connection reset
+2012-08-30 23:37:01 [INFO] notsarah lost connection: disconnect.quitting
+2012-09-02 02:11:46 [INFO] Starting minecraft server version 1.3.1
+2012-09-02 02:11:46 [INFO] Loading properties
+2012-09-02 02:11:46 [INFO] Default game type: SURVIVAL
+2012-09-02 02:11:46 [INFO] Generating keypair
+2012-09-02 02:11:47 [INFO] Starting Minecraft server on *:25565
+2012-09-02 02:11:47 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-02 02:11:47 [INFO] Preparing level "world"
+2012-09-02 02:11:47 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-02 02:11:48 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-02 02:11:48 [INFO] Preparing spawn area: 0%
+2012-09-02 02:11:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 02:11:49 [INFO] Done (1.613s)! For help, type "help" or "?"
+2012-09-02 02:12:14 [INFO] lluoc[/14.200.158.249:57311] logged in with entity id 303 at ([world] -34.187465104257384, 81.60597806580579, -63.77334766714236)
+2012-09-02 02:13:42 [INFO] Connection reset
+2012-09-02 02:13:42 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-02 06:22:16 [INFO] ultrajono[/124.168.153.188:51273] logged in with entity id 1822 at ([world] -2.5, 71.62000000476837, -2.5)
+2012-09-02 06:25:15 [INFO] Connection reset
+2012-09-02 06:25:15 [INFO] ultrajono lost connection: disconnect.quitting
+2012-09-02 22:17:14 [INFO] There are 0/20 players online:
+[m
+2012-09-02 22:17:15 [INFO] CONSOLE: Stopping the server..[m
+2012-09-02 22:17:15 [INFO] Stopping server
+2012-09-02 22:17:15 [INFO] Saving players
+2012-09-02 22:17:15 [INFO] Saving worlds
+2012-09-02 22:17:15 [WARNING] DSCT: Socket closed
+2012-09-02 22:17:15 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@4abfa6aa
+2012-09-02 22:17:15 [INFO] Closing listening thread
+2012-09-02 22:17:16 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@3bbbe185
+2012-09-02 22:17:16 [INFO] Stopping server
+2012-09-02 23:39:33 [INFO] Starting minecraft server version 1.3.1
+2012-09-02 23:39:33 [INFO] Loading properties
+2012-09-02 23:39:33 [INFO] Default game type: SURVIVAL
+2012-09-02 23:39:33 [INFO] Generating keypair
+2012-09-02 23:39:33 [INFO] Starting Minecraft server on *:25568
+2012-09-02 23:39:34 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-02 23:39:34 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2012-09-02 23:39:34 [INFO] Preparing level "world"
+2012-09-02 23:39:34 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-02 23:39:35 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-02 23:39:35 [INFO] Preparing spawn area: 0%
+2012-09-02 23:39:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 23:39:35 [INFO] Done (1.539s)! For help, type "help" or "?"
+2012-09-02 23:40:04 [INFO] 195 recipes
+2012-09-02 23:40:04 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-02 23:40:04 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-02 23:40:04 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-02 23:40:04 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-02 23:40:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 23:40:04 [INFO] [32;1mReload complete.[m
+2012-09-02 23:41:25 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-02 23:41:25 [SEVERE] [xServer] Couldn't send packet
+2012-09-02 23:41:25 [SEVERE] [xServer] Couldn't send packet
+2012-09-02 23:41:25 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-02 23:41:25 [INFO] 195 recipes
+2012-09-02 23:41:25 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-02 23:41:25 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-02 23:41:25 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-02 23:41:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 23:41:25 [INFO] [xServer] Client connected to localhost:33777
+2012-09-02 23:41:25 [INFO] [32;1mReload complete.[m
+2012-09-02 23:42:11 [INFO] [Tekkit Restricted] mebeme: Hey[m
+2012-09-02 23:42:22 [INFO] [Tekkit Restricted] mebeme: Aww[m
+2012-09-02 23:42:43 [INFO] [Tekkit Restricted] mebeme: I suppose I'll hide then.. or just kick me if you need to shut it down xD[m
+2012-09-02 23:43:13 [INFO] [Tekkit Restricted] mebeme: What iz that one?[m
+2012-09-02 23:43:14 [INFO] [Tekkit Restricted] lluoc has joined the game[m
+2012-09-02 23:43:14 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-02 23:43:38 [INFO] [Tekkit Creative] mebeme has joined the game[m
+2012-09-02 23:43:51 [INFO] [Tekkit Restricted] lluoc has left the game[m
+2012-09-02 23:43:55 [INFO] [Tekkit Creative] lluoc has joined the game[m
+2012-09-02 23:44:17 [INFO] [Tekkit Creative] lluoc: hmm, this world is a little ice for creative[m
+2012-09-02 23:46:36 [INFO] [Tekkit Creative] mebeme: xD[m
+2012-09-02 23:46:48 [INFO] [Tekkit Creative] lluoc: thats better[m
+2012-09-02 23:46:57 [INFO] [Tekkit Creative] mebeme: .. How many nukes[m
+2012-09-02 23:47:03 [INFO] [Tekkit Creative] lluoc: 6 maybe[m
+2012-09-02 23:47:21 [INFO] [Tekkit Creative] lluoc: heh, we tapped oil[m
+2012-09-02 23:47:47 [INFO] [Tekkit Creative] lluoc: anyway, the servers are effectivly up. I still habe work to do on them but I'll anounce[m
+2012-09-02 23:47:49 [INFO] [Tekkit Creative] lluoc: them now[m
+2012-09-02 23:48:13 [INFO] [Tekkit Creative] mebeme: Sweet, so Im fine to swap back over?[m
+2012-09-02 23:49:02 [INFO] [Tekkit Creative] mebeme has left the game[m
+2012-09-02 23:52:33 [INFO] [Tekkit Creative] lluoc has left the game[m
+2012-09-02 23:52:43 [INFO] [Tekkit Restricted] lluoc has joined the game[m
+2012-09-02 23:53:29 [INFO] [Tekkit Restricted] lluoc has left the game[m
+2012-09-02 23:54:07 [INFO] lluoc[/14.200.158.249:62645] logged in with entity id 341 at ([world] 45.48234007473857, 95.61435596545442, 45.73618998082381)
+2012-09-02 23:54:16 [INFO] Connection reset
+2012-09-02 23:54:16 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-02 23:54:58 [INFO] [Tekkit Restricted] adrianjboyer has left the game[m
+2012-09-02 23:55:14 [INFO] [Tekkit Creative] adrianjboyer has left the game[m
+2012-09-02 23:56:28 [INFO] [Fluid] lluoc has joined the game[m
+2012-09-03 00:01:55 [INFO] [Tekkit Restricted] adrianjboyer has joined the game[m
+2012-09-03 00:02:01 [INFO] [Fluid] lluoc: say hey[m
+2012-09-03 00:02:05 [INFO] [Tekkit Restricted] adrianjboyer: hi[m
+2012-09-03 00:02:15 [INFO] [Fluid] lluoc: sorry, I should have mentioned that it was at 3.1.2[m
+2012-09-03 00:02:24 [INFO] [Fluid] lluoc: is saw you were trying to connect[m
+2012-09-03 00:02:40 [INFO] [Fluid] lluoc: also: *sigh*, i'll have to change the server prefixes[m
+2012-09-03 00:02:44 [INFO] [Tekkit Restricted] adrianjboyer: oh well, i made it in the end[m
+2012-09-03 00:03:01 [INFO] [Tekkit Restricted] adrianjboyer died[m
+2012-09-03 00:03:07 [INFO] [Fluid] lluoc: well that was quick[m
+2012-09-03 00:03:19 [INFO] [Fluid] lluoc: by the way, go look at tekkit creative[m
+2012-09-03 00:03:26 [INFO] [Tekkit Restricted] adrianjboyer has left the game[m
+2012-09-03 00:03:30 [INFO] [Tekkit Creative] adrianjboyer has joined the game[m
+2012-09-03 00:03:44 [INFO] [Tekkit Creative] adrianjboyer: what did you do?[m
+2012-09-03 00:03:57 [INFO] [Fluid] lluoc: ... I couldn't help myself[m
+2012-09-03 00:04:23 [INFO] [Tekkit Creative] adrianjboyer: nukes?[m
+2012-09-03 00:04:31 [INFO] [Fluid] lluoc: about 5 of them[m
+2012-09-03 00:10:50 [INFO] [Fluid] lluoc: what are you doning in creative btw?[m
+2012-09-03 00:11:10 [INFO] [Tekkit Creative] adrianjboyer: testing a theory[m
+2012-09-03 00:11:25 [INFO] [Fluid] lluoc: does this theory involve nukes?[m
+2012-09-03 00:11:37 [INFO] [Tekkit Creative] adrianjboyer: only one at a time[m
+2012-09-03 00:11:52 [INFO] [Fluid] lluoc: ... well i guess i can reset the worlds[m
+2012-09-03 00:17:58 [INFO] [Fluid] lluoc died[m
+2012-09-03 00:22:51 [INFO] [Fluid] lluoc died[m
+2012-09-03 00:23:27 [INFO] [Fluid] lluoc died[m
+2012-09-03 00:27:57 [INFO] [Fluid] lluoc: Guess what game I'm playing[m
+2012-09-03 00:28:10 [INFO] [Tekkit Creative] adrianjboyer: minecraft?[m
+2012-09-03 00:28:26 [INFO] [Fluid] lluoc: More spesific[m
+2012-09-03 00:29:04 [INFO] [Fluid] lluoc: 'Minecraft: Where the fuck are all the sheep'[m
+2012-09-03 00:31:26 [INFO] [Fluid] lluoc: SHEEP[m
+2012-09-03 00:32:35 [INFO] [Tekkit Creative] adrianjboyer has left the game[m
+2012-09-03 00:33:42 [INFO] [Fluid] lluoc died[m
+2012-09-03 00:40:28 [INFO] [Fluid] lluoc died[m
+2012-09-03 00:48:10 [INFO] [Fluid] lluoc died[m
+2012-09-03 01:04:07 [INFO] [Fluid] lluoc died[m
+2012-09-03 01:16:43 [INFO] [Fluid] lluoc died[m
+2012-09-03 01:26:01 [INFO] [Fluid] lluoc died[m
+2012-09-03 01:34:29 [INFO] [Fluid] lluoc died[m
+2012-09-03 01:42:31 [INFO] [Fluid] lluoc died[m
+2012-09-03 02:01:13 [INFO] [Fluid] lluoc died[m
+2012-09-03 02:18:50 [INFO] [Fluid] lluoc has left the game[m
+2012-09-03 02:56:46 [INFO] [Fluid] lluoc has joined the game[m
+2012-09-03 02:57:54 [INFO] [Fluid] lluoc died[m
+2012-09-03 03:20:45 [INFO] [Fluid] lluoc died[m
+2012-09-03 03:39:29 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 03:40:03 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 03:40:06 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 03:41:40 [INFO] [Fluid] lluoc: hey[m
+2012-09-03 03:41:47 [INFO] [Tekkit Restricted] nightkhaos: hey[m
+2012-09-03 03:42:05 [INFO] [Tekkit Restricted] nightkhaos: s[m
+2012-09-03 03:42:11 [INFO] [Fluid] lluoc: ?[m
+2012-09-03 03:42:12 [INFO] [Tekkit Restricted] nightkhaos: so, what did you modify?[m
+2012-09-03 03:42:40 [INFO] [Fluid] lluoc: um, you know that list i posted.[m
+2012-09-03 03:43:04 [INFO] [Fluid] lluoc: well everything on it except the chosen four are set to 0[m
+2012-09-03 03:43:13 [INFO] [Fluid] lluoc: there will probably some items you can still make though.[m
+2012-09-03 03:43:35 [INFO] [Fluid] lluoc: I get the feeling that they forgot something and I'll have to enable something else to[m
+2012-09-03 03:43:46 [INFO] [Fluid] lluoc: let them build the enabled items.[m
+2012-09-03 03:44:00 [INFO] [Fluid] lluoc: Also I just spent 4 hours cleaning up a ravine....[m
+2012-09-03 03:44:05 [INFO] [Fluid] lluoc died[m
+2012-09-03 03:52:36 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 03:53:01 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 03:55:02 [INFO] [Fluid] lluoc: FUUUUU[m
+2012-09-03 03:55:05 [INFO] [Fluid] lluoc: sleep[m
+2012-09-03 03:55:09 [INFO] [Tekkit Restricted] nightkhaos: me?[m
+2012-09-03 03:55:12 [INFO] [Fluid] lluoc: wake up[m
+2012-09-03 03:55:17 [INFO] [Fluid] lluoc: creeper next to bed[m
+2012-09-03 03:55:22 [INFO] [Fluid] lluoc: destroys bed and chests[m
+2012-09-03 03:55:28 [INFO] [Fluid] lluoc: then hunger drops to 0[m
+2012-09-03 03:55:29 [INFO] [Fluid] lluoc: ...[m
+2012-09-03 03:55:32 [INFO] [Fluid] lluoc: FUUUU[m
+2012-09-03 04:03:13 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 04:03:16 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 04:05:45 [INFO] [Fluid] lluoc died[m
+2012-09-03 04:28:16 [INFO] [Tekkit Restricted] nightkhaos died[m
+2012-09-03 04:28:22 [INFO] [Tekkit Restricted] nightkhaos died[m
+2012-09-03 04:28:28 [INFO] [Tekkit Restricted] nightkhaos died[m
+2012-09-03 04:29:43 [INFO] [Fluid] lluoc: ?[m
+2012-09-03 04:29:51 [INFO] [Tekkit Restricted] nightkhaos: zombie by my bed[m
+2012-09-03 04:29:56 [INFO] [Fluid] lluoc: ahh[m
+2012-09-03 04:30:15 [INFO] [Fluid] lluoc: oh, is there eclipse phase this week?[m
+2012-09-03 04:30:20 [INFO] [Tekkit Restricted] nightkhaos: yes[m
+2012-09-03 04:30:26 [INFO] [Fluid] lluoc: k. Same time?[m
+2012-09-03 04:30:39 [INFO] [Tekkit Restricted] nightkhaos: maybe eariler[m
+2012-09-03 04:30:51 [INFO] [Fluid] lluoc: kk.[m
+2012-09-03 04:31:54 [INFO] [Fluid] lluoc: oh hey, did you want op? I can't remember if it was you who asked about it before.[m
+2012-09-03 04:32:01 [INFO] [Tekkit Restricted] nightkhaos: yes[m
+2012-09-03 04:32:07 [INFO] [Fluid] lluoc: ok, just a sec[m
+2012-09-03 04:33:14 [INFO] [Tekkit Restricted] nightkhaos: well, I need sand, lots of sand, to deal with this problem[m
+2012-09-03 04:33:30 [INFO] [Fluid] lluoc: hmm, can you try an op command. like  "/time set 0"[m
+2012-09-03 04:33:36 [INFO] [Fluid] lluoc: what problem?[m
+2012-09-03 04:33:43 [INFO] [Tekkit Restricted] nightkhaos: no premission[m
+2012-09-03 04:33:55 [INFO] [Tekkit Restricted] nightkhaos: oh my "house" happens to by right next to a underground ravine[m
+2012-09-03 04:34:02 [INFO] [Fluid] lluoc: sigh. I'll have to do it through each server[m
+2012-09-03 04:34:20 [INFO] [Fluid] lluoc: My house is in a ravine. Glassing the side? I'm probably going to glass the top of mine[m
+2012-09-03 04:34:35 [INFO] [Tekkit Restricted] nightkhaos: no, just trying to get to the bottom of the ravine[m
+2012-09-03 04:34:52 [INFO] [Tekkit Restricted] nightkhaos: i'm op[m
+2012-09-03 04:35:23 [INFO] [Fluid] lluoc: by the way, using /say will only broudcast to the server you're on.[m
+2012-09-03 04:35:35 [INFO] [Tekkit Restricted] nightkhaos: who would I talk to?[m
+2012-09-03 04:35:47 [INFO] [Fluid] lluoc: just letting you know[m
+2012-09-03 04:36:08 [INFO] CONSOLE: Opped nightkhaos[m
+2012-09-03 04:36:40 [INFO] [Fluid] lluoc: Oh, and no putting water in the nether. You know what happens to people who do that.[m
+2012-09-03 04:36:51 [INFO] [Tekkit Restricted] nightkhaos: kk[m
+2012-09-03 04:37:12 [INFO] [Fluid] ultrajono has joined the game[m
+2012-09-03 04:37:16 [INFO] [Fluid] ultrajono: hey lluoc[m
+2012-09-03 04:37:16 [INFO] [Fluid] lluoc: hey[m
+2012-09-03 04:37:17 [INFO] [Fluid] ultrajono: been a while[m
+2012-09-03 04:37:20 [INFO] [Fluid] lluoc: yeah[m
+2012-09-03 04:37:25 [INFO] [Fluid] ultrajono: ok, i'm in a tree?[m
+2012-09-03 04:37:26 [INFO] [Fluid] lluoc: also nightkhaos is on[m
+2012-09-03 04:37:36 [INFO] [Fluid] ultrajono: hey nightkhaos[m
+2012-09-03 04:37:39 [INFO] [Tekkit Restricted] nightkhaos: hey[m
+2012-09-03 04:37:41 [INFO] [Fluid] ultrajono: how long has this map been up?[m
+2012-09-03 04:37:46 [INFO] [Fluid] lluoc: 7 or so hours[m
+2012-09-03 04:37:57 [INFO] [Tekkit Restricted] nightkhaos: need moar sand[m
+2012-09-03 04:37:58 [INFO] [Fluid] ultrajono: whats going on with the rest of them, i can't log in to anything?[m
+2012-09-03 04:38:14 [INFO] [Fluid] lluoc: rest?[m
+2012-09-03 04:38:23 [INFO] [Fluid] lluoc: hey[m
+2012-09-03 04:38:28 [INFO] [Fluid] ultrajono: the other servers, i think[m
+2012-09-03 04:38:41 [INFO] [Fluid] ultrajono: hey lluoc[m
+2012-09-03 04:38:45 [INFO] [Fluid] lluoc: you putting in the ports?[m
+2012-09-03 04:38:47 [INFO] [Fluid] lluoc: heh[m
+2012-09-03 04:38:59 [INFO] [Fluid] lluoc: follows[m
+2012-09-03 04:39:01 [INFO] [Fluid] ultrajono: damn new worlds[m
+2012-09-03 04:39:22 [INFO] [Fluid] ultrajono: strange, minimap isn't workin[m
+2012-09-03 04:39:32 [INFO] [Fluid] ultrajono: holy fudgeballs[m
+2012-09-03 04:39:37 [INFO] [Fluid] lluoc: i spent 4 hours smoothing it[m
+2012-09-03 04:39:47 [INFO] [Tekkit Restricted] nightkhaos: ha?[m
+2012-09-03 04:39:47 [INFO] [Fluid] ultrajono: lost ya[m
+2012-09-03 04:40:25 [INFO] [Fluid] ultrajono: this been up for 7 hours, and you've done this?[m
+2012-09-03 04:40:27 [INFO] [Fluid] lluoc: nothing really to show yet[m
+2012-09-03 04:40:49 [INFO] [Fluid] lluoc: yeah, jsut building my mining shack[m
+2012-09-03 04:40:56 [INFO] [Fluid] lluoc: I'll move on to an actual house at some point[m
+2012-09-03 04:41:00 [INFO] [Fluid] ultrajono: and the rest of the worlds we've played on?[m
+2012-09-03 04:41:17 [INFO] [Fluid] lluoc: ok. The data is still there we jsut can't reach it.[m
+2012-09-03 04:41:21 [INFO] [Fluid] ultrajono: well thats balls[m
+2012-09-03 04:41:28 [INFO] [Fluid] ultrajono: where are you taylor?[m
+2012-09-03 04:41:32 [INFO] [Fluid] lluoc: with the other worlds. Have you put in the port numbers?[m
+2012-09-03 04:41:37 [INFO] [Fluid] lluoc: he's on tekkit[m
+2012-09-03 04:42:09 [INFO] [Fluid] ultrajono: port numbers?[m
+2012-09-03 04:42:40 [INFO] [Fluid] lluoc: ... ok make a new server that connects to 'blocksoc.net:25568'[m
+2012-09-03 04:42:49 [INFO] [Fluid] lluoc: the numbers at the end are the port numbers[m
+2012-09-03 04:43:07 [INFO] [Fluid] lluoc: the server list is on the facebook post.[m
+2012-09-03 04:43:21 [INFO] [Fluid] lluoc: you'll need the tekkit launcher to access the tekkit worlds[m
+2012-09-03 04:43:28 [INFO] [Fluid] ultrajono: how many worls total now?[m
+2012-09-03 04:43:46 [INFO] [Fluid] lluoc: this, a creative, the experiment world, a tekkit world and a tekkit creative world[m
+2012-09-03 04:44:02 [INFO] [Fluid] ultrajono: and where is everybody, or is it all mixed?[m
+2012-09-03 04:44:07 [INFO] [Tekkit Restricted] nightkhaos: right, almost at the buttom of the revine[m
+2012-09-03 04:44:10 [INFO] [Fluid] lluoc: we can fit 3 more servers[m
+2012-09-03 04:44:13 [INFO] [Fluid] lluoc: heh[m
+2012-09-03 04:44:18 [INFO] [Fluid] lluoc: I mean 4 more servers[m
+2012-09-03 04:44:58 [INFO] [Fluid] lluoc: By the way, i might be able to make server portals work between the bukkit and tekkit worlds[m
+2012-09-03 04:45:09 [INFO] [Fluid] ultrajono: oh, that would be impressive, and so much easier[m
+2012-09-03 04:45:32 [INFO] [Fluid] lluoc: you need a modified client to do it though. The tekkit client has that mod though.[m
+2012-09-03 04:45:35 [INFO] [Fluid] lluoc: may or may not worl[m
+2012-09-03 04:48:12 [INFO] [Fluid] lluoc: oh jono, kindly don't kill the sheep[m
+2012-09-03 04:48:27 [INFO] [Fluid] lluoc: there is a shear in my chest you're welcome to[m
+2012-09-03 04:51:20 [INFO] [Fluid] ultrajono: there are sheep?[m
+2012-09-03 04:51:28 [INFO] [Fluid] ultrajono: sorry, just speakin to a mate[m
+2012-09-03 04:51:44 [INFO] [Fluid] lluoc: umm, follow the coast more... actually I'll try and get them here[m
+2012-09-03 04:51:44 [INFO] [Fluid] ultrajono has left the game[m
+2012-09-03 04:51:54 [INFO] [Fluid] ultrajono has joined the game[m
+2012-09-03 04:51:56 [INFO] [Fluid] lluoc died[m
+2012-09-03 04:52:05 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 04:52:20 [INFO] [Fluid] ultrajono: ok, so thsi works, i'll be back later to have a look, create my own place[m
+2012-09-03 04:52:31 [INFO] [Fluid] ultrajono: i'm guessing by then, you'll have an ender spawner, and a chest full of diamond bricks[m
+2012-09-03 04:52:59 [INFO] [Fluid] ultrajono has left the game[m
+2012-09-03 04:53:46 [INFO] [Fluid] lluoc has left the game[m
+2012-09-03 05:11:05 [INFO] lluoc [/14.200.158.249:54337] lost connection
+2012-09-03 05:11:11 [INFO] lluoc [/14.200.158.249:54384] lost connection
+2012-09-03 05:11:43 [INFO] lluoc[/14.200.158.249:54492] logged in with entity id 1563 at ([world] 45.48234007473857, 95.61435596545442, 45.73618998082381)
+2012-09-03 05:12:23 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-03 05:12:23 [INFO] Connection reset
+2012-09-03 08:12:14 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-03 08:31:59 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-03 09:01:26 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-03 09:09:28 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-03 09:10:09 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-03 09:22:16 [INFO] [Fluid] lluoc has joined the game[m
+2012-09-03 09:22:43 [INFO] [Tekkit Restricted] mebeme died[m
+2012-09-03 09:23:01 [INFO] [Fluid] lluoc: hey[m
+2012-09-03 09:23:04 [INFO] [Tekkit Restricted] mebeme: Hey[m
+2012-09-03 09:23:46 [INFO] [Tekkit Restricted] mebeme: The cross server chat thing is wierd :P[m
+2012-09-03 09:23:57 [INFO] [Fluid] lluoc: how so?[m
+2012-09-03 09:24:08 [INFO] [Tekkit Restricted] mebeme: It's just.. unusual xD[m
+2012-09-03 09:24:42 [INFO] [Fluid] lluoc: I'm hearding sheep. Two chickens are folowing me too[m
+2012-09-03 09:24:48 [INFO] [Fluid] lluoc: wait, 3...[m
+2012-09-03 09:24:54 [INFO] [Fluid] lluoc: the fuck did that one come from[m
+2012-09-03 09:25:19 [INFO] [Tekkit Restricted] mebeme: Oh wow[m
+2012-09-03 09:25:25 [INFO] [Fluid] lluoc: ?[m
+2012-09-03 09:25:29 [INFO] [Tekkit Restricted] mebeme: Mineshaft in the first cave I go in?[m
+2012-09-03 09:25:31 [INFO] [Tekkit Restricted] mebeme: Bonus[m
+2012-09-03 09:25:38 [INFO] [Fluid] lluoc: heh[m
+2012-09-03 09:38:55 [INFO] [Fluid] lluoc died[m
+2012-09-03 09:39:08 [INFO] [Fluid] lluoc has left the game[m
+2012-09-03 09:41:20 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-03 09:51:03 [SEVERE] [xServer] Malformed Packet
+2012-09-03 09:51:03 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 09:51:03 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 09:51:03 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 09:51:03 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:00:09 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:03:35 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:03:35 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:03:35 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:03:35 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:03:35 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:03:46 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:04:24 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:04:24 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:04:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:04:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:04:24 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:04:36 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:05:24 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:05:24 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:05:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:05:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:05:24 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:05:35 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:05:37 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:05:37 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:05:37 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:05:37 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:05:37 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:05:55 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:05:57 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:05:57 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:05:57 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:05:57 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:05:57 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:09:12 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:13:36 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:13:36 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:13:36 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:13:36 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:13:36 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:13:46 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:13:49 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:13:49 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:13:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:13:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:13:49 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:17:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:17:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 10:17:01 [INFO] Stopping server
+2012-09-03 10:17:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 10:17:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 10:17:01 [SEVERE] [xServer] Could not read packet
+2012-09-03 10:17:01 [INFO] Saving players
+2012-09-03 10:17:01 [INFO] Saving worlds
+2012-09-03 10:17:01 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@7393db5c
+2012-09-03 10:17:01 [WARNING] DSCT: Socket closed
+2012-09-03 10:17:01 [INFO] Closing listening thread
+2012-09-03 10:17:02 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@d13998e
+2012-09-03 10:17:02 [INFO] Stopping server
+2012-09-03 10:17:02 [INFO] Saving players
+2012-09-03 10:17:02 [INFO] Saving worlds
+2012-09-03 10:17:02 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@7393db5c
+2012-09-03 10:17:13 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 10:17:13 [INFO] Loading properties
+2012-09-03 10:17:13 [INFO] Default game type: SURVIVAL
+2012-09-03 10:17:13 [INFO] Generating keypair
+2012-09-03 10:17:13 [INFO] Starting Minecraft server on *:25568
+2012-09-03 10:17:14 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 10:17:14 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 10:17:14 [INFO] Preparing level "world"
+2012-09-03 10:17:14 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 10:17:15 [INFO] Preparing spawn area: 77%
+2012-09-03 10:17:15 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 10:17:16 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 10:17:16 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 10:17:16 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 10:17:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 10:17:16 [INFO] Done (1.939s)! For help, type "help" or "?"
+2012-09-03 10:17:18 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 10:17:18 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 10:17:19 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:17:22 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 10:17:22 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 10:20:08 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:20:08 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:20:08 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:20:08 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:20:08 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:20:08 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 10:20:08 [INFO] Stopping server
+2012-09-03 10:20:08 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 10:20:08 [INFO] [34;1m[xServer] Fluid has disconnected[m
+2012-09-03 10:20:08 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 10:20:08 [INFO] Saving players
+2012-09-03 10:20:08 [INFO] Saving worlds
+2012-09-03 10:20:08 [WARNING] DSCT: Socket closed
+2012-09-03 10:20:08 [INFO] Closing listening thread
+2012-09-03 10:20:08 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@66fb42c9
+2012-09-03 10:20:08 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@79ddcef0
+2012-09-03 10:20:09 [INFO] Stopping server
+2012-09-03 10:20:09 [INFO] Saving players
+2012-09-03 10:20:09 [INFO] Saving worlds
+2012-09-03 10:20:09 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@66fb42c9
+2012-09-03 10:20:25 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 10:20:25 [INFO] Loading properties
+2012-09-03 10:20:25 [INFO] Default game type: SURVIVAL
+2012-09-03 10:20:25 [INFO] Generating keypair
+2012-09-03 10:20:25 [INFO] Starting Minecraft server on *:25568
+2012-09-03 10:20:26 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 10:20:26 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 10:20:26 [INFO] Preparing level "world"
+2012-09-03 10:20:26 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 10:20:27 [INFO] Preparing spawn area: 77%
+2012-09-03 10:20:27 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 10:20:28 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 10:20:28 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 10:20:28 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 10:20:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 10:20:28 [INFO] Done (1.856s)! For help, type "help" or "?"
+2012-09-03 10:20:30 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 10:20:30 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 10:20:31 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:20:33 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 10:20:34 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 10:22:05 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:22:05 [INFO] [35;1m[Server] test[m
+2012-09-03 10:22:33 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:22:33 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 10:22:33 [INFO] Stopping server
+2012-09-03 10:22:33 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 10:22:33 [SEVERE] [xServer] Could not read packet
+2012-09-03 10:22:33 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 10:22:33 [INFO] Saving players
+2012-09-03 10:22:33 [INFO] Saving worlds
+2012-09-03 10:22:33 [WARNING] DSCT: Socket closed
+2012-09-03 10:22:33 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@143accaf
+2012-09-03 10:22:33 [INFO] Closing listening thread
+2012-09-03 10:22:33 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@2053ff89
+2012-09-03 10:22:39 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 10:22:39 [INFO] Loading properties
+2012-09-03 10:22:39 [INFO] Default game type: SURVIVAL
+2012-09-03 10:22:39 [INFO] Generating keypair
+2012-09-03 10:22:40 [INFO] Starting Minecraft server on *:25568
+2012-09-03 10:22:40 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 10:22:40 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 10:22:40 [INFO] Preparing level "world"
+2012-09-03 10:22:41 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 10:22:42 [INFO] Preparing spawn area: 73%
+2012-09-03 10:22:42 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 10:22:42 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 10:22:42 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 10:22:42 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 10:22:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 10:22:42 [INFO] Done (1.977s)! For help, type "help" or "?"
+2012-09-03 10:22:44 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 10:22:44 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 10:22:45 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:22:49 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 10:22:49 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:26:49 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:26:49 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:26:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:26:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:26:49 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:26:49 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:26:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:26:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:26:49 [INFO] [34;1m[xServer] Fluid has disconnected[m
+2012-09-03 11:26:49 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 11:33:08 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 11:33:08 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:33:17 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:33:17 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:33:17 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:33:17 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:33:17 [INFO] [34;1m[xServer] Fluid has disconnected[m
+2012-09-03 11:33:17 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:33:17 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:33:17 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:33:17 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:33:17 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 11:35:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:35:53 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:35:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:35:53 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:35:53 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:35:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:35:53 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:35:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:35:53 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:35:53 [INFO] Stopping server
+2012-09-03 11:35:53 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:35:53 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 11:35:53 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 11:35:53 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:35:53 [WARNING] DSCT: Socket closed
+2012-09-03 11:35:53 [INFO] Closing listening thread
+2012-09-03 11:35:53 [INFO] Saving players
+2012-09-03 11:35:53 [INFO] Saving worlds
+2012-09-03 11:35:53 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@68de3cea
+2012-09-03 11:35:54 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@56715c6f
+2012-09-03 11:39:02 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 11:39:02 [INFO] Loading properties
+2012-09-03 11:39:02 [INFO] Default game type: SURVIVAL
+2012-09-03 11:39:02 [INFO] Generating keypair
+2012-09-03 11:39:03 [INFO] Starting Minecraft server on *:25568
+2012-09-03 11:39:03 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 11:39:03 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 11:39:03 [INFO] Preparing level "world"
+2012-09-03 11:39:03 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 11:39:04 [INFO] Preparing spawn area: 56%
+2012-09-03 11:39:05 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 11:39:05 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 11:39:05 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 11:39:05 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 11:39:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 11:39:05 [INFO] Done (2.233s)! For help, type "help" or "?"
+2012-09-03 11:39:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:06 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:39:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:06 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:39:06 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:39:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:06 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:39:07 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 11:39:07 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 11:39:12 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 11:39:12 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:39:26 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:39:26 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:39:26 [INFO] Stopping server
+2012-09-03 11:39:26 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:39:26 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:39:26 [INFO] Saving players
+2012-09-03 11:39:26 [INFO] Saving worlds
+2012-09-03 11:39:26 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@5428179e
+2012-09-03 11:39:26 [SEVERE] [xServer] Could not read packet
+2012-09-03 11:39:26 [WARNING] DSCT: Socket closed
+2012-09-03 11:39:26 [INFO] Closing listening thread
+2012-09-03 11:39:27 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@1426b13c
+2012-09-03 11:39:27 [INFO] Stopping server
+2012-09-03 11:39:27 [INFO] Saving players
+2012-09-03 11:39:27 [INFO] Saving worlds
+2012-09-03 11:39:27 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@5428179e
+2012-09-03 11:39:31 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 11:39:31 [INFO] Loading properties
+2012-09-03 11:39:31 [INFO] Default game type: SURVIVAL
+2012-09-03 11:39:31 [INFO] Generating keypair
+2012-09-03 11:39:31 [INFO] Starting Minecraft server on *:25568
+2012-09-03 11:39:32 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 11:39:32 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 11:39:32 [INFO] Preparing level "world"
+2012-09-03 11:39:32 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 11:39:33 [INFO] Preparing spawn area: 65%
+2012-09-03 11:39:33 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 11:39:34 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 11:39:34 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 11:39:34 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 11:39:34 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 11:39:34 [INFO] Done (1.999s)! For help, type "help" or "?"
+2012-09-03 11:39:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:35 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:39:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:35 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:39:35 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:39:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:35 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:39:36 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 11:39:36 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 11:39:40 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 11:39:40 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:43:04 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:43:04 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:43:04 [INFO] Stopping server
+2012-09-03 11:43:04 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:43:04 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:43:04 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:43:04 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:43:04 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:43:04 [SEVERE] [xServer] Could not read packet
+2012-09-03 11:43:04 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:43:04 [INFO] Saving players
+2012-09-03 11:43:04 [INFO] Saving worlds
+2012-09-03 11:43:04 [WARNING] DSCT: Socket closed
+2012-09-03 11:43:04 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@234c0ad0
+2012-09-03 11:43:04 [INFO] Closing listening thread
+2012-09-03 11:43:04 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@5559efca

@@ -1,0 +1,7 @@
+2012-09-03 11:39:26,570	INFO	Starting backup process for: 03-09-12-11-39-26
+2012-09-03 11:39:29,699	INFO	Current Backups: 
+2012-09-03 11:39:30,060	INFO	Tar check done.
+2012-09-03 11:39:30,060	INFO	Pushing to git.
+2012-09-03 11:39:30,060	INFO	Git push done.
+2012-09-03 11:39:35,204	INFO	Backup done.
+2012-09-03 11:39:35,204	INFO	

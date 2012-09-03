@@ -1,0 +1,1180 @@
+2012-09-02 22:34:58 [INFO] Starting minecraft server version 1.3.2
+2012-09-02 22:34:58 [INFO] Loading properties
+2012-09-02 22:34:58 [INFO] Default game type: SURVIVAL
+2012-09-02 22:34:58 [INFO] Generating keypair
+2012-09-02 22:34:58 [INFO] Starting Minecraft server on *:25565
+2012-09-02 22:34:58 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-02 22:34:59 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2012-09-02 22:34:59 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2012-09-02 22:34:59 [INFO] Preparing level "world"
+2012-09-02 22:35:00 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-02 22:35:01 [INFO] Preparing spawn area: 4%
+2012-09-02 22:35:01 [INFO] ----- Bukkit Auto Updater -----
+2012-09-02 22:35:01 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-02 22:35:01 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-02 22:35:01 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-02 22:35:01 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-02 22:35:01 [INFO] ----- ------------------- -----
+2012-09-02 22:35:03 [INFO] Preparing spawn area: 4%
+2012-09-02 22:35:04 [INFO] Preparing spawn area: 12%
+2012-09-02 22:35:05 [INFO] Preparing spawn area: 20%
+2012-09-02 22:35:06 [INFO] Preparing spawn area: 28%
+2012-09-02 22:35:07 [INFO] Preparing spawn area: 32%
+2012-09-02 22:35:08 [INFO] Preparing spawn area: 40%
+2012-09-02 22:35:09 [INFO] Preparing spawn area: 48%
+2012-09-02 22:35:12 [INFO] Preparing spawn area: 60%
+2012-09-02 22:35:13 [INFO] Preparing spawn area: 69%
+2012-09-02 22:35:14 [INFO] Preparing spawn area: 81%
+2012-09-02 22:35:15 [INFO] Preparing spawn area: 93%
+2012-09-02 22:35:16 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-02 22:35:16 [INFO] Preparing spawn area: 3%
+2012-09-02 22:35:17 [INFO] Preparing spawn area: 16%
+2012-09-02 22:35:18 [INFO] Preparing spawn area: 28%
+2012-09-02 22:35:21 [INFO] Preparing spawn area: 28%
+2012-09-02 22:35:22 [INFO] Preparing spawn area: 36%
+2012-09-02 22:35:23 [INFO] Preparing spawn area: 48%
+2012-09-02 22:35:24 [INFO] Preparing spawn area: 60%
+2012-09-02 22:35:25 [INFO] Preparing spawn area: 73%
+2012-09-02 22:35:26 [INFO] Preparing spawn area: 85%
+2012-09-02 22:35:27 [INFO] Preparing spawn area: 97%
+2012-09-02 22:35:28 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-02 22:35:28 [INFO] Preparing spawn area: 28%
+2012-09-02 22:35:29 [INFO] Preparing spawn area: 61%
+2012-09-02 22:35:30 [INFO] Done (31.890s)! For help, type "help" or "?"
+2012-09-02 22:36:46 [INFO] CONSOLE: Stopping the server..[m
+2012-09-02 22:36:46 [INFO] Stopping server
+2012-09-02 22:36:46 [WARNING] DSCT: Socket closed
+2012-09-02 22:36:46 [INFO] Saving players
+2012-09-02 22:36:46 [INFO] Closing listening thread
+2012-09-02 22:36:46 [INFO] Saving worlds
+2012-09-02 22:36:46 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-02 22:36:49 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-02 22:36:51 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-02 22:36:53 [INFO] Stopping server
+2012-09-02 22:36:53 [INFO] Saving players
+2012-09-02 22:36:53 [INFO] Saving worlds
+2012-09-02 22:36:53 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-02 22:39:07 [INFO] Starting minecraft server version 1.3.2
+2012-09-02 22:39:07 [INFO] Loading properties
+2012-09-02 22:39:07 [INFO] Default game type: SURVIVAL
+2012-09-02 22:39:07 [INFO] Generating keypair
+2012-09-02 22:39:08 [INFO] Starting Minecraft server on *:25565
+2012-09-02 22:39:08 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-02 22:39:09 [INFO] Preparing level "world"
+2012-09-02 22:39:09 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-02 22:39:11 [INFO] Preparing spawn area: 28%
+2012-09-02 22:39:11 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-02 22:39:12 [INFO] Preparing spawn area: 8%
+2012-09-02 22:39:14 [INFO] Preparing spawn area: 61%
+2012-09-02 22:39:14 [INFO] ----- Bukkit Auto Updater -----
+2012-09-02 22:39:14 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-02 22:39:14 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-02 22:39:14 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-02 22:39:14 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-02 22:39:14 [INFO] ----- ------------------- -----
+2012-09-02 22:39:14 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-02 22:39:15 [INFO] Preparing spawn area: 52%
+2012-09-02 22:39:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 22:39:16 [INFO] Done (7.381s)! For help, type "help" or "?"
+2012-09-02 22:39:26 [INFO] CONSOLE: Stopping the server..[m
+2012-09-02 22:39:26 [INFO] Stopping server
+2012-09-02 22:39:26 [INFO] Saving players
+2012-09-02 22:39:26 [INFO] Saving worlds
+2012-09-02 22:39:26 [WARNING] DSCT: Socket closed
+2012-09-02 22:39:26 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-02 22:39:26 [INFO] Closing listening thread
+2012-09-02 22:39:26 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-02 22:39:27 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-02 22:39:27 [INFO] Stopping server
+2012-09-02 22:39:27 [INFO] Saving players
+2012-09-02 23:04:39 [INFO] Starting minecraft server version 1.3.2
+2012-09-02 23:04:39 [INFO] Loading properties
+2012-09-02 23:04:39 [INFO] Default game type: SURVIVAL
+2012-09-02 23:04:39 [INFO] Generating keypair
+2012-09-02 23:04:39 [INFO] Starting Minecraft server on *:25565
+2012-09-02 23:04:40 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-02 23:04:40 [INFO] Preparing level "world"
+2012-09-02 23:04:40 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-02 23:04:41 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-02 23:04:41 [INFO] Preparing spawn area: 16%
+2012-09-02 23:04:41 [INFO] ----- Bukkit Auto Updater -----
+2012-09-02 23:04:41 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-02 23:04:41 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-02 23:04:41 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-02 23:04:41 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-02 23:04:41 [INFO] ----- ------------------- -----
+2012-09-02 23:04:42 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-02 23:04:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 23:04:42 [INFO] Done (2.319s)! For help, type "help" or "?"
+2012-09-02 23:21:10 [INFO] 195 recipes
+2012-09-02 23:21:10 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-02 23:21:10 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-02 23:21:10 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-02 23:21:10 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 23:21:10 [INFO] [32;1mReload complete.[m
+2012-09-02 23:21:10 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-02 23:21:12 [INFO] CONSOLE: Stopping the server..[m
+2012-09-02 23:21:12 [INFO] Stopping server
+2012-09-02 23:21:12 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-02 23:21:12 [SEVERE] [xServer] Couldn't send packet
+2012-09-02 23:21:12 [SEVERE] [xServer] Couldn't send packet
+2012-09-02 23:21:12 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-02 23:21:12 [WARNING] DSCT: Socket closed
+2012-09-02 23:21:12 [INFO] Closing listening thread
+2012-09-02 23:21:12 [INFO] Saving players
+2012-09-02 23:21:12 [INFO] Saving worlds
+2012-09-02 23:21:12 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-02 23:21:12 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-02 23:21:12 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-02 23:21:13 [INFO] Stopping server
+2012-09-02 23:21:13 [INFO] Saving players
+2012-09-02 23:21:13 [INFO] Saving worlds
+2012-09-02 23:21:13 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-02 23:27:19 [INFO] Starting minecraft server version 1.3.2
+2012-09-02 23:27:19 [INFO] Loading properties
+2012-09-02 23:27:19 [INFO] Default game type: SURVIVAL
+2012-09-02 23:27:19 [INFO] Generating keypair
+2012-09-02 23:27:19 [INFO] Starting Minecraft server on *:25565
+2012-09-02 23:27:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-02 23:27:20 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-02 23:27:20 [INFO] Preparing level "world"
+2012-09-02 23:27:20 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-02 23:27:21 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-02 23:27:21 [INFO] Preparing spawn area: 12%
+2012-09-02 23:27:21 [INFO] ----- Bukkit Auto Updater -----
+2012-09-02 23:27:21 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-02 23:27:21 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-02 23:27:21 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-02 23:27:21 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-02 23:27:21 [INFO] ----- ------------------- -----
+2012-09-02 23:27:22 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-02 23:27:22 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-02 23:27:22 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-02 23:27:22 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-02 23:27:22 [INFO] [xServer] Starting as Host
+2012-09-02 23:27:22 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:27:22 [INFO] Adding Client
+2012-09-02 23:27:22 [INFO] [xServer] Client connected to localhost:33777
+2012-09-02 23:27:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-02 23:27:22 [INFO] Done (2.293s)! For help, type "help" or "?"
+2012-09-02 23:27:22 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:27:22 [INFO] Adding Client
+2012-09-02 23:27:22 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-02 23:27:26 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:27:26 [INFO] Adding Client
+2012-09-02 23:27:26 [INFO] [34;1m[xServer] Tekkit Restricted has connected[m
+2012-09-02 23:31:15 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:31:15 [INFO] Adding Client
+2012-09-02 23:31:15 [INFO] [34;1m[xServer] Tekkit Restricted has connected[m
+2012-09-02 23:33:30 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:33:30 [INFO] Adding Client
+2012-09-02 23:33:30 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:33:30 [INFO] Adding Client
+2012-09-02 23:33:30 [INFO] [34;1m[xServer] Tekkit Restricted has connected[m
+2012-09-02 23:33:30 [INFO] [34;1m[xServer] Tekkit Creative has connected[m
+2012-09-02 23:33:41 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-02 23:33:54 [INFO] There are 0/20 players online:
+[m
+2012-09-02 23:34:23 [INFO] [Creative] lluoc has joined the game[m
+2012-09-02 23:35:44 [INFO] [Creative] lluoc has left the game[m
+2012-09-02 23:35:53 [INFO] lluoc[/14.200.158.249:58714] logged in with entity id 129 at ([world] 81.5, 65.62000000476837, 296.5)
+2012-09-02 23:36:27 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-02 23:36:27 [INFO] Connection reset
+2012-09-02 23:38:57 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-02 23:41:25 [INFO] [xServer] Connection made on port 33777
+2012-09-02 23:41:25 [INFO] Adding Client
+2012-09-02 23:41:25 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-02 23:42:11 [INFO] [Tekkit Restricted] mebeme: Hey[m
+2012-09-02 23:42:22 [INFO] [Tekkit Restricted] mebeme: Aww[m
+2012-09-02 23:42:43 [INFO] [Tekkit Restricted] mebeme: I suppose I'll hide then.. or just kick me if you need to shut it down xD[m
+2012-09-02 23:43:13 [INFO] [Tekkit Restricted] mebeme: What iz that one?[m
+2012-09-02 23:43:14 [INFO] [Tekkit Restricted] lluoc has joined the game[m
+2012-09-02 23:43:14 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-02 23:43:38 [INFO] [Tekkit Creative] mebeme has joined the game[m
+2012-09-02 23:43:51 [INFO] [Tekkit Restricted] lluoc has left the game[m
+2012-09-02 23:43:55 [INFO] [Tekkit Creative] lluoc has joined the game[m
+2012-09-02 23:44:17 [INFO] [Tekkit Creative] lluoc: hmm, this world is a little ice for creative[m
+2012-09-02 23:46:36 [INFO] [Tekkit Creative] mebeme: xD[m
+2012-09-02 23:46:48 [INFO] [Tekkit Creative] lluoc: thats better[m
+2012-09-02 23:46:57 [INFO] [Tekkit Creative] mebeme: .. How many nukes[m
+2012-09-02 23:47:03 [INFO] [Tekkit Creative] lluoc: 6 maybe[m
+2012-09-02 23:47:21 [INFO] [Tekkit Creative] lluoc: heh, we tapped oil[m
+2012-09-02 23:47:47 [INFO] [Tekkit Creative] lluoc: anyway, the servers are effectivly up. I still habe work to do on them but I'll anounce[m
+2012-09-02 23:47:49 [INFO] [Tekkit Creative] lluoc: them now[m
+2012-09-02 23:48:13 [INFO] [Tekkit Creative] mebeme: Sweet, so Im fine to swap back over?[m
+2012-09-02 23:49:02 [INFO] [Tekkit Creative] mebeme has left the game[m
+2012-09-02 23:51:26 [INFO] [35;1m[Server] test[m
+2012-09-02 23:52:33 [INFO] [Tekkit Creative] lluoc has left the game[m
+2012-09-02 23:52:43 [INFO] [Tekkit Restricted] lluoc has joined the game[m
+2012-09-02 23:53:29 [INFO] [Tekkit Restricted] lluoc has left the game[m
+2012-09-02 23:54:07 [INFO] [Experiment] lluoc has joined the game[m
+2012-09-02 23:54:16 [INFO] [Experiment] lluoc has left the game[m
+2012-09-02 23:54:58 [INFO] [Tekkit Restricted] adrianjboyer has left the game[m
+2012-09-02 23:55:14 [INFO] [Tekkit Creative] adrianjboyer has left the game[m
+2012-09-02 23:56:28 [INFO] lluoc[/14.200.158.249:63212] logged in with entity id 758 at ([world] 70.43032486484817, 66.0, 311.28338408930364)
+2012-09-02 23:57:36 [WARNING] lluoc moved wrongly!
+2012-09-03 00:01:55 [INFO] [Tekkit Restricted] adrianjboyer has joined the game[m
+2012-09-03 00:02:01 [INFO] <lluoc> say hey[m
+2012-09-03 00:02:05 [INFO] [Tekkit Restricted] adrianjboyer: hi[m
+2012-09-03 00:02:15 [INFO] <lluoc> sorry, I should have mentioned that it was at 3.1.2[m
+2012-09-03 00:02:24 [INFO] <lluoc> is saw you were trying to connect[m
+2012-09-03 00:02:40 [INFO] <lluoc> also: *sigh*, i'll have to change the server prefixes[m
+2012-09-03 00:02:44 [INFO] [Tekkit Restricted] adrianjboyer: oh well, i made it in the end[m
+2012-09-03 00:03:01 [INFO] [Tekkit Restricted] adrianjboyer died[m
+2012-09-03 00:03:07 [INFO] <lluoc> well that was quick[m
+2012-09-03 00:03:19 [INFO] <lluoc> by the way, go look at tekkit creative[m
+2012-09-03 00:03:26 [INFO] [Tekkit Restricted] adrianjboyer has left the game[m
+2012-09-03 00:03:30 [INFO] [Tekkit Creative] adrianjboyer has joined the game[m
+2012-09-03 00:03:44 [INFO] [Tekkit Creative] adrianjboyer: what did you do?[m
+2012-09-03 00:03:56 [INFO] <lluoc> ... I couldn't help myself[m
+2012-09-03 00:04:23 [INFO] [Tekkit Creative] adrianjboyer: nukes?[m
+2012-09-03 00:04:31 [INFO] <lluoc> about 5 of them[m
+2012-09-03 00:10:50 [INFO] <lluoc> what are you doning in creative btw?[m
+2012-09-03 00:11:10 [INFO] [Tekkit Creative] adrianjboyer: testing a theory[m
+2012-09-03 00:11:24 [INFO] <lluoc> does this theory involve nukes?[m
+2012-09-03 00:11:37 [INFO] [Tekkit Creative] adrianjboyer: only one at a time[m
+2012-09-03 00:11:52 [INFO] <lluoc> ... well i guess i can reset the worlds[m
+2012-09-03 00:17:58 [INFO] lluoc issued server command: /kill
+2012-09-03 00:22:51 [INFO] lluoc issued server command: /kill
+2012-09-03 00:27:57 [INFO] <lluoc> Guess what game I'm playing[m
+2012-09-03 00:28:10 [INFO] [Tekkit Creative] adrianjboyer: minecraft?[m
+2012-09-03 00:28:25 [INFO] <lluoc> More spesific[m
+2012-09-03 00:29:04 [INFO] <lluoc> 'Minecraft: Where the fuck are all the sheep'[m
+2012-09-03 00:31:26 [INFO] <lluoc> SHEEP[m
+2012-09-03 00:32:35 [INFO] [Tekkit Creative] adrianjboyer has left the game[m
+2012-09-03 00:33:42 [INFO] lluoc issued server command: /kill
+2012-09-03 00:40:28 [INFO] lluoc issued server command: /kill
+2012-09-03 00:44:31 [WARNING] lluoc moved wrongly!
+2012-09-03 00:48:07 [INFO] lluoc issued server command: /ki;;
+2012-09-03 00:48:10 [INFO] lluoc issued server command: /kill
+2012-09-03 01:00:39 [WARNING] lluoc moved wrongly!
+2012-09-03 01:04:07 [INFO] lluoc issued server command: /kill
+2012-09-03 01:14:28 [WARNING] lluoc moved wrongly!
+2012-09-03 01:16:43 [INFO] lluoc issued server command: /kill
+2012-09-03 01:26:00 [INFO] lluoc issued server command: /kill
+2012-09-03 01:34:29 [INFO] lluoc issued server command: /kill
+2012-09-03 01:42:31 [INFO] lluoc issued server command: /kill
+2012-09-03 02:01:13 [INFO] lluoc issued server command: /kill
+2012-09-03 02:13:05 [WARNING] lluoc moved wrongly!
+2012-09-03 02:18:50 [INFO] Connection reset
+2012-09-03 02:18:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-03 02:56:46 [INFO] lluoc[/14.200.158.249:54780] logged in with entity id 70945 at ([world] 25.32407775193697, 47.0, 226.94418107390212)
+2012-09-03 02:57:54 [INFO] lluoc issued server command: /kill
+2012-09-03 03:00:34 [WARNING] lluoc moved wrongly!
+2012-09-03 03:20:45 [INFO] lluoc issued server command: /kill
+2012-09-03 03:39:29 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 03:40:03 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 03:40:06 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 03:41:40 [INFO] <lluoc> hey[m
+2012-09-03 03:41:47 [INFO] [Tekkit Restricted] nightkhaos: hey[m
+2012-09-03 03:42:05 [INFO] [Tekkit Restricted] nightkhaos: s[m
+2012-09-03 03:42:11 [INFO] <lluoc> ?[m
+2012-09-03 03:42:12 [INFO] [Tekkit Restricted] nightkhaos: so, what did you modify?[m
+2012-09-03 03:42:40 [INFO] <lluoc> um, you know that list i posted.[m
+2012-09-03 03:43:04 [INFO] <lluoc> well everything on it except the chosen four are set to 0[m
+2012-09-03 03:43:13 [INFO] <lluoc> there will probably some items you can still make though.[m
+2012-09-03 03:43:35 [INFO] <lluoc> I get the feeling that they forgot something and I'll have to enable something else to[m
+2012-09-03 03:43:46 [INFO] <lluoc> let them build the enabled items.[m
+2012-09-03 03:44:00 [INFO] <lluoc> Also I just spent 4 hours cleaning up a ravine....[m
+2012-09-03 03:44:05 [INFO] lluoc issued server command: /kill
+2012-09-03 03:50:07 [WARNING] lluoc moved wrongly!
+2012-09-03 03:52:36 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 03:53:01 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 03:55:02 [INFO] <lluoc> FUUUUU[m
+2012-09-03 03:55:05 [INFO] <lluoc> sleep[m
+2012-09-03 03:55:09 [INFO] [Tekkit Restricted] nightkhaos: me?[m
+2012-09-03 03:55:12 [INFO] <lluoc> wake up[m
+2012-09-03 03:55:17 [INFO] <lluoc> creeper next to bed[m
+2012-09-03 03:55:22 [INFO] <lluoc> destroys bed and chests[m
+2012-09-03 03:55:28 [INFO] <lluoc> then hunger drops to 0[m
+2012-09-03 03:55:29 [INFO] <lluoc> ...[m
+2012-09-03 03:55:32 [INFO] <lluoc> FUUUU[m
+2012-09-03 04:03:13 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 04:03:16 [INFO] [Tekkit Restricted] nightkhaos has joined the game[m
+2012-09-03 04:05:45 [INFO] lluoc issued server command: /kill
+2012-09-03 04:28:16 [INFO] [Tekkit Restricted] nightkhaos died[m
+2012-09-03 04:28:22 [INFO] [Tekkit Restricted] nightkhaos died[m
+2012-09-03 04:28:28 [INFO] [Tekkit Restricted] nightkhaos died[m
+2012-09-03 04:29:43 [INFO] <lluoc> ?[m
+2012-09-03 04:29:51 [INFO] [Tekkit Restricted] nightkhaos: zombie by my bed[m
+2012-09-03 04:29:56 [INFO] <lluoc> ahh[m
+2012-09-03 04:30:15 [INFO] <lluoc> oh, is there eclipse phase this week?[m
+2012-09-03 04:30:20 [INFO] [Tekkit Restricted] nightkhaos: yes[m
+2012-09-03 04:30:26 [INFO] <lluoc> k. Same time?[m
+2012-09-03 04:30:39 [INFO] [Tekkit Restricted] nightkhaos: maybe eariler[m
+2012-09-03 04:30:51 [INFO] <lluoc> kk.[m
+2012-09-03 04:31:54 [INFO] <lluoc> oh hey, did you want op? I can't remember if it was you who asked about it before.[m
+2012-09-03 04:32:01 [INFO] [Tekkit Restricted] nightkhaos: yes[m
+2012-09-03 04:32:07 [INFO] <lluoc> ok, just a sec[m
+2012-09-03 04:32:53 [INFO] lluoc issued server command: /op nightkhaos
+2012-09-03 04:32:53 [INFO] lluoc: Opped nightkhaos[m
+2012-09-03 04:33:14 [INFO] [Tekkit Restricted] nightkhaos: well, I need sand, lots of sand, to deal with this problem[m
+2012-09-03 04:33:30 [INFO] <lluoc> hmm, can you try an op command. like  "/time set 0"[m
+2012-09-03 04:33:36 [INFO] <lluoc> what problem?[m
+2012-09-03 04:33:43 [INFO] [Tekkit Restricted] nightkhaos: no premission[m
+2012-09-03 04:33:55 [INFO] [Tekkit Restricted] nightkhaos: oh my "house" happens to by right next to a underground ravine[m
+2012-09-03 04:34:02 [INFO] <lluoc> sigh. I'll have to do it through each server[m
+2012-09-03 04:34:20 [INFO] <lluoc> My house is in a ravine. Glassing the side? I'm probably going to glass the top of mine[m
+2012-09-03 04:34:35 [INFO] [Tekkit Restricted] nightkhaos: no, just trying to get to the bottom of the ravine[m
+2012-09-03 04:34:52 [INFO] [Tekkit Restricted] nightkhaos: i'm op[m
+2012-09-03 04:35:23 [INFO] <lluoc> by the way, using /say will only broudcast to the server you're on.[m
+2012-09-03 04:35:35 [INFO] [Tekkit Restricted] nightkhaos: who would I talk to?[m
+2012-09-03 04:35:47 [INFO] <lluoc> just letting you know[m
+2012-09-03 04:36:40 [INFO] <lluoc> Oh, and no putting water in the nether. You know what happens to people who do that.[m
+2012-09-03 04:36:51 [INFO] [Tekkit Restricted] nightkhaos: kk[m
+2012-09-03 04:37:12 [INFO] ultrajono[/124.168.153.188:49588] logged in with entity id 124645 at ([world] 77.5, 70.62000000476837, 291.5)
+2012-09-03 04:37:16 [INFO] <ultrajono> hey lluoc[m
+2012-09-03 04:37:16 [INFO] <lluoc> hey[m
+2012-09-03 04:37:17 [INFO] <ultrajono> been a while[m
+2012-09-03 04:37:20 [INFO] <lluoc> yeah[m
+2012-09-03 04:37:25 [INFO] <ultrajono> ok, i'm in a tree?[m
+2012-09-03 04:37:26 [INFO] <lluoc> also nightkhaos is on[m
+2012-09-03 04:37:36 [INFO] <ultrajono> hey nightkhaos[m
+2012-09-03 04:37:39 [INFO] [Tekkit Restricted] nightkhaos: hey[m
+2012-09-03 04:37:41 [INFO] <ultrajono> how long has this map been up?[m
+2012-09-03 04:37:46 [INFO] <lluoc> 7 or so hours[m
+2012-09-03 04:37:57 [INFO] [Tekkit Restricted] nightkhaos: need moar sand[m
+2012-09-03 04:37:58 [INFO] <ultrajono> whats going on with the rest of them, i can't log in to anything?[m
+2012-09-03 04:38:14 [INFO] <lluoc> rest?[m
+2012-09-03 04:38:23 [INFO] <lluoc> hey[m
+2012-09-03 04:38:28 [INFO] <ultrajono> the other servers, i think[m
+2012-09-03 04:38:41 [INFO] <ultrajono> hey lluoc[m
+2012-09-03 04:38:45 [INFO] <lluoc> you putting in the ports?[m
+2012-09-03 04:38:47 [INFO] <lluoc> heh[m
+2012-09-03 04:38:59 [INFO] <lluoc> follows[m
+2012-09-03 04:39:01 [INFO] <ultrajono> damn new worlds[m
+2012-09-03 04:39:22 [INFO] <ultrajono> strange, minimap isn't workin[m
+2012-09-03 04:39:32 [INFO] <ultrajono> holy fudgeballs[m
+2012-09-03 04:39:37 [INFO] <lluoc> i spent 4 hours smoothing it[m
+2012-09-03 04:39:47 [INFO] [Tekkit Restricted] nightkhaos: ha?[m
+2012-09-03 04:39:47 [INFO] <ultrajono> lost ya[m
+2012-09-03 04:40:25 [INFO] <ultrajono> this been up for 7 hours, and you've done this?[m
+2012-09-03 04:40:27 [INFO] <lluoc> nothing really to show yet[m
+2012-09-03 04:40:49 [INFO] <lluoc> yeah, jsut building my mining shack[m
+2012-09-03 04:40:56 [INFO] <lluoc> I'll move on to an actual house at some point[m
+2012-09-03 04:41:00 [INFO] <ultrajono> and the rest of the worlds we've played on?[m
+2012-09-03 04:41:17 [INFO] <lluoc> ok. The data is still there we jsut can't reach it.[m
+2012-09-03 04:41:21 [INFO] <ultrajono> well thats balls[m
+2012-09-03 04:41:28 [INFO] <ultrajono> where are you taylor?[m
+2012-09-03 04:41:32 [INFO] <lluoc> with the other worlds. Have you put in the port numbers?[m
+2012-09-03 04:41:37 [INFO] <lluoc> he's on tekkit[m
+2012-09-03 04:42:09 [INFO] <ultrajono> port numbers?[m
+2012-09-03 04:42:40 [INFO] <lluoc> ... ok make a new server that connects to 'blocksoc.net:25568'[m
+2012-09-03 04:42:49 [INFO] <lluoc> the numbers at the end are the port numbers[m
+2012-09-03 04:43:07 [INFO] <lluoc> the server list is on the facebook post.[m
+2012-09-03 04:43:21 [INFO] <lluoc> you'll need the tekkit launcher to access the tekkit worlds[m
+2012-09-03 04:43:28 [INFO] <ultrajono> how many worls total now?[m
+2012-09-03 04:43:46 [INFO] <lluoc> this, a creative, the experiment world, a tekkit world and a tekkit creative world[m
+2012-09-03 04:44:02 [INFO] <ultrajono> and where is everybody, or is it all mixed?[m
+2012-09-03 04:44:07 [INFO] [Tekkit Restricted] nightkhaos: right, almost at the buttom of the revine[m
+2012-09-03 04:44:10 [INFO] <lluoc> we can fit 3 more servers[m
+2012-09-03 04:44:13 [INFO] <lluoc> heh[m
+2012-09-03 04:44:18 [INFO] <lluoc> I mean 4 more servers[m
+2012-09-03 04:44:58 [INFO] <lluoc> By the way, i might be able to make server portals work between the bukkit and tekkit worlds[m
+2012-09-03 04:45:09 [INFO] <ultrajono> oh, that would be impressive, and so much easier[m
+2012-09-03 04:45:32 [INFO] <lluoc> you need a modified client to do it though. The tekkit client has that mod though.[m
+2012-09-03 04:45:35 [INFO] <lluoc> may or may not worl[m
+2012-09-03 04:48:12 [INFO] <lluoc> oh jono, kindly don't kill the sheep[m
+2012-09-03 04:48:27 [INFO] <lluoc> there is a shear in my chest you're welcome to[m
+2012-09-03 04:51:20 [INFO] <ultrajono> there are sheep?[m
+2012-09-03 04:51:28 [INFO] <ultrajono> sorry, just speakin to a mate[m
+2012-09-03 04:51:44 [INFO] <lluoc> umm, follow the coast more... actually I'll try and get them here[m
+2012-09-03 04:51:44 [INFO] ultrajono lost connection: disconnect.quitting
+2012-09-03 04:51:44 [INFO] Connection reset
+2012-09-03 04:51:54 [INFO] ultrajono[/124.168.153.188:49743] logged in with entity id 131924 at ([world] 32.10899383131486, 47.0, 253.73597270748454)
+2012-09-03 04:51:56 [INFO] lluoc issued server command: /kill
+2012-09-03 04:52:05 [INFO] [Tekkit Restricted] nightkhaos has left the game[m
+2012-09-03 04:52:20 [INFO] <ultrajono> ok, so thsi works, i'll be back later to have a look, create my own place[m
+2012-09-03 04:52:31 [INFO] <ultrajono> i'm guessing by then, you'll have an ender spawner, and a chest full of diamond bricks[m
+2012-09-03 04:52:59 [INFO] Connection reset
+2012-09-03 04:52:59 [INFO] ultrajono lost connection: disconnect.quitting
+2012-09-03 04:53:46 [INFO] Connection reset
+2012-09-03 04:53:46 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-03 05:11:43 [INFO] [Experiment] lluoc has joined the game[m
+2012-09-03 05:12:23 [INFO] [Experiment] lluoc has left the game[m
+2012-09-03 08:12:14 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-03 08:26:46 [INFO] There are 0/20 players online:
+[m
+2012-09-03 08:31:59 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-03 09:01:26 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-03 09:09:28 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-03 09:10:09 [INFO] [Tekkit Restricted] mebeme has joined the game[m
+2012-09-03 09:22:16 [INFO] lluoc[/14.200.158.249:62681] logged in with entity id 132978 at ([world] -177.44237977546427, 61.427186989793086, 280.04162337020296)
+2012-09-03 09:22:43 [INFO] [Tekkit Restricted] mebeme died[m
+2012-09-03 09:23:01 [INFO] <lluoc> hey[m
+2012-09-03 09:23:04 [INFO] [Tekkit Restricted] mebeme: Hey[m
+2012-09-03 09:23:46 [INFO] [Tekkit Restricted] mebeme: The cross server chat thing is wierd :P[m
+2012-09-03 09:23:57 [INFO] <lluoc> how so?[m
+2012-09-03 09:24:08 [INFO] [Tekkit Restricted] mebeme: It's just.. unusual xD[m
+2012-09-03 09:24:42 [INFO] <lluoc> I'm hearding sheep. Two chickens are folowing me too[m
+2012-09-03 09:24:48 [INFO] <lluoc> wait, 3...[m
+2012-09-03 09:24:54 [INFO] <lluoc> the fuck did that one come from[m
+2012-09-03 09:25:19 [INFO] [Tekkit Restricted] mebeme: Oh wow[m
+2012-09-03 09:25:25 [INFO] <lluoc> ?[m
+2012-09-03 09:25:29 [INFO] [Tekkit Restricted] mebeme: Mineshaft in the first cave I go in?[m
+2012-09-03 09:25:31 [INFO] [Tekkit Restricted] mebeme: Bonus[m
+2012-09-03 09:25:38 [INFO] <lluoc> heh[m
+2012-09-03 09:32:39 [WARNING] lluoc moved wrongly!
+2012-09-03 09:39:08 [INFO] Connection reset
+2012-09-03 09:39:08 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-03 09:41:20 [INFO] [Tekkit Restricted] mebeme has left the game[m
+2012-09-03 09:51:03 [SEVERE] [xServer] Malformed Packet
+2012-09-03 09:51:03 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 09:51:03 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 09:51:03 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 09:51:03 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:00:09 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:00:09 [INFO] Adding Client
+2012-09-03 10:00:09 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:03:35 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:03:35 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:03:35 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:03:35 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:03:35 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:03:46 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:03:46 [INFO] Adding Client
+2012-09-03 10:03:46 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:04:24 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:04:24 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:04:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:04:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:04:24 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:04:36 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:04:36 [INFO] Adding Client
+2012-09-03 10:04:36 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:05:24 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:05:24 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:05:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:05:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:05:24 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:05:35 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:05:35 [INFO] Adding Client
+2012-09-03 10:05:35 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:05:37 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:05:37 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:05:37 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:05:37 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:05:37 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:05:55 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:05:55 [INFO] Adding Client
+2012-09-03 10:05:55 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:05:57 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:05:57 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:05:57 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:05:57 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:05:57 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:09:12 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:09:12 [INFO] Adding Client
+2012-09-03 10:09:12 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:13:36 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:13:36 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:13:36 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:13:36 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:13:36 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:13:46 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:13:46 [INFO] Adding Client
+2012-09-03 10:13:46 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:13:49 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:13:49 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:13:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:13:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:13:49 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 10:17:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:17:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 10:17:01 [INFO] Stopping server
+2012-09-03 10:17:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 10:17:01 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:17:01 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:17:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:17:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:17:01 [INFO] [34;1m[xServer] Experiment has disconnected[m
+2012-09-03 10:17:01 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:17:01 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:17:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:17:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:17:01 [SEVERE] [xServer] Could not read packet
+2012-09-03 10:17:01 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2012-09-03 10:17:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 10:17:01 [SEVERE] [xServer] Exception in server
+2012-09-03 10:17:01 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 10:17:01 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 10:17:01 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 10:17:01 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 10:17:01 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 10:17:01 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 10:17:01 [INFO] Saving players
+2012-09-03 10:17:01 [INFO] Saving worlds
+2012-09-03 10:17:01 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 10:17:01 [WARNING] DSCT: Socket closed
+2012-09-03 10:17:01 [INFO] Closing listening thread
+2012-09-03 10:17:02 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 10:17:02 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 10:17:13 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 10:17:13 [INFO] Loading properties
+2012-09-03 10:17:13 [INFO] Default game type: SURVIVAL
+2012-09-03 10:17:13 [INFO] Generating keypair
+2012-09-03 10:17:13 [INFO] Starting Minecraft server on *:25565
+2012-09-03 10:17:14 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 10:17:14 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 10:17:14 [INFO] Preparing level "world"
+2012-09-03 10:17:14 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 10:17:15 [INFO] Preparing spawn area: 93%
+2012-09-03 10:17:15 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 10:17:15 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 10:17:15 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 10:17:15 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 10:17:15 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 10:17:15 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 10:17:15 [INFO] ----- ------------------- -----
+2012-09-03 10:17:16 [INFO] Preparing spawn area: 57%
+2012-09-03 10:17:16 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 10:17:17 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 10:17:17 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 10:17:17 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 10:17:17 [INFO] [xServer] Starting as Host
+2012-09-03 10:17:17 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:17:17 [INFO] Adding Client
+2012-09-03 10:17:17 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 10:17:17 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 10:17:17 [INFO] Done (3.136s)! For help, type "help" or "?"
+2012-09-03 10:17:18 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:17:18 [INFO] Adding Client
+2012-09-03 10:17:18 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 10:17:19 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:17:19 [INFO] Adding Client
+2012-09-03 10:17:19 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:17:22 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:17:22 [INFO] Adding Client
+2012-09-03 10:17:22 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 10:17:22 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:17:22 [INFO] Adding Client
+2012-09-03 10:17:22 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 10:20:08 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:20:08 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 10:20:08 [INFO] Stopping server
+2012-09-03 10:20:08 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 10:20:08 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 10:20:08 [SEVERE] [xServer] Could not read packet
+2012-09-03 10:20:08 [SEVERE] [xServer] Exception in server
+2012-09-03 10:20:08 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 10:20:08 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 10:20:08 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 10:20:08 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 10:20:08 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 10:20:08 [WARNING] DSCT: Socket closed
+2012-09-03 10:20:08 [INFO] Saving players
+2012-09-03 10:20:08 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 10:20:08 [INFO] Closing listening thread
+2012-09-03 10:20:08 [INFO] Saving worlds
+2012-09-03 10:20:08 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 10:20:08 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 10:20:08 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 10:20:25 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 10:20:25 [INFO] Loading properties
+2012-09-03 10:20:25 [INFO] Default game type: SURVIVAL
+2012-09-03 10:20:25 [INFO] Generating keypair
+2012-09-03 10:20:25 [INFO] Starting Minecraft server on *:25565
+2012-09-03 10:20:26 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 10:20:26 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 10:20:26 [INFO] Preparing level "world"
+2012-09-03 10:20:26 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 10:20:27 [INFO] Preparing spawn area: 85%
+2012-09-03 10:20:27 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 10:20:28 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 10:20:28 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 10:20:28 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 10:20:28 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 10:20:28 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 10:20:28 [INFO] ----- ------------------- -----
+2012-09-03 10:20:28 [INFO] Preparing spawn area: 57%
+2012-09-03 10:20:28 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 10:20:29 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 10:20:29 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 10:20:29 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 10:20:29 [INFO] [xServer] Starting as Host
+2012-09-03 10:20:29 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:20:29 [INFO] Adding Client
+2012-09-03 10:20:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 10:20:29 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 10:20:29 [INFO] Done (3.115s)! For help, type "help" or "?"
+2012-09-03 10:20:30 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:20:30 [INFO] Adding Client
+2012-09-03 10:20:30 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 10:20:31 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:20:31 [INFO] Adding Client
+2012-09-03 10:20:31 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:20:33 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:20:33 [INFO] Adding Client
+2012-09-03 10:20:33 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 10:20:34 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:20:34 [INFO] Adding Client
+2012-09-03 10:20:34 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 10:22:05 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:22:05 [INFO] [35;1m[Server] test[m
+2012-09-03 10:22:33 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 10:22:33 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 10:22:33 [INFO] Stopping server
+2012-09-03 10:22:33 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 10:22:33 [SEVERE] [xServer] Malformed Packet
+2012-09-03 10:22:33 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 10:22:33 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 10:22:33 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 10:22:33 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 10:22:33 [SEVERE] [xServer] Exception in server
+2012-09-03 10:22:33 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 10:22:33 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 10:22:33 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 10:22:33 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 10:22:33 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 10:22:33 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 10:22:33 [INFO] Saving players
+2012-09-03 10:22:33 [WARNING] DSCT: Socket closed
+2012-09-03 10:22:33 [INFO] Closing listening thread
+2012-09-03 10:22:33 [INFO] Saving worlds
+2012-09-03 10:22:33 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 10:22:33 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 10:22:33 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 10:22:39 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 10:22:39 [INFO] Loading properties
+2012-09-03 10:22:39 [INFO] Default game type: SURVIVAL
+2012-09-03 10:22:39 [INFO] Generating keypair
+2012-09-03 10:22:40 [INFO] Starting Minecraft server on *:25565
+2012-09-03 10:22:40 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 10:22:40 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 10:22:40 [INFO] Preparing level "world"
+2012-09-03 10:22:40 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 10:22:41 [INFO] Preparing spawn area: 89%
+2012-09-03 10:22:42 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 10:22:42 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 10:22:42 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 10:22:42 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 10:22:42 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 10:22:42 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 10:22:42 [INFO] ----- ------------------- -----
+2012-09-03 10:22:43 [INFO] Preparing spawn area: 57%
+2012-09-03 10:22:43 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 10:22:43 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 10:22:43 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 10:22:43 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 10:22:43 [INFO] [xServer] Starting as Host
+2012-09-03 10:22:43 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:22:43 [INFO] Adding Client
+2012-09-03 10:22:43 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 10:22:43 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 10:22:43 [INFO] Done (3.149s)! For help, type "help" or "?"
+2012-09-03 10:22:44 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:22:44 [INFO] Adding Client
+2012-09-03 10:22:44 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 10:22:45 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:22:45 [INFO] Adding Client
+2012-09-03 10:22:45 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 10:22:49 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:22:49 [INFO] Adding Client
+2012-09-03 10:22:49 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 10:22:49 [INFO] [xServer] Connection made on port 33777
+2012-09-03 10:22:49 [INFO] Adding Client
+2012-09-03 10:22:49 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:06:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:35 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:06:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:35 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:06:35 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:06:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:35 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:06:38 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:38 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:06:38 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:38 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:06:38 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:06:38 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:38 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:06:38 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:06:38 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:37 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:37 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:07:37 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:37 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:07:37 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:07:37 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:37 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:07:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:40 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:07:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:40 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:07:40 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:07:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:40 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:07:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:07:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:53 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:08:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:53 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:08:53 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:08:53 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:53 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:08:56 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:56 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:08:56 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:56 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:08:56 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:08:56 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:56 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:08:56 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:08:56 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:10:58 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:10:58 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:10:58 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:10:58 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:10:58 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:10:58 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:10:58 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:11:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:01 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:11:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:11:01 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:11:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:01 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:11:31 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:31 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:11:31 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:31 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:11:31 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:11:31 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:31 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:11:34 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:34 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:11:34 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:34 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:11:34 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:11:34 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:34 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:11:44 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:44 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:11:44 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:44 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:11:44 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:11:44 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:44 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:11:48 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:48 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:11:48 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:48 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:11:48 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:11:48 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:11:48 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:12:08 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:12:08 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:12:08 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:12:08 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:12:08 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:12:08 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:12:08 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:12:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:12:11 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:12:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:12:11 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:12:11 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:12:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:12:11 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:14:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:11 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:14:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:11 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:14:11 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:14:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:11 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:14:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:14 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:14:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:14 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:14:14 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:14:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:14 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:14:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:40 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:14:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:40 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:14:40 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:14:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:40 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:14:43 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:43 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:14:43 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:43 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:14:43 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:14:43 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:14:43 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:15:37 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:15:37 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:15:37 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:15:37 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:15:37 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:15:37 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:15:37 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:15:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:15:40 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:15:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:15:40 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:15:40 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:15:40 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:15:40 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:16:48 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:16:48 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:16:48 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:16:48 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:16:48 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:16:48 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:16:48 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:16:52 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:16:52 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:16:52 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:16:52 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:16:52 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:16:52 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:16:52 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:17:39 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:39 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:17:39 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:39 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:17:39 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:17:39 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:39 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:17:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:42 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:17:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:42 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:17:42 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:17:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:42 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:17:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:57 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:57 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:17:57 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:57 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:17:57 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:17:57 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:17:57 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:18:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:00 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:18:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:00 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:18:00 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:18:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:00 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:18:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:44 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:44 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:18:44 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:44 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:18:44 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:18:44 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:44 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:18:47 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:47 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:18:47 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:47 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:18:47 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:18:47 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:18:47 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:20:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:06 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:20:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:06 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:20:06 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:20:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:06 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:20:10 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:10 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:20:10 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:10 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:20:10 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:20:10 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:10 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:20:22 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:22 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:20:22 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:22 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:20:22 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:20:22 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:22 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:20:25 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:25 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:20:25 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:25 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:20:25 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:20:25 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:20:25 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:21:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:21:11 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:21:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:21:11 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:21:11 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:21:11 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:21:11 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:21:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:21:14 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:21:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:21:14 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:21:14 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:21:14 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:21:14 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:26:49 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:26:49 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:26:49 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:26:49 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:26:49 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:26:49 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:26:49 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:26:49 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:26:49 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:26:49 [INFO] Stopping server
+2012-09-03 11:26:49 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:26:49 [SEVERE] [xServer] Could not read packet
+2012-09-03 11:26:49 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2012-09-03 11:26:49 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:26:49 [SEVERE] [xServer] Exception in server
+2012-09-03 11:26:49 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 11:26:49 [WARNING] DSCT: Socket closed
+2012-09-03 11:26:49 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 11:26:49 [INFO] Closing listening thread
+2012-09-03 11:26:49 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 11:26:49 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 11:26:49 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 11:26:49 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 11:26:49 [INFO] Saving players
+2012-09-03 11:26:49 [INFO] Saving worlds
+2012-09-03 11:26:49 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 11:26:50 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 11:26:50 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 11:33:03 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 11:33:03 [INFO] Loading properties
+2012-09-03 11:33:03 [INFO] Default game type: SURVIVAL
+2012-09-03 11:33:03 [INFO] Generating keypair
+2012-09-03 11:33:03 [INFO] Starting Minecraft server on *:25565
+2012-09-03 11:33:04 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 11:33:04 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 11:33:04 [INFO] Preparing level "world"
+2012-09-03 11:33:04 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 11:33:05 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 11:33:05 [INFO] Preparing spawn area: 24%
+2012-09-03 11:33:06 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 11:33:06 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 11:33:06 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 11:33:06 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 11:33:06 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 11:33:06 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 11:33:06 [INFO] ----- ------------------- -----
+2012-09-03 11:33:06 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 11:33:06 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 11:33:06 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 11:33:06 [INFO] [xServer] Starting as Host
+2012-09-03 11:33:06 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:33:06 [INFO] Adding Client
+2012-09-03 11:33:06 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 11:33:06 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 11:33:06 [INFO] Done (2.149s)! For help, type "help" or "?"
+2012-09-03 11:33:08 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:33:08 [INFO] Adding Client
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 11:33:08 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:33:08 [INFO] Adding Client
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 11:33:08 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:33:08 [INFO] Adding Client
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 11:33:08 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:33:08 [INFO] Adding Client
+2012-09-03 11:33:08 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:33:17 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:33:17 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:33:17 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:33:17 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:33:17 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:33:17 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:33:17 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:33:17 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:33:17 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:33:17 [INFO] Stopping server
+2012-09-03 11:33:17 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:33:17 [SEVERE] [xServer] Could not read packet
+2012-09-03 11:33:17 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:33:17 [SEVERE] [xServer] Exception in server
+2012-09-03 11:33:17 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 11:33:17 [WARNING] DSCT: Socket closed
+2012-09-03 11:33:17 [INFO] Closing listening thread
+2012-09-03 11:33:17 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 11:33:17 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 11:33:17 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 11:33:17 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 11:33:17 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 11:33:17 [INFO] Saving players
+2012-09-03 11:33:17 [INFO] Saving worlds
+2012-09-03 11:33:17 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 11:33:17 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 11:33:17 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 11:33:17 [INFO] Stopping server
+2012-09-03 11:33:17 [INFO] Saving players
+2012-09-03 11:33:17 [INFO] Saving worlds
+2012-09-03 11:33:17 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 11:39:02 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 11:39:02 [INFO] Loading properties
+2012-09-03 11:39:02 [INFO] Default game type: SURVIVAL
+2012-09-03 11:39:02 [INFO] Generating keypair
+2012-09-03 11:39:02 [INFO] Starting Minecraft server on *:25565
+2012-09-03 11:39:03 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 11:39:03 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 11:39:03 [INFO] Preparing level "world"
+2012-09-03 11:39:03 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 11:39:04 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 11:39:04 [INFO] Preparing spawn area: 0%
+2012-09-03 11:39:05 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 11:39:05 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 11:39:05 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 11:39:05 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 11:39:05 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 11:39:05 [INFO] ----- ------------------- -----
+2012-09-03 11:39:05 [INFO] Preparing spawn area: 77%
+2012-09-03 11:39:06 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 11:39:06 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 11:39:06 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 11:39:06 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 11:39:06 [INFO] [xServer] Starting as Host
+2012-09-03 11:39:06 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:06 [INFO] Adding Client
+2012-09-03 11:39:06 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 11:39:06 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 11:39:06 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:06 [INFO] Adding Client
+2012-09-03 11:39:06 [INFO] Done (2.952s)! For help, type "help" or "?"
+2012-09-03 11:39:06 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:07 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:39:07 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:07 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:39:07 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:39:07 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:07 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:39:07 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:07 [INFO] Adding Client
+2012-09-03 11:39:07 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 11:39:11 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:11 [INFO] Adding Client
+2012-09-03 11:39:12 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 11:39:12 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:12 [INFO] Adding Client
+2012-09-03 11:39:12 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:39:26 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:39:26 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:39:26 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-03 11:39:26 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:39:26 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:39:26 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:39:26 [INFO] [34;1m[xServer] Tekkit-R has disconnected[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 11:39:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:26 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:39:26 [SEVERE] [xServer] Malformed Packet
+2012-09-03 11:39:26 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 11:39:26 [INFO] Stopping server
+2012-09-03 11:39:26 [INFO] [34;1m[xServer] Tekkit-C has disconnected[m
+2012-09-03 11:39:26 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:39:26 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:39:26 [INFO] Saving players
+2012-09-03 11:39:26 [INFO] Saving worlds
+2012-09-03 11:39:26 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 11:39:26 [SEVERE] [xServer] Exception in server
+2012-09-03 11:39:26 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 11:39:26 [WARNING] DSCT: Socket closed
+2012-09-03 11:39:26 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 11:39:26 [INFO] Closing listening thread
+2012-09-03 11:39:26 [SEVERE] [xServer] Could not read packet
+2012-09-03 11:39:26 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 11:39:26 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 11:39:26 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 11:39:26 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 11:39:27 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 11:39:27 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 11:39:27 [INFO] Stopping server
+2012-09-03 11:39:31 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 11:39:31 [INFO] Loading properties
+2012-09-03 11:39:31 [INFO] Default game type: SURVIVAL
+2012-09-03 11:39:31 [INFO] Generating keypair
+2012-09-03 11:39:31 [INFO] Starting Minecraft server on *:25565
+2012-09-03 11:39:31 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 11:39:32 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 11:39:32 [INFO] Preparing level "world"
+2012-09-03 11:39:32 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-03 11:39:33 [INFO] Preparing spawn area: 89%
+2012-09-03 11:39:33 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-03 11:39:33 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 11:39:33 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 11:39:33 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 11:39:33 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 11:39:33 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 11:39:33 [INFO] ----- ------------------- -----
+2012-09-03 11:39:34 [INFO] Preparing spawn area: 57%
+2012-09-03 11:39:34 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-03 11:39:35 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 11:39:35 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 11:39:35 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-03 11:39:35 [INFO] [xServer] Starting as Host
+2012-09-03 11:39:35 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:35 [INFO] Adding Client
+2012-09-03 11:39:35 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 11:39:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 11:39:35 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:35 [INFO] Adding Client
+2012-09-03 11:39:35 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-03 11:39:35 [INFO] Done (3.313s)! For help, type "help" or "?"
+2012-09-03 11:39:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:35 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 11:39:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:35 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 11:39:35 [INFO] CONSOLE: Save complete.[m
+2012-09-03 11:39:35 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:39:35 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 11:39:36 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:36 [INFO] Adding Client
+2012-09-03 11:39:36 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 11:39:40 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:40 [INFO] Adding Client
+2012-09-03 11:39:40 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 11:39:40 [INFO] [xServer] Connection made on port 33777
+2012-09-03 11:39:40 [INFO] Adding Client
+2012-09-03 11:39:40 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 11:43:04 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 11:43:04 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 11:43:04 [INFO] Stopping server
+2012-09-03 11:43:04 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 11:43:04 [SEVERE] [xServer] Could not read packet
+2012-09-03 11:43:04 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 11:43:04 [INFO] Saving players
+2012-09-03 11:43:04 [INFO] Saving worlds
+2012-09-03 11:43:04 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 11:43:04 [WARNING] DSCT: Socket closed
+2012-09-03 11:43:04 [INFO] Closing listening thread
+2012-09-03 11:43:04 [SEVERE] [xServer] Exception in server
+2012-09-03 11:43:04 [SEVERE] java.net.SocketException: Socket closed
+2012-09-03 11:43:04 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-03 11:43:04 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-03 11:43:04 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-03 11:43:04 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-03 11:43:04 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-03 11:43:04 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 11:43:04 [INFO] Saving chunks for level 'world_the_end'/The End
