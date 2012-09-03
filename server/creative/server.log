@@ -1328,3 +1328,76 @@ java.io.IOException: Input/output error
 2012-09-03 12:36:12 [INFO] Saving chunks for level 'world'/Overworld
 2012-09-03 12:36:12 [INFO] Saving chunks for level 'world_nether'/Nether
 2012-09-03 12:36:12 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-03 12:37:21 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 12:37:21 [INFO] Loading properties
+2012-09-03 12:37:21 [INFO] Default game type: CREATIVE
+2012-09-03 12:37:21 [INFO] Generating keypair
+2012-09-03 12:37:22 [INFO] Starting Minecraft server on *:25567
+2012-09-03 12:37:22 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-03 12:37:22 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 12:37:22 [INFO] Preparing level "world"
+2012-09-03 12:37:22 [INFO] Preparing start region for level 0 (Seed: 4994683471075611148)
+2012-09-03 12:37:24 [INFO] Preparing spawn area: 93%
+2012-09-03 12:37:24 [INFO] Preparing start region for level 1 (Seed: 4994683471075611148)
+2012-09-03 12:37:24 [INFO] ----- Bukkit Auto Updater -----
+2012-09-03 12:37:24 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-03 12:37:24 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-03 12:37:24 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-03 12:37:24 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-03 12:37:24 [INFO] ----- ------------------- -----
+2012-09-03 12:37:25 [INFO] Preparing start region for level 2 (Seed: 4994683471075611148)
+2012-09-03 12:37:25 [INFO] Preparing spawn area: 8%
+2012-09-03 12:37:25 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 12:37:25 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 12:37:25 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 12:37:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 12:37:25 [INFO] Done (3.058s)! For help, type "help" or "?"
+2012-09-03 12:37:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 12:37:26 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 12:37:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 12:37:26 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 12:37:26 [INFO] CONSOLE: Save complete.[m
+2012-09-03 12:37:26 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 12:37:26 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 12:37:26 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-03 12:37:30 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 12:37:30 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 16:17:49 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-03 16:43:57 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-03 18:53:58 [INFO] [Tekkit-R] NotQuiteAs1 has left the game[m
+2012-09-03 18:58:17 [INFO] [Tekkit-R] NotQuiteAs1 has left the game[m
+2012-09-03 19:01:06 [INFO] [Fluid] NotQuiteAs1 has joined the game[m
+2012-09-03 19:04:27 [INFO] [Fluid] NotQuiteAs1 has left the game[m
+2012-09-03 19:06:14 [INFO] [Fluid] NotQuiteAs1 has joined the game[m
+2012-09-03 19:06:27 [INFO] [Fluid] NotQuiteAs1 has left the game[m
+2012-09-03 19:07:42 [INFO] [Fluid] NotQuiteAs1 has joined the game[m
+2012-09-03 19:14:17 [INFO] [Fluid] NotQuiteAs1 died[m
+2012-09-03 19:17:23 [INFO] [Fluid] NotQuiteAs1 died[m
+2012-09-03 19:18:16 [INFO] [Fluid] NotQuiteAs1 has left the game[m
+2012-09-03 20:08:12 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Save complete.[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 21:08:00 [SEVERE] [xServer] Malformed Packet
+2012-09-03 21:08:00 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 21:08:00 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 21:08:00 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 21:08:00 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 21:08:00 [INFO] Stopping server
+2012-09-03 21:08:00 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 21:08:00 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 21:08:00 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 21:08:00 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 21:08:00 [WARNING] DSCT: Socket closed
+2012-09-03 21:08:00 [INFO] Closing listening thread
+2012-09-03 21:08:00 [INFO] Saving players
+2012-09-03 21:08:00 [INFO] Saving worlds
+2012-09-03 21:08:00 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 21:08:00 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-03 21:08:00 [INFO] Saving chunks for level 'world_the_end'/The End

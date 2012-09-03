@@ -1655,3 +1655,68 @@ mebeme, H4ZM4T[m
 2012-09-03 12:36:12 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@578a5496
 2012-09-03 12:36:12 [INFO] Closing listening thread
 2012-09-03 12:36:12 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@3ab770c0
+2012-09-03 12:37:21 [INFO] Starting minecraft server version 1.3.1
+2012-09-03 12:37:21 [INFO] Loading properties
+2012-09-03 12:37:21 [INFO] Default game type: SURVIVAL
+2012-09-03 12:37:21 [INFO] Generating keypair
+2012-09-03 12:37:22 [INFO] Starting Minecraft server on *:25568
+2012-09-03 12:37:22 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-03 12:37:22 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-03 12:37:22 [INFO] Preparing level "world"
+2012-09-03 12:37:22 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-03 12:37:23 [INFO] Preparing spawn area: 56%
+2012-09-03 12:37:24 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-03 12:37:24 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-03 12:37:24 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-03 12:37:24 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-03 12:37:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-03 12:37:24 [INFO] Done (1.966s)! For help, type "help" or "?"
+2012-09-03 12:37:25 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 12:37:25 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-03 12:37:25 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 12:37:25 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 12:37:25 [INFO] CONSOLE: Save complete.[m
+2012-09-03 12:37:25 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 12:37:25 [INFO] [35;1m[Server] Backup complete[m
+2012-09-03 12:37:26 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-03 12:37:26 [INFO] [xServer] Client connected to localhost:33777
+2012-09-03 12:37:30 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-03 12:37:30 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-03 16:17:49 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-03 16:43:57 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-03 18:53:58 [INFO] [Tekkit-R] NotQuiteAs1 has left the game[m
+2012-09-03 18:58:17 [INFO] [Tekkit-R] NotQuiteAs1 has left the game[m
+2012-09-03 19:01:06 [INFO] [Fluid] NotQuiteAs1 has joined the game[m
+2012-09-03 19:04:27 [INFO] [Fluid] NotQuiteAs1 has left the game[m
+2012-09-03 19:06:14 [INFO] [Fluid] NotQuiteAs1 has joined the game[m
+2012-09-03 19:06:27 [INFO] [Fluid] NotQuiteAs1 has left the game[m
+2012-09-03 19:07:42 [INFO] [Fluid] NotQuiteAs1 has joined the game[m
+2012-09-03 19:14:17 [INFO] [Fluid] NotQuiteAs1 died[m
+2012-09-03 19:17:23 [INFO] [Fluid] NotQuiteAs1 died[m
+2012-09-03 19:18:16 [INFO] [Fluid] NotQuiteAs1 has left the game[m
+2012-09-03 20:08:12 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] [35;1m[Server] Starting backup[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Forcing save..[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Save complete.[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-03 21:08:00 [INFO] Unknown command. Type "help" for help.[m
+2012-09-03 21:08:00 [INFO] CONSOLE: Stopping the server..[m
+2012-09-03 21:08:00 [INFO] Stopping server
+2012-09-03 21:08:00 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-03 21:08:00 [SEVERE] [xServer] Malformed Packet
+2012-09-03 21:08:00 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-03 21:08:00 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-03 21:08:00 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-03 21:08:00 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 21:08:00 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 21:08:00 [SEVERE] [xServer] Couldn't send packet
+2012-09-03 21:08:00 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-03 21:08:00 [INFO] Saving players
+2012-09-03 21:08:00 [INFO] Saving worlds
+2012-09-03 21:08:00 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@5801e99a
+2012-09-03 21:08:00 [WARNING] DSCT: Socket closed
+2012-09-03 21:08:00 [INFO] Closing listening thread
+2012-09-03 21:08:00 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@35d44da1
