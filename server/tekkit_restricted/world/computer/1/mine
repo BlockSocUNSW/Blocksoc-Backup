@@ -1,0 +1,15 @@
+for i = 0,50 do
+while turtle.detect() do
+  turtle.dig()
+end
+turtle.forward()
+turtle.digUp()
+end
+turtle.turnRight()
+turtle.turnRight()
+for i = 0,50 do
+while turtle.detect() do
+  turtle.dig()
+end
+turtle.forward()
+end

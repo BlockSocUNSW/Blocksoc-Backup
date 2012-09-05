@@ -88,6 +88,11 @@ def removeBackup(path):
     return
 
 if __name__=='__main__':
+    serverCmd("say Server restarting in 5 minutes")
+    #time.sleep(60*4)
+    serverCmd("say Server restarting in 1 minute")
+    time.sleep(60)
+    NOW = datetime.datetime.now()
     logger.info("Starting backup process for: " + NOW.strftime("%d-%m-%y-%H-%M-%S"))
     serverCmd("say Starting backup")
     serverCmd("save-all")
