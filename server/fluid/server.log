@@ -3609,3 +3609,108 @@
 2012-09-05 22:41:28 [INFO] Saving chunks for level 'world'/Overworld
 2012-09-05 22:41:28 [INFO] Saving chunks for level 'world_nether'/Nether
 2012-09-05 22:41:28 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-05 22:44:09 [INFO] Starting minecraft server version 1.3.2
+2012-09-05 22:44:09 [INFO] Loading properties
+2012-09-05 22:44:09 [INFO] Default game type: SURVIVAL
+2012-09-05 22:44:09 [INFO] Generating keypair
+2012-09-05 22:44:10 [INFO] Starting Minecraft server on *:25565
+2012-09-05 22:44:11 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-05 22:44:11 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-05 22:44:11 [INFO] Preparing level "world"
+2012-09-05 22:44:11 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-05 22:44:12 [INFO] Preparing spawn area: 65%
+2012-09-05 22:44:12 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-05 22:44:13 [INFO] Preparing spawn area: 56%
+2012-09-05 22:44:13 [INFO] ----- Bukkit Auto Updater -----
+2012-09-05 22:44:13 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-05 22:44:14 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-05 22:44:14 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-05 22:44:14 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-05 22:44:14 [INFO] ----- ------------------- -----
+2012-09-05 22:44:14 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-05 22:44:14 [INFO] Preparing spawn area: 97%
+2012-09-05 22:44:14 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-05 22:44:14 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-05 22:44:14 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-05 22:44:14 [INFO] [xServer] Starting as Host
+2012-09-05 22:44:14 [INFO] [xServer] Connection made on port 33777
+2012-09-05 22:44:14 [INFO] Adding Client
+2012-09-05 22:44:14 [INFO] [xServer] Client connected to localhost:33777
+2012-09-05 22:44:14 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-05 22:44:15 [INFO] Done (3.712s)! For help, type "help" or "?"
+2012-09-05 22:44:15 [INFO] Unknown command. Type "help" for help.[m
+2012-09-05 22:44:15 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-05 22:44:15 [INFO] Unknown command. Type "help" for help.[m
+2012-09-05 22:44:15 [INFO] CONSOLE: Forcing save..[m
+2012-09-05 22:44:15 [INFO] [xServer] Connection made on port 33777
+2012-09-05 22:44:15 [INFO] Adding Client
+2012-09-05 22:44:15 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-05 22:44:15 [INFO] CONSOLE: Save complete.[m
+2012-09-05 22:44:15 [INFO] Unknown command. Type "help" for help.[m
+2012-09-05 22:44:15 [INFO] [35;1m[Server] Backup complete[m
+2012-09-05 22:44:15 [INFO] [xServer] Connection made on port 33777
+2012-09-05 22:44:15 [INFO] Adding Client
+2012-09-05 22:44:15 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-05 22:44:20 [INFO] [xServer] Connection made on port 33777
+2012-09-05 22:44:20 [INFO] Adding Client
+2012-09-05 22:44:20 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-05 22:44:21 [INFO] [xServer] Connection made on port 33777
+2012-09-05 22:44:21 [INFO] Adding Client
+2012-09-05 22:44:21 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-05 22:59:29 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-05 23:11:01 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-05 23:48:33 [INFO] [Tekkit-C] ultrajono has joined the game[m
+2012-09-06 00:03:37 [SEVERE] [xServer] Malformed Packet
+2012-09-06 00:03:37 [SEVERE] java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+2012-09-06 00:03:37 [SEVERE] 	at java.lang.String.charAt(String.java:658)
+2012-09-06 00:03:37 [SEVERE] 	at java.util.regex.Matcher.appendReplacement(Matcher.java:762)
+2012-09-06 00:03:37 [SEVERE] 	at java.util.regex.Matcher.replaceAll(Matcher.java:906)
+2012-09-06 00:03:37 [SEVERE] 	at java.lang.String.replaceAll(String.java:2162)
+2012-09-06 00:03:37 [SEVERE] 	at cbp.double0negative.xServer.XServer.format(XServer.java:273)
+2012-09-06 00:03:37 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:71)
+2012-09-06 00:03:37 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-06 00:08:10 [INFO] [Tekkit-C] ultrajono has left the game[m
+2012-09-06 03:51:55 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-06 03:55:01 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-06 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-06 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-06 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-09-06 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-06 08:05:01 [INFO] CONSOLE: Save complete.[m
+2012-09-06 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-06 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-06 08:05:01 [INFO] Stopping server
+2012-09-06 08:05:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-06 08:05:01 [SEVERE] [xServer] Malformed Packet
+2012-09-06 08:05:01 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-06 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-06 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-06 08:05:01 [INFO] [34;1m[xServer] Creative has disconnected[m
+2012-09-06 08:05:01 [SEVERE] [xServer] Could not read packet
+2012-09-06 08:05:01 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2012-09-06 08:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-06 08:05:01 [INFO] Saving players
+2012-09-06 08:05:01 [WARNING] DSCT: Socket closed
+2012-09-06 08:05:01 [INFO] Closing listening thread
+2012-09-06 08:05:01 [SEVERE] [xServer] Exception in server
+2012-09-06 08:05:01 [SEVERE] java.net.SocketException: Socket closed
+2012-09-06 08:05:01 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-06 08:05:01 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-06 08:05:01 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-06 08:05:01 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-06 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-06 08:05:01 [INFO] Saving worlds
+2012-09-06 08:05:01 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-06 08:05:02 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-06 08:05:02 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-06 08:05:02 [INFO] Stopping server
+2012-09-06 08:05:02 [INFO] Saving players
+2012-09-06 08:05:02 [INFO] Saving worlds
+2012-09-06 08:05:02 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-06 08:05:02 [INFO] Saving chunks for level 'world_nether'/Nether
