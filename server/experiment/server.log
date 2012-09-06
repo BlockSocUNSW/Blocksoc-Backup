@@ -3611,3 +3611,1220 @@ java.io.IOException: Input/output error
 2012-09-06 08:05:01 [INFO] Saving worlds
 2012-09-06 08:05:01 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@428390c9
 2012-09-06 08:05:02 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@4f214318
+2012-09-06 08:08:27 [INFO] Starting minecraft server version 1.3.1
+2012-09-06 08:08:27 [INFO] Loading properties
+2012-09-06 08:08:27 [INFO] Default game type: SURVIVAL
+2012-09-06 08:08:27 [INFO] Generating keypair
+2012-09-06 08:08:27 [INFO] Starting Minecraft server on *:25568
+2012-09-06 08:08:28 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-06 08:08:28 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-06 08:08:28 [INFO] Preparing level "world"
+2012-09-06 08:08:28 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-06 08:08:29 [INFO] Preparing spawn area: 81%
+2012-09-06 08:08:29 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-06 08:08:29 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-06 08:08:29 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-06 08:08:29 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-06 08:08:30 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-06 08:08:30 [INFO] Done (1.730s)! For help, type "help" or "?"
+2012-09-06 08:08:31 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:08:31 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-06 08:08:31 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:08:31 [INFO] CONSOLE: Forcing save..[m
+2012-09-06 08:08:31 [INFO] CONSOLE: Save complete.[m
+2012-09-06 08:08:31 [INFO] Unknown command. Type "help" for help.[m
+2012-09-06 08:08:31 [INFO] [35;1m[Server] Backup complete[m
+2012-09-06 08:08:32 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-06 08:08:32 [INFO] [xServer] Client connected to localhost:33777
+2012-09-06 08:08:33 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-06 08:08:35 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-06 08:08:35 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-06 10:47:08 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-06 13:55:53 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-06 14:07:43 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-06 15:24:12 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-06 15:39:55 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-06 16:27:54 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 16:28:15 [INFO] [Tekkit-R] nightkhaos: hey[m
+2012-09-06 16:28:19 [INFO] [Tekkit-R] nightkhaos: happy birthday?[m
+2012-09-06 16:36:46 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-06 16:37:18 [INFO] [Tekkit-R] nightkhaos died[m
+2012-09-06 16:38:22 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 17:51:08 [INFO] [Creative] lluoc has joined the game[m
+2012-09-06 17:51:14 [INFO] [Creative] lluoc has left the game[m
+2012-09-06 17:51:22 [INFO] [Fluid] lluoc has joined the game[m
+2012-09-06 17:59:02 [INFO] [Fluid] lluoc has left the game[m
+2012-09-06 18:01:09 [INFO] [Fluid] lluoc has joined the game[m
+2012-09-06 18:27:49 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 18:27:54 [INFO] [Fluid] lluoc: hey[m
+2012-09-06 18:28:24 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 18:28:30 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 19:01:17 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 19:05:23 [INFO] [Fluid] lluoc has left the game[m
+2012-09-06 19:07:17 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 19:07:42 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 19:07:49 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 19:25:37 [INFO] [Tekkit-R] nightkhaos died[m
+2012-09-06 19:47:41 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 20:35:15 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 20:35:50 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 20:35:59 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 20:36:10 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 20:36:27 [INFO] [Tekkit-R] nightkhaos: nellie! sup![m
+2012-09-06 20:36:29 [INFO] [Tekkit-R] H4ZM4T: yoyo[m
+2012-09-06 20:36:58 [INFO] [Tekkit-R] nightkhaos: i'm coming over. be a minute or too[m
+2012-09-06 20:37:04 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-06 20:37:05 [INFO] [Tekkit-R] H4ZM4T: wut?[m
+2012-09-06 20:37:16 [INFO] [Tekkit-R] nightkhaos: to your house... it's near brent's right?[m
+2012-09-06 20:37:30 [INFO] [Tekkit-R] H4ZM4T: near isn't the word[m
+2012-09-06 20:37:45 [INFO] [Tekkit-R] nightkhaos: co-ord then?[m
+2012-09-06 20:37:50 [INFO] [Tekkit-R] H4ZM4T: ohhhh[m
+2012-09-06 20:37:54 [INFO] [Tekkit-R] H4ZM4T: I thought you meant real life[m
+2012-09-06 20:37:58 [INFO] [Tekkit-R] nightkhaos: derp[m
+2012-09-06 20:38:10 [INFO] [Tekkit-R] nightkhaos died[m
+2012-09-06 20:38:32 [INFO] [Tekkit-R] nightkhaos: suprise creeper[m
+2012-09-06 20:40:06 [INFO] [Tekkit-R] nightkhaos: phew didn't lose anything[m
+2012-09-06 20:43:35 [INFO] [Tekkit-R] H4ZM4T: my house is 161 306[m
+2012-09-06 20:44:17 [INFO] [Tekkit-R] nightkhaos: omw[m
+2012-09-06 20:44:23 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-06 20:44:29 [INFO] [Tekkit-R] nightkhaos: on my way[m
+2012-09-06 20:45:03 [INFO] [Tekkit-R] nightkhaos: diamonds! xD[m
+2012-09-06 20:45:06 [INFO] [Tekkit-R] H4ZM4T: ![m
+2012-09-06 20:45:08 [INFO] [Tekkit-R] H4ZM4T: where?[m
+2012-09-06 20:45:23 [INFO] [Tekkit-R] nightkhaos: my inventory obviously[m
+2012-09-06 20:45:26 [INFO] [Tekkit-R] H4ZM4T: dang[m
+2012-09-06 20:48:37 [INFO] [Tekkit-R] nightkhaos: gold too? I'm on a roll[m
+2012-09-06 20:48:45 [INFO] [Tekkit-R] H4ZM4T: you bastard[m
+2012-09-06 20:48:51 [INFO] [Tekkit-R] H4ZM4T: don't you be mining your way to mah house[m
+2012-09-06 20:49:02 [INFO] [Tekkit-R] H4ZM4T: this area is my mining area[m
+2012-09-06 20:49:07 [INFO] [Tekkit-R] nightkhaos: i haven't left my "mine" yet[m
+2012-09-06 20:49:11 [INFO] [Tekkit-R] H4ZM4T: okay[m
+2012-09-06 20:49:23 [INFO] [Tekkit-R] nightkhaos: i'm in the mine I built to get to brent's place.[m
+2012-09-06 20:50:01 [INFO] [Tekkit-R] nightkhaos: kinda skipped all the rare stuff along it[m
+2012-09-06 20:50:30 [INFO] [Tekkit-R] nightkhaos: my drill was running low on power so I needed to connect the mines ASAP[m
+2012-09-06 20:51:56 [INFO] [Tekkit-R] nightkhaos: now I'm in brents "mine"[m
+2012-09-06 21:01:48 [INFO] [Tekkit-R] H4ZM4T: so how is you?[m
+2012-09-06 21:01:57 [INFO] [Tekkit-R] nightkhaos: been better[m
+2012-09-06 21:02:04 [INFO] [Tekkit-R] H4ZM4T: worse than before though?[m
+2012-09-06 21:02:19 [INFO] [Tekkit-R] nightkhaos: before when?[m
+2012-09-06 21:02:32 [INFO] [Tekkit-R] H4ZM4T: before when you told me about all the things[m
+2012-09-06 21:03:31 [INFO] [Tekkit-R] nightkhaos: I wonder how brent closes this[m
+2012-09-06 21:05:50 [INFO] [Tekkit-R] nightkhaos: tsleep?[m
+2012-09-06 21:05:54 [INFO] [Tekkit-R] H4ZM4T: can't[m
+2012-09-06 21:05:56 [INFO] [Tekkit-R] H4ZM4T: in mah mine[m
+2012-09-06 21:06:05 [INFO] [Tekkit-R] nightkhaos: d/c and r/c?[m
+2012-09-06 21:06:08 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 21:06:18 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 21:07:32 [INFO] [Tekkit-R] nightkhaos: i has arrived[m
+2012-09-06 21:07:45 [INFO] [Tekkit-R] H4ZM4T: be there in a mo[m
+2012-09-06 21:08:48 [INFO] [Tekkit-R] nightkhaos: solar power eh?[m
+2012-09-06 21:09:10 [INFO] [Tekkit-R] nightkhaos: you should make a macerator[m
+2012-09-06 21:09:16 [INFO] [Tekkit-R] H4ZM4T: I have two[m
+2012-09-06 21:09:24 [INFO] [Tekkit-R] nightkhaos: where? :P[m
+2012-09-06 21:09:35 [INFO] [Tekkit-R] nightkhaos: oh I see[m
+2012-09-06 21:09:50 [INFO] [Tekkit-R] H4ZM4T: I need moar diamonds[m
+2012-09-06 21:09:57 [INFO] [Tekkit-R] H4ZM4T: but I am having terrible luck[m
+2012-09-06 21:09:58 [INFO] [Tekkit-R] nightkhaos: me too. I only have 8. I need 11[m
+2012-09-06 21:10:14 [INFO] [Tekkit-R] H4ZM4T: for the quarry?[m
+2012-09-06 21:10:15 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-06 21:10:19 [INFO] [Tekkit-R] H4ZM4T: I want a condenser[m
+2012-09-06 21:10:49 [INFO] [Tekkit-R] nightkhaos: so where's your mine?[m
+2012-09-06 21:10:58 [INFO] [Tekkit-R] H4ZM4T: two secs[m
+2012-09-06 21:11:33 [INFO] [Tekkit-R] H4ZM4T: follow[m
+2012-09-06 21:11:46 [INFO] [Tekkit-R] H4ZM4T: oh shit[m
+2012-09-06 21:11:47 [INFO] [Tekkit-R] H4ZM4T: left tools[m
+2012-09-06 21:11:53 [INFO] [Tekkit-R] nightkhaos: *facepalm*[m
+2012-09-06 21:12:20 [INFO] [Tekkit-R] nightkhaos: what kind of axe is that?[m
+2012-09-06 21:12:27 [INFO] [Tekkit-R] H4ZM4T: emerald pick[m
+2012-09-06 21:12:39 [INFO] [Tekkit-R] nightkhaos: why not one of these?[m
+2012-09-06 21:12:48 [INFO] [Tekkit-R] H4ZM4T: because I fucking hate batteries[m
+2012-09-06 21:12:53 [INFO] [Tekkit-R] H4ZM4T: plus, armored to the teeth[m
+2012-09-06 21:12:59 [INFO] [Tekkit-R] nightkhaos: point[m
+2012-09-06 21:13:08 [INFO] [Tekkit-R] nightkhaos: you're paranoid me thinks :P[m
+2012-09-06 21:13:18 [INFO] [Tekkit-R] H4ZM4T: damn right[m
+2012-09-06 21:13:59 [INFO] [Tekkit-R] H4ZM4T: oi[m
+2012-09-06 21:14:05 [INFO] [Tekkit-R] H4ZM4T: get outta my mine[m
+2012-09-06 21:14:12 [INFO] [Tekkit-R] nightkhaos: anything rare i find is yours. I want to help[m
+2012-09-06 21:14:21 [INFO] [Tekkit-R] H4ZM4T: mad you are[m
+2012-09-06 21:14:42 [INFO] [Tekkit-R] H4ZM4T: tell you what, I'll let you come and use the condenser if you help me find two more diamonds[m
+2012-09-06 21:14:51 [INFO] [Tekkit-R] nightkhaos: deal[m
+2012-09-06 21:15:07 [INFO] [Tekkit-R] nightkhaos: redstone[m
+2012-09-06 21:15:34 [INFO] [Tekkit-R] nightkhaos: iron?[m
+2012-09-06 21:15:37 [INFO] [Tekkit-R] H4ZM4T: ooooh[m
+2012-09-06 21:15:39 [INFO] [Tekkit-R] H4ZM4T: *needs*[m
+2012-09-06 21:16:20 [INFO] [Tekkit-R] H4ZM4T: redstone is irrelevant to me atm[m
+2012-09-06 21:16:27 [INFO] [Tekkit-R] nightkhaos: noted[m
+2012-09-06 21:18:02 [INFO] [Tekkit-R] nightkhaos: nikolite dust?[m
+2012-09-06 21:18:07 [INFO] [Tekkit-R] H4ZM4T: I have lots[m
+2012-09-06 21:18:11 [INFO] [Tekkit-R] H4ZM4T: soooo much[m
+2012-09-06 21:18:22 [INFO] [Tekkit-R] H4ZM4T: I suspect red power uses nikkolite out the wazoo[m
+2012-09-06 21:19:25 [INFO] [Tekkit-R] nightkhaos: coal?[m
+2012-09-06 21:19:30 [INFO] [Tekkit-R] H4ZM4T: meh[m
+2012-09-06 21:22:06 [INFO] [Tekkit-R] nightkhaos: uranium[m
+2012-09-06 21:22:11 [INFO] [Tekkit-R] H4ZM4T: nomnomnom nukes[m
+2012-09-06 21:22:16 [INFO] [Tekkit-R] H4ZM4T: which I have already by the way[m
+2012-09-06 21:22:22 [INFO] [Tekkit-R] nightkhaos: can has?[m
+2012-09-06 21:22:26 [INFO] [Tekkit-R] H4ZM4T: hehehehe noooooo[m
+2012-09-06 21:22:42 [INFO] [Tekkit-R] nightkhaos: i meant this?[m
+2012-09-06 21:22:49 [INFO] [Tekkit-R] H4ZM4T: mah uranium[m
+2012-09-06 21:23:12 [INFO] [Tekkit-R] H4ZM4T: sorry, but that shit be expensive yo[m
+2012-09-06 21:23:19 [INFO] [Tekkit-R] nightkhaos: hence why I asked[m
+2012-09-06 21:23:19 [INFO] [Tekkit-R] H4ZM4T: my inventory is full[m
+2012-09-06 21:23:28 [INFO] [Tekkit-R] nightkhaos: mine too. it's stone. leave it[m
+2012-09-06 21:23:35 [INFO] [Tekkit-R] H4ZM4T: pfft condesning[m
+2012-09-06 21:23:45 [INFO] [Tekkit-R] nightkhaos: point[m
+2012-09-06 21:24:05 [INFO] [Tekkit-R] nightkhaos: outta torches[m
+2012-09-06 21:25:33 [INFO] [Tekkit-R] H4ZM4T: ![m
+2012-09-06 21:25:38 [INFO] [Tekkit-R] H4ZM4T: rdafuqqqqq[m
+2012-09-06 21:26:00 [INFO] [Tekkit-R] H4ZM4T: dick broke mah door[m
+2012-09-06 21:26:01 [INFO] [Tekkit-R] nightkhaos: do you want tin?[m
+2012-09-06 21:26:05 [INFO] [Tekkit-R] H4ZM4T: nope[m
+2012-09-06 21:26:10 [INFO] [Tekkit-R] H4ZM4T: got all the tin in the world[m
+2012-09-06 21:27:44 [INFO] [Tekkit-R] nightkhaos: just recharged my bat pack. put some coal in your generator.[m
+2012-09-06 21:27:50 [INFO] [Tekkit-R] H4ZM4T: kk[m
+2012-09-06 21:27:58 [INFO] [Tekkit-R] nightkhaos: got any sticks? out of torches?[m
+2012-09-06 21:28:02 [INFO] [Tekkit-R] H4ZM4T: its free energy feel free to use it[m
+2012-09-06 21:28:11 [INFO] [Tekkit-R] H4ZM4T: yes[m
+2012-09-06 21:28:24 [INFO] [Tekkit-R] H4ZM4T: but give me the coal (16 of it) first[m
+2012-09-06 21:28:29 [INFO] [Tekkit-R] H4ZM4T: I shall show you a cool trick[m
+2012-09-06 21:29:09 [INFO] [Tekkit-R] nightkhaos: don't understand?[m
+2012-09-06 21:29:14 [INFO] [Tekkit-R] H4ZM4T: you give me 16 coal for torches, I give you 64 charcoal....for torches[m
+2012-09-06 21:29:22 [INFO] [Tekkit-R] H4ZM4T: charcoal is cheaper than coal[m
+2012-09-06 21:29:40 [INFO] [Tekkit-R] H4ZM4T: so for furnaces, torches, etc, use a philo stone to convert first[m
+2012-09-06 21:29:42 [INFO] [Tekkit-R] nightkhaos: right got it[m
+2012-09-06 21:29:49 [INFO] [Tekkit-R] H4ZM4T: I don't need it atm[m
+2012-09-06 21:29:53 [INFO] [Tekkit-R] H4ZM4T: got a bunch[m
+2012-09-06 21:30:15 [INFO] [Tekkit-R] nightkhaos: one sec, going to punch a tree to make a chest for me to dump all my stuff[m
+2012-09-06 21:30:37 [INFO] [Tekkit-R] H4ZM4T: oh, and wrenches can be repaired by an alchemical chest with a repair talisman[m
+2012-09-06 21:30:48 [INFO] [Tekkit-R] nightkhaos: good to know[m
+2012-09-06 21:31:15 [INFO] [Tekkit-R] H4ZM4T: ALL MY SEARCH OPTIONS DISSAPEARED[m
+2012-09-06 21:31:18 [INFO] [Tekkit-R] H4ZM4T: OH GOD WHY[m
+2012-09-06 21:31:33 [INFO] [Tekkit-R] H4ZM4T: ah[m
+2012-09-06 21:31:36 [INFO] [Tekkit-R] H4ZM4T: I pressed o[m
+2012-09-06 21:32:27 [INFO] [Tekkit-R] H4ZM4T: can I borrow two diamonds for just 20 seconds?[m
+2012-09-06 21:32:35 [INFO] [Tekkit-R] nightkhaos: twenty seconds?[m
+2012-09-06 21:32:40 [INFO] [Tekkit-R] H4ZM4T: roughly[m
+2012-09-06 21:32:48 [INFO] [Tekkit-R] nightkhaos: so long as you replace them[m
+2012-09-06 21:32:54 [INFO] [Tekkit-R] H4ZM4T: easy[m
+2012-09-06 21:33:36 [INFO] [Tekkit-R] H4ZM4T: diamonds back[m
+2012-09-06 21:33:37 [INFO] [Tekkit-R] H4ZM4T: :D[m
+2012-09-06 21:33:39 [INFO] [Tekkit-R] nightkhaos: where does it get the energy from?[m
+2012-09-06 21:33:52 [INFO] [Tekkit-R] H4ZM4T: I just converted 3 stacks of nikkolite[m
+2012-09-06 21:33:56 [INFO] [Tekkit-R] nightkhaos: ahh[m
+2012-09-06 21:34:10 [INFO] [Tekkit-R] nightkhaos: i should make one of those[m
+2012-09-06 21:34:56 [INFO] [Tekkit-R] H4ZM4T: what are you doing[m
+2012-09-06 21:34:57 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-06 21:36:26 [INFO] [Tekkit-R] nightkhaos: okay I'm happy now[m
+2012-09-06 21:36:45 [INFO] [Tekkit-R] nightkhaos: I CAN MAKE A QUARRY![m
+2012-09-06 21:36:56 [INFO] [Tekkit-R] H4ZM4T: make a condernser first[m
+2012-09-06 21:36:58 [INFO] [Tekkit-R] H4ZM4T: it will help[m
+2012-09-06 21:37:00 [INFO] [Tekkit-R] H4ZM4T: a lot[m
+2012-09-06 21:37:05 [INFO] [Tekkit-R] nightkhaos: hmm. yep.[m
+2012-09-06 21:37:09 [INFO] [Tekkit-R] nightkhaos: what do I need?[m
+2012-09-06 21:38:25 [INFO] [Tekkit-R] H4ZM4T: zzzz?[m
+2012-09-06 21:38:31 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 21:38:35 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 21:38:37 [INFO] [Tekkit-R] H4ZM4T: not yet[m
+2012-09-06 21:38:39 [INFO] [Tekkit-R] H4ZM4T: dc nnnnow[m
+2012-09-06 21:38:43 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 21:38:46 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 21:38:54 [INFO] [Tekkit-R] nightkhaos: okay, what do i need for a condensor[m
+2012-09-06 21:39:13 [INFO] [Tekkit-R] H4ZM4T: use the search tools[m
+2012-09-06 21:39:24 [INFO] [Tekkit-R] H4ZM4T: though, feel free to use the covalence dust in the chest near the door[m
+2012-09-06 21:39:42 [INFO] [Tekkit-R] H4ZM4T: saaves you a diamond[m
+2012-09-06 21:40:10 [INFO] [Tekkit-R] nightkhaos: hmm[m
+2012-09-06 21:40:19 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-06 21:40:22 [INFO] [Tekkit-R] nightkhaos: since my obsid is at home[m
+2012-09-06 21:40:44 [INFO] [Tekkit-R] nightkhaos: i'll trade you a diamond for a condensor? :P[m
+2012-09-06 21:40:51 [INFO] [Tekkit-R] H4ZM4T: .....[m
+2012-09-06 21:41:08 [INFO] [Tekkit-R] nightkhaos: I'll supply the 4 needed[m
+2012-09-06 21:41:20 [INFO] [Tekkit-R] H4ZM4T: there is some obsidian in a chest[m
+2012-09-06 21:41:23 [INFO] [Tekkit-R] H4ZM4T: use some of that[m
+2012-09-06 21:41:56 [INFO] [Tekkit-R] nightkhaos: umm dude, you only have lvl 2 dust[m
+2012-09-06 21:42:05 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-06 21:42:16 [INFO] [Tekkit-R] H4ZM4T: level 2, level 3[m
+2012-09-06 21:42:26 [INFO] [Tekkit-R] H4ZM4T: uh, level 1, 3[m
+2012-09-06 21:42:31 [INFO] [Tekkit-R] H4ZM4T: now there is a single level 2 in there[m
+2012-09-06 21:42:35 [INFO] [Tekkit-R] H4ZM4T: which should be good enough[m
+2012-09-06 21:46:56 [INFO] [Tekkit-R] nightkhaos: check it out[m
+2012-09-06 21:46:58 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-06 21:47:02 [INFO] [Tekkit-R] nightkhaos: chainsaw[m
+2012-09-06 21:47:04 [INFO] [Tekkit-R] H4ZM4T: yheh[m
+2012-09-06 21:49:15 [INFO] [Tekkit-R] nightkhaos: as promised, one diamond. :)[m
+2012-09-06 21:49:34 [INFO] [Tekkit-R] H4ZM4T: zzzzz?[m
+2012-09-06 21:49:39 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 21:49:46 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 21:49:50 [INFO] [Tekkit-R] H4ZM4T: ty][m
+2012-09-06 21:51:10 [INFO] [Tekkit-R] nightkhaos: do wooden pipes work with energy condensors?[m
+2012-09-06 21:51:19 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-06 21:51:21 [INFO] [Tekkit-R] H4ZM4T: maybe[m
+2012-09-06 21:53:13 [INFO] [Tekkit-R] nightkhaos: what do you need blue for?[m
+2012-09-06 21:55:20 [INFO] [Tekkit-R] nightkhaos: thinking I'll go back[m
+2012-09-06 21:55:23 [INFO] [Tekkit-R] H4ZM4T: kk[m
+2012-09-06 21:55:28 [INFO] [Tekkit-R] nightkhaos: want to see my house? it's pretty... basic[m
+2012-09-06 21:55:30 [INFO] [Tekkit-R] H4ZM4T: not sure what blue does yet[m
+2012-09-06 21:55:57 [INFO] [Tekkit-R] nightkhaos: you can watch me setup a quarry. :P[m
+2012-09-06 21:56:09 [INFO] [Tekkit-R] nightkhaos: i think I have enough materials[m
+2012-09-06 21:56:16 [INFO] [Tekkit-R] H4ZM4T: ....where is all mah sand[m
+2012-09-06 21:56:22 [INFO] [Tekkit-R] nightkhaos: nellie[m
+2012-09-06 21:56:33 [INFO] [Tekkit-R] nightkhaos: condense some[m
+2012-09-06 21:56:34 [INFO] [Tekkit-R] H4ZM4T: ty[m
+2012-09-06 21:57:28 [INFO] [Tekkit-R] nightkhaos: tell you what[m
+2012-09-06 21:57:36 [INFO] [Tekkit-R] H4ZM4T: oh oh[m
+2012-09-06 21:57:40 [INFO] [Tekkit-R] H4ZM4T: look in the condenser now[m
+2012-09-06 21:57:44 [INFO] [Tekkit-R] H4ZM4T: watch[m
+2012-09-06 21:57:57 [INFO] [Tekkit-R] H4ZM4T: look again[m
+2012-09-06 21:57:59 [INFO] [Tekkit-R] H4ZM4T: look again[m
+2012-09-06 21:58:05 [INFO] [Tekkit-R] H4ZM4T: dooo eeeet[m
+2012-09-06 21:58:17 [INFO] [Tekkit-R] H4ZM4T: MAGICKS 16 DIAMONDS[m
+2012-09-06 21:58:24 [INFO] [Tekkit-R] nightkhaos: 18 actually[m
+2012-09-06 21:58:28 [INFO] [Tekkit-R] H4ZM4T: heh[m
+2012-09-06 21:58:29 [INFO] [Tekkit-R] nightkhaos: use this.[m
+2012-09-06 21:58:32 [INFO] [Tekkit-R] H4ZM4T: WOOO[m
+2012-09-06 21:58:38 [INFO] [Tekkit-R] H4ZM4T: free world anchor?[m
+2012-09-06 21:58:46 [INFO] [Tekkit-R] nightkhaos: not free, they're your diamonds[m
+2012-09-06 21:58:49 [INFO] [Tekkit-R] H4ZM4T: oh[m
+2012-09-06 21:58:50 [INFO] [Tekkit-R] H4ZM4T: heh[m
+2012-09-06 21:59:25 [INFO] [Tekkit-R] nightkhaos: right... now... you can leave your stuff running and come see my place. I'll give you a minute or tw[m
+2012-09-06 21:59:32 [INFO] [Tekkit-R] nightkhaos: two to get ready*[m
+2012-09-06 22:01:58 [INFO] [Tekkit-R] H4ZM4T: ready lets go[m
+2012-09-06 22:02:11 [INFO] [Tekkit-R] nightkhaos: interesting[m
+2012-09-06 22:02:15 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-06 22:02:20 [INFO] [Tekkit-R] nightkhaos: dimension anchor.[m
+2012-09-06 22:02:23 [INFO] [Tekkit-R] H4ZM4T: ???[m
+2012-09-06 22:02:42 [INFO] [Tekkit-R] nightkhaos: it cheaper... only requires 9 iron and four gold... and can load up to 9x9 rather than 3x3[m
+2012-09-06 22:03:40 [INFO] [Tekkit-R] H4ZM4T: huh[m
+2012-09-06 22:03:41 [INFO] [Tekkit-R] nightkhaos: one second[m
+2012-09-06 22:03:44 [INFO] [Tekkit-R] H4ZM4T: look it up[m
+2012-09-06 22:03:48 [INFO] [Tekkit-R] H4ZM4T: look at the wiki thing[m
+2012-09-06 22:04:05 [INFO] [Tekkit-R] H4ZM4T: WARGh[m
+2012-09-06 22:04:11 [INFO] [Tekkit-R] H4ZM4T: HE IS MISSING A HEAd[m
+2012-09-06 22:04:21 [INFO] [Tekkit-R] H4ZM4T: headless zomble[m
+2012-09-06 22:04:35 [INFO] [Tekkit-R] nightkhaos: nellie... check this block out[m
+2012-09-06 22:04:52 [INFO] [Tekkit-R] H4ZM4T: what happened to the anchor[m
+2012-09-06 22:04:53 [INFO] [Tekkit-R] nightkhaos: click on it, set owner[m
+2012-09-06 22:05:01 [INFO] [Tekkit-R] nightkhaos: it's cheaper... and allows a bigger area[m
+2012-09-06 22:05:28 [INFO] [Tekkit-R] nightkhaos: the anchor is in your inventory[m
+2012-09-06 22:05:30 [INFO] [Tekkit-R] H4ZM4T: hehehe 9x9 area, greedy?[m
+2012-09-06 22:05:42 [INFO] [Tekkit-R] nightkhaos: yes, a little, but you get the idea. better than a world anchor[m
+2012-09-06 22:05:46 [INFO] [Tekkit-R] H4ZM4T: changing to 5x5[m
+2012-09-06 22:05:53 [INFO] [Tekkit-R] H4ZM4T: interesting that other players can't see it though[m
+2012-09-06 22:06:04 [INFO] [Tekkit-R] nightkhaos: I can being op. :P[m
+2012-09-06 22:06:29 [INFO] [Tekkit-R] nightkhaos: so yeah... you can't seem to be able to condense the world anchor.[m
+2012-09-06 22:06:37 [INFO] [Tekkit-R] H4ZM4T: hehehehe[m
+2012-09-06 22:06:53 [INFO] [Tekkit-R] H4ZM4T: to your place?[m
+2012-09-06 22:07:01 [INFO] [Tekkit-R] nightkhaos: yes, through you did just use 8 of my gold[m
+2012-09-06 22:07:08 [INFO] [Tekkit-R] nightkhaos: i'll condense some more I guess[m
+2012-09-06 22:07:13 [INFO] [Tekkit-R] H4ZM4T: take two diamonds[m
+2012-09-06 22:07:18 [INFO] [Tekkit-R] H4ZM4T: same value[m
+2012-09-06 22:07:29 [INFO] [Tekkit-R] nightkhaos: danke[m
+2012-09-06 22:07:44 [INFO] [Tekkit-R] H4ZM4T: lets go[m
+2012-09-06 22:07:46 [INFO] [Tekkit-R] H4ZM4T: sleep first[m
+2012-09-06 22:07:47 [INFO] [Tekkit-R] nightkhaos: I'd place the world anchor near your quarry[m
+2012-09-06 22:07:55 [INFO] [Tekkit-R] nightkhaos: when you set one up[m
+2012-09-06 22:08:00 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 22:08:02 [INFO] [Tekkit-R] H4ZM4T: dc?[m
+2012-09-06 22:08:03 [INFO] [Tekkit-R] H4ZM4T: ty[m
+2012-09-06 22:08:07 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 22:08:18 [INFO] [Tekkit-R] nightkhaos: save me![m
+2012-09-06 22:08:25 [INFO] [Tekkit-R] nightkhaos: thanks[m
+2012-09-06 22:08:59 [INFO] [Tekkit-R] nightkhaos: underground or overland?[m
+2012-09-06 22:09:04 [INFO] [Tekkit-R] H4ZM4T: over[m
+2012-09-06 22:09:10 [INFO] [Tekkit-R] nightkhaos: where are you?[m
+2012-09-06 22:09:17 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-06 22:09:19 [INFO] [Tekkit-R] H4ZM4T: by the way[m
+2012-09-06 22:09:29 [INFO] [Tekkit-R] nightkhaos: what?[m
+2012-09-06 22:09:34 [INFO] [Tekkit-R] H4ZM4T: I think the dimension anchor leaves the chunk loaded to you, but only when online[m
+2012-09-06 22:09:42 [INFO] [Tekkit-R] H4ZM4T: hence why world anchor is expensinve[m
+2012-09-06 22:09:44 [INFO] [Tekkit-R] H4ZM4T: make sense?[m
+2012-09-06 22:09:59 [INFO] [Tekkit-R] H4ZM4T: because it loads the chunks to you, (and hence the server), but when user is offline....[m
+2012-09-06 22:10:08 [INFO] [Tekkit-R] H4ZM4T: lets go[m
+2012-09-06 22:10:13 [INFO] [Tekkit-R] nightkhaos: you can make the owner the server[m
+2012-09-06 22:10:19 [INFO] [Tekkit-R] H4ZM4T: ah[m
+2012-09-06 22:10:19 [INFO] [Tekkit-R] H4ZM4T: kk[m
+2012-09-06 22:10:21 [INFO] [Tekkit-R] H4ZM4T: how?[m
+2012-09-06 22:10:28 [INFO] [Tekkit-R] nightkhaos: there is a button in the interface[m
+2012-09-06 22:10:34 [INFO] [Tekkit-R] H4ZM4T: I didn't see it[m
+2012-09-06 22:10:34 [INFO] [Tekkit-R] nightkhaos: maybe only ops can set it[m
+2012-09-06 22:10:39 [INFO] [Tekkit-R] H4ZM4T: I AM OP[m
+2012-09-06 22:10:44 [INFO] [Tekkit-R] nightkhaos: then you derped[m
+2012-09-06 22:11:08 [INFO] [Tekkit-R] nightkhaos: soup... yay[m
+2012-09-06 22:12:37 [INFO] [Tekkit-R] H4ZM4T: jebus its a way isn't it[m
+2012-09-06 22:13:22 [INFO] [Tekkit-R] nightkhaos: tiny eh?[m
+2012-09-06 22:13:25 [INFO] [Tekkit-R] H4ZM4T: yeah[m
+2012-09-06 22:13:41 [INFO] [Tekkit-R] nightkhaos: right... time to make this quarry[m
+2012-09-06 22:15:04 [INFO] [Tekkit-R] nightkhaos: i'm going to have to move I think. :P[m
+2012-09-06 22:15:30 [INFO] [Tekkit-R] nightkhaos: want to help me clear an area for a house while that's condensing[m
+2012-09-06 22:15:41 [INFO] [Tekkit-R] H4ZM4T: clear it where?.[m
+2012-09-06 22:15:58 [INFO] [Tekkit-R] nightkhaos: thinking the other side of the lake?[m
+2012-09-06 22:16:09 [INFO] [Tekkit-R] H4ZM4T: show[m
+2012-09-06 22:16:35 [INFO] [Tekkit-R] nightkhaos: up here?[m
+2012-09-06 22:17:42 [INFO] [Tekkit-R] H4ZM4T: so, how do I help[m
+2012-09-06 22:17:52 [INFO] [Tekkit-R] nightkhaos: cut down some trees. do you need a chainsaw?[m
+2012-09-06 22:18:02 [INFO] [Tekkit-R] H4ZM4T: nah[m
+2012-09-06 22:19:00 [INFO] [Tekkit-R] H4ZM4T: DARKNESS[m
+2012-09-06 22:19:32 [INFO] [Tekkit-R] H4ZM4T: can't we use fire....or nukes[m
+2012-09-06 22:19:56 [INFO] [Tekkit-R] nightkhaos: ha... nukes no... fire maybe if you think it won't burn down the entire jungle.[m
+2012-09-06 22:20:02 [INFO] [Tekkit-R] H4ZM4T: A well placed nuke *might* just take out the trees[m
+2012-09-06 22:20:09 [INFO] [Tekkit-R] nightkhaos: ...[m
+2012-09-06 22:20:14 [INFO] [Tekkit-R] nightkhaos: i don't like the sound of that might[m
+2012-09-06 22:20:30 [INFO] [Tekkit-R] H4ZM4T: see, now I am curious and want to test[m
+2012-09-06 22:20:30 [INFO] [Tekkit-R] nightkhaos: condense the leaves I guess[m
+2012-09-06 22:21:06 [INFO] [Tekkit-R] nightkhaos: gotta change battery packs and sleep. leaves burn up a lot of power[m
+2012-09-06 22:21:12 [INFO] [Tekkit-R] nightkhaos: no idea why[m
+2012-09-06 22:21:32 [INFO] [Tekkit-R] H4ZM4T: I may head back to my place actually, need to get the block breaker setup working before I sleep[m
+2012-09-06 22:21:39 [INFO] [Tekkit-R] H4ZM4T: and I need to sleep early[m
+2012-09-06 22:21:40 [INFO] [Tekkit-R] nightkhaos: sleep? :P[m
+2012-09-06 22:21:44 [INFO] [Tekkit-R] H4ZM4T: work in the morn[m
+2012-09-06 22:22:41 [INFO] [Tekkit-R] nightkhaos: d/c?[m
+2012-09-06 22:22:44 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 22:22:49 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 22:22:52 [INFO] [Tekkit-R] nightkhaos: awesome[m
+2012-09-06 22:23:10 [INFO] [Tekkit-R] nightkhaos: sure you don't want to create one of your smeaky houses?[m
+2012-09-06 22:23:22 [INFO] [Tekkit-R] H4ZM4T: smeaky?[m
+2012-09-06 22:24:09 [INFO] [Tekkit-R] nightkhaos: that's what you called them on facebook?[m
+2012-09-06 22:24:14 [INFO] [Tekkit-R] H4ZM4T: smexy[m
+2012-09-06 22:24:22 [INFO] [Tekkit-R] nightkhaos: that's the world[m
+2012-09-06 22:24:25 [INFO] [Tekkit-R] nightkhaos: i has marble. :P[m
+2012-09-06 22:24:34 [INFO] [Tekkit-R] H4ZM4T: another day[m
+2012-09-06 22:24:37 [INFO] [Tekkit-R] H4ZM4T: certainly[m
+2012-09-06 22:24:39 [INFO] [Tekkit-R] nightkhaos: aww. :([m
+2012-09-06 22:24:51 [INFO] [Tekkit-R] H4ZM4T: but I want to set up thje basic thing here before I sleep, to generate the diamonds[m
+2012-09-06 22:24:51 [INFO] [Tekkit-R] nightkhaos: guess I need to create my own place[m
+2012-09-06 22:24:58 [INFO] [Tekkit-R] H4ZM4T: sorry[m
+2012-09-06 22:25:01 [INFO] [Tekkit-R] H4ZM4T: diammmmonnndss[m
+2012-09-06 22:34:13 [INFO] [Tekkit-R] nightkhaos: zzz?[m
+2012-09-06 22:34:16 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 22:34:34 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 22:41:21 [INFO] [Tekkit-R] H4ZM4T: this is more difficult than I imagined[m
+2012-09-06 22:43:13 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-06 22:43:25 [INFO] [Tekkit-R] ultrajono: ello boys[m
+2012-09-06 22:45:55 [INFO] [Tekkit-R] nightkhaos: i has a quarry![m
+2012-09-06 22:46:02 [INFO] [Tekkit-R] nightkhaos: what's difficult nellie?[m
+2012-09-06 22:46:34 [INFO] [Tekkit-R] ultrajono: so, no hello to me then[m
+2012-09-06 22:46:40 [INFO] [Tekkit-R] nightkhaos: hi simba[m
+2012-09-06 22:46:44 [INFO] [Tekkit-R] ultrajono: sheesh, some people :D[m
+2012-09-06 22:46:59 [INFO] [Tekkit-R] H4ZM4T: herro[m
+2012-09-06 22:47:05 [INFO] [Tekkit-R] H4ZM4T: making my cobble generator[m
+2012-09-06 22:47:13 [INFO] [Tekkit-R] ultrajono: ah[m
+2012-09-06 22:47:33 [INFO] [Tekkit-R] nightkhaos: Ahh... I know how to do that fairly easily. :P[m
+2012-09-06 22:47:40 [INFO] [Tekkit-R] ultrajono: is this the same design as the one on the island?[m
+2012-09-06 22:48:17 [INFO] [Tekkit-R] H4ZM4T: sleep?[m
+2012-09-06 22:48:25 [INFO] [Tekkit-R] H4ZM4T: I am not near bed[m
+2012-09-06 22:48:32 [INFO] [Tekkit-R] nightkhaos: sleeping[m
+2012-09-06 22:48:35 [INFO] [Tekkit-R] H4ZM4T: tell me when to dc[m
+2012-09-06 22:48:36 [INFO] [Tekkit-R] ultrajono: give me a sec[m
+2012-09-06 22:48:52 [INFO] [Tekkit-R] nightkhaos: brb (in bed)[m
+2012-09-06 22:48:56 [INFO] [Tekkit-R] ultrajono: damn[m
+2012-09-06 22:48:57 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 22:49:01 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-06 22:49:06 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-06 22:49:29 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 22:49:55 [INFO] [Tekkit-R] ultrajono: i have no idea what to do in this minecraft[m
+2012-09-06 22:50:41 [INFO] [Tekkit-R] nightkhaos: Well... I'm having a similar issue. I'm going to make a house and then play it by ear. :P[m
+2012-09-06 22:50:49 [INFO] [Tekkit-R] ultrajono: thought you made that cottage?[m
+2012-09-06 22:51:07 [INFO] [Tekkit-R] ultrajono: brent's is fairly impressive, well, so far anyway[m
+2012-09-06 22:51:21 [INFO] [Tekkit-R] nightkhaos: he doesn't have a house so much as a cave :P[m
+2012-09-06 22:51:28 [INFO] [Tekkit-R] ultrajono: have you been recently?[m
+2012-09-06 22:51:33 [INFO] [Tekkit-R] nightkhaos: yes[m
+2012-09-06 22:51:39 [INFO] [Tekkit-R] ultrajono: i like the entrance[m
+2012-09-06 22:51:53 [INFO] [Tekkit-R] nightkhaos: it's still a cave . :P[m
+2012-09-06 22:52:01 [INFO] [Tekkit-R] ultrajono: and you ahve this quaint little cottage[m
+2012-09-06 22:52:04 [INFO] [Tekkit-R] ultrajono: as always[m
+2012-09-06 22:52:16 [INFO] [Tekkit-R] nightkhaos: ha... more like a WIP marble palace.[m
+2012-09-06 22:52:25 [INFO] [Tekkit-R] ultrajono: ok, WHAT?!?[m
+2012-09-06 22:52:26 [INFO] [Tekkit-R] H4ZM4T: can you see what I am standing on?[m
+2012-09-06 22:52:40 [INFO] [Tekkit-R] ultrajono: i need a texture pack, not sure which to get[m
+2012-09-06 22:52:43 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-06 22:52:46 [INFO] [Tekkit-R] H4ZM4T: sphax[m
+2012-09-06 22:52:46 [INFO] [Tekkit-R] nightkhaos: bdcraft.[m
+2012-09-06 22:52:47 [INFO] [Tekkit-R] ultrajono: owner, server?[m
+2012-09-06 22:52:48 [INFO] [Tekkit-R] H4ZM4T: all the wya[m
+2012-09-06 22:53:00 [INFO] [Tekkit-R] nightkhaos: agreed nellie.[m
+2012-09-06 22:53:00 [INFO] [Tekkit-R] H4ZM4T: damn, he can see the anchor[m
+2012-09-06 22:53:00 [INFO] [Tekkit-R] ultrajono: blue pannels? solar???[m
+2012-09-06 22:53:11 [INFO] [Tekkit-R] H4ZM4T: mhmm[m
+2012-09-06 22:53:17 [INFO] [Tekkit-R] nightkhaos: jono is confusesd. :p[m
+2012-09-06 22:53:25 [INFO] [Tekkit-R] ultrajono: oh, very very much so[m
+2012-09-06 22:53:27 [INFO] [Tekkit-R] ultrajono: this place scares me[m
+2012-09-06 22:53:47 [INFO] [Tekkit-R] ultrajono: an iron furnace???[m
+2012-09-06 22:53:53 [INFO] [Tekkit-R] ultrajono: whats this bullshit, chests?!?!?[m
+2012-09-06 22:54:51 [INFO] [Tekkit-R] ultrajono: batbox?[m
+2012-09-06 22:55:04 [INFO] [Tekkit-R] nightkhaos: only a batbox nellie? you should upgrade that[m
+2012-09-06 22:55:06 [INFO] [Tekkit-R] ultrajono: i'm taking it, no one is gonna go back to vanilla?[m
+2012-09-06 22:56:05 [INFO] [Tekkit-R] ultrajono: where'd you say yorus is taylor?[m
+2012-09-06 22:56:16 [INFO] [Tekkit-R] nightkhaos: 718, 60[m
+2012-09-06 22:56:27 [INFO] [Tekkit-R] ultrajono: why so far away?[m
+2012-09-06 22:56:43 [INFO] [Tekkit-R] nightkhaos: *shrugs* once I'm established I'll need to go further[m
+2012-09-06 22:57:15 [INFO] [Tekkit-R] ultrajono: i don't think he likes our company nellie[m
+2012-09-06 22:57:43 [INFO] [Tekkit-R] nightkhaos: i love it. I just have a project that is a kilometer by a kilometer, minimum.[m
+2012-09-06 22:57:54 [INFO] [Tekkit-R] ultrajono: like 'atlantis'?[m
+2012-09-06 22:58:09 [INFO] [Tekkit-R] nightkhaos: exactly. tekkit makes it so much easier you have no ieda. Just need to get established[m
+2012-09-06 22:59:20 [INFO] [Tekkit-R] ultrajono: yeh, i'm so going to die on my way to yours taylor[m
+2012-09-06 22:59:35 [INFO] [Tekkit-R] H4ZM4T: zzz tayler[m
+2012-09-06 22:59:38 [INFO] [Tekkit-R] H4ZM4T: tell me when to dc[m
+2012-09-06 22:59:47 [INFO] [Tekkit-R] nightkhaos: kk[m
+2012-09-06 23:00:18 [INFO] [Tekkit-R] nightkhaos: tnow[m
+2012-09-06 23:00:20 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-06 23:00:21 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-06 23:00:26 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-06 23:00:27 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-06 23:00:50 [INFO] [Tekkit-R] ultrajono: stupid jungle biomes[m
+2012-09-06 23:02:37 [INFO] [Tekkit-R] ultrajono: yup, stupid stupid jungles[m
+2012-09-06 23:02:46 [INFO] [Tekkit-R] ultrajono: 780/60 taylor?[m
+2012-09-06 23:03:38 [INFO] [Tekkit-R] ultrajono: taylor?[m
+2012-09-06 23:03:52 [INFO] [Tekkit-R] nightkhaos: 720, 46[m
+2012-09-06 23:03:58 [INFO] [Tekkit-R] ultrajono: son of a BITCH[m
+2012-09-06 23:03:58 [INFO] [Tekkit-R] nightkhaos: the big white rectangle[m
+2012-09-06 23:05:21 [INFO] [Tekkit-R] ultrajono: ah yes[m
+2012-09-06 23:05:27 [INFO] [Tekkit-R] ultrajono: thank you rei's![m
+2012-09-06 23:06:04 [INFO] [Tekkit-R] ultrajono: hi[m
+2012-09-06 23:06:07 [INFO] [Tekkit-R] nightkhaos: hi[m
+2012-09-06 23:06:11 [INFO] [Tekkit-R] nightkhaos: sup[m
+2012-09-06 23:06:12 [INFO] [Tekkit-R] ultrajono: this it?[m
+2012-09-06 23:06:18 [INFO] [Tekkit-R] nightkhaos: well it's a wip[m
+2012-09-06 23:06:26 [INFO] [Tekkit-R] nightkhaos: my current "residence" is across the late[m
+2012-09-06 23:06:49 [INFO] [Tekkit-R] ultrajono: jetpack?[m
+2012-09-06 23:06:59 [INFO] [Tekkit-R] nightkhaos: no, power pack. for the tools[m
+2012-09-06 23:07:06 [INFO] [Tekkit-R] ultrajono: yup, lost you[m
+2012-09-06 23:07:07 [INFO] [Tekkit-R] nightkhaos: over here[m
+2012-09-06 23:07:10 [INFO] [Tekkit-R] nightkhaos: behind[m
+2012-09-06 23:07:28 [INFO] [Tekkit-R] nightkhaos: quant isn't it?[m
+2012-09-06 23:08:17 [INFO] [Tekkit-R] ultrajono: so, whats the wip?[m
+2012-09-06 23:08:32 [INFO] [Tekkit-R] nightkhaos: the marble house[m
+2012-09-06 23:08:45 [INFO] [Tekkit-R] ultrajono: that, needs to be 1k by 1k?[m
+2012-09-06 23:09:04 [INFO] [Tekkit-R] nightkhaos: no, not that. That's atantlis. I need a factory to work from... that's what the white house is for[m
+2012-09-06 23:09:10 [INFO] [Tekkit-R] ultrajono: and you said you have a quarry[m
+2012-09-06 23:09:25 [INFO] [Tekkit-R] nightkhaos: this thing[m
+2012-09-06 23:09:30 [INFO] [Tekkit-R] nightkhaos: haven't set it up yet[m
+2012-09-06 23:09:42 [INFO] [Tekkit-R] nightkhaos: was going to setup power and stuff first[m
+2012-09-06 23:10:30 [INFO] [Tekkit-R] nightkhaos: thinking solar[m
+2012-09-06 23:10:43 [INFO] [Tekkit-R] ultrajono: that, is gonna be a lot of marble[m
+2012-09-06 23:10:44 [INFO] [Tekkit-R] H4ZM4T: its fuuuuuuuucking expensive[m
+2012-09-06 23:10:45 [INFO] [Tekkit-R] nightkhaos: give me a hand[m
+2012-09-06 23:10:46 [INFO] [Tekkit-R] H4ZM4T: don't bother[m
+2012-09-06 23:11:02 [INFO] [Tekkit-R] nightkhaos: as opposed to coal?[m
+2012-09-06 23:11:09 [INFO] [Tekkit-R] H4ZM4T: mhmm charcoal[m
+2012-09-06 23:11:11 [INFO] [Tekkit-R] H4ZM4T: zzzz[m
+2012-09-06 23:11:41 [INFO] [Tekkit-R] nightkhaos: okay, you in bed nellie?[m
+2012-09-06 23:11:42 [INFO] [Tekkit-R] ultrajono: i thougth you'd have left an opening on the way up, easier access?[m
+2012-09-06 23:11:45 [INFO] [Tekkit-R] H4ZM4T: yup[m
+2012-09-06 23:11:52 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-06 23:11:54 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-06 23:12:00 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-06 23:12:00 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-06 23:12:12 [INFO] [Tekkit-R] nightkhaos: yes, there will be an openning... just haven't made it yet[m
+2012-09-06 23:12:14 [INFO] [Tekkit-R] ultrajono: need food, or you set?[m
+2012-09-06 23:12:20 [INFO] [Tekkit-R] nightkhaos: got food. :P[m
+2012-09-06 23:12:31 [INFO] [Tekkit-R] ultrajono: so,t his entire thing, will be where you make shit?[m
+2012-09-06 23:12:54 [INFO] [Tekkit-R] nightkhaos: ty[m
+2012-09-06 23:13:00 [INFO] [Tekkit-R] nightkhaos: yep. that's the idea[m
+2012-09-06 23:13:05 [INFO] [Tekkit-R] nightkhaos: need some glass[m
+2012-09-06 23:13:07 [INFO] [Tekkit-R] ultrajono: solared up the top[m
+2012-09-06 23:13:21 [INFO] [Tekkit-R] ultrajono: right[m
+2012-09-06 23:13:28 [INFO] [Tekkit-R] nightkhaos: that's the plan :)[m
+2012-09-06 23:13:58 [INFO] [Tekkit-R] ultrajono: i don't even knwo what i want my place to look like[m
+2012-09-06 23:14:33 [INFO] [Tekkit-R] ultrajono: i've done a skyhouse, done a standard 'cottage' had a hollowed cave[m
+2012-09-06 23:15:01 [INFO] [Tekkit-R] ultrajono: nellie, why do you always go for the cottage?[m
+2012-09-06 23:15:03 [INFO] [Tekkit-R] H4ZM4T: COME LOOK AT MY EPIC CREATION[m
+2012-09-06 23:15:08 [INFO] [Tekkit-R] H4ZM4T: YOU BREAK IT I BREAK YOU[m
+2012-09-06 23:15:12 [INFO] [Tekkit-R] ultrajono: fine, i'm on my way back to mine anyways[m
+2012-09-06 23:15:26 [INFO] [Tekkit-R] ultrajono: oh, its always so funny to hear you threaten me, even in a joking way[m
+2012-09-06 23:15:45 [INFO] [Tekkit-R] ultrajono: i want to rub your belly and say 'oh, isn't he growing up'[m
+2012-09-06 23:17:12 [INFO] [Tekkit-R] ultrajono: ok, what?[m
+2012-09-06 23:17:20 [INFO] [Tekkit-R] H4ZM4T: FREE ENERGY[m
+2012-09-06 23:17:21 [INFO] [Tekkit-R] ultrajono: oh, thsi is impressive[m
+2012-09-06 23:17:22 [INFO] [Tekkit-R] H4ZM4T: :D :D[m
+2012-09-06 23:17:33 [INFO] [Tekkit-R] H4ZM4T: come inside[m
+2012-09-06 23:17:36 [INFO] [Tekkit-R] H4ZM4T: need food?[m
+2012-09-06 23:17:39 [INFO] [Tekkit-R] ultrajono: so, endless suplly of cobble[m
+2012-09-06 23:17:53 [INFO] [Tekkit-R] ultrajono: nah, got some bread from brents[m
+2012-09-06 23:17:58 [INFO] [Tekkit-R] H4ZM4T: watch[m
+2012-09-06 23:18:12 [INFO] [Tekkit-R] H4ZM4T: IT MAKES THINGDS[m
+2012-09-06 23:18:17 [INFO] [Tekkit-R] ultrajono: ok, i'm confused[m
+2012-09-06 23:18:29 [INFO] [Tekkit-R] H4ZM4T: cobble goes into chest[m
+2012-09-06 23:18:34 [INFO] [Tekkit-R] ultrajono: yeh, i see that[m
+2012-09-06 23:18:37 [INFO] [Tekkit-R] ultrajono: impressive on that by the way[m
+2012-09-06 23:18:38 [INFO] [Tekkit-R] H4ZM4T: chest converts cobble into its energy value[m
+2012-09-06 23:18:47 [INFO] [Tekkit-R] H4ZM4T: and the energy is turned into MANLY STEAKS[m
+2012-09-06 23:18:48 [INFO] [Tekkit-R] ultrajono: yup, getting that[m
+2012-09-06 23:19:01 [INFO] [Tekkit-R] H4ZM4T: see, it just fills up[m
+2012-09-06 23:19:02 [INFO] [Tekkit-R] ultrajono: so, unlimited free food?[m
+2012-09-06 23:19:05 [INFO] [Tekkit-R] H4ZM4T: mhmm[m
+2012-09-06 23:19:18 [INFO] [Tekkit-R] ultrajono: how much energy does a steak refill?[m
+2012-09-06 23:19:23 [INFO] [Tekkit-R] H4ZM4T: or, more dastardly, (and taking a much longer time)[m
+2012-09-06 23:19:31 [INFO] [Tekkit-R] H4ZM4T: diamonds[m
+2012-09-06 23:19:31 [INFO] [Tekkit-R] ultrajono: diamond?[m
+2012-09-06 23:19:33 [INFO] [Tekkit-R] H4ZM4T: uh, 4[m
+2012-09-06 23:19:45 [INFO] [Tekkit-R] ultrajono: this, is a free diamond machine?[m
+2012-09-06 23:19:51 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-06 23:19:53 [INFO] [Tekkit-R] H4ZM4T: yeah[m
+2012-09-06 23:19:54 [INFO] [Tekkit-R] H4ZM4T: however[m
+2012-09-06 23:20:01 [INFO] [Tekkit-R] H4ZM4T: give me a moment[m
+2012-09-06 23:20:34 [INFO] [Tekkit-R] ultrajono: how long did this take?[m
+2012-09-06 23:20:38 [INFO] [Tekkit-R] H4ZM4T: at current capacity it will take 13 minutes to make a diamond[m
+2012-09-06 23:20:39 [INFO] [Tekkit-R] H4ZM4T: wow[m
+2012-09-06 23:20:46 [INFO] [Tekkit-R] H4ZM4T: thats uh....faster than I expectedx[m
+2012-09-06 23:20:48 [INFO] [Tekkit-R] ultrajono: you can always increase capacity[m
+2012-09-06 23:20:50 [INFO] [Tekkit-R] H4ZM4T: I think I did the math wrong[m
+2012-09-06 23:20:58 [INFO] [Tekkit-R] H4ZM4T: I can't expand too much[m
+2012-09-06 23:21:04 [INFO] [Tekkit-R] H4ZM4T: every one of these causes a block update[m
+2012-09-06 23:21:10 [INFO] [Tekkit-R] ultrajono: block update?[m
+2012-09-06 23:21:15 [INFO] [Tekkit-R] H4ZM4T: the server will murder me if I impliment too many[m
+2012-09-06 23:21:20 [INFO] [Tekkit-R] H4ZM4T: as if you were mining a block[m
+2012-09-06 23:21:33 [INFO] [Tekkit-R] ultrajono: make another, and have em side by side?[m
+2012-09-06 23:21:36 [INFO] [Tekkit-R] H4ZM4T: so this is the equivalent of ten dude mining cobble on the server constantly forerver[m
+2012-09-06 23:22:29 [INFO] [Tekkit-R] ultrajono: ah[m
+2012-09-06 23:22:41 [INFO] [Tekkit-R] ultrajono: will this run even if no one is here?[m
+2012-09-06 23:22:50 [INFO] [Tekkit-R] H4ZM4T: because of the anchor, yes[m
+2012-09-06 23:23:01 [INFO] [Tekkit-R] ultrajono: anchor that box you were standing on before?[m
+2012-09-06 23:23:17 [INFO] [Tekkit-R] H4ZM4T: mhmm[m
+2012-09-06 23:23:39 [INFO] [Tekkit-R] ultrajono: damn, so you will pretty much ahve unlimited diamonds?[m
+2012-09-06 23:23:45 [INFO] [Tekkit-R] H4ZM4T: yup[m
+2012-09-06 23:23:54 [INFO] [Tekkit-R] H4ZM4T: zzzzzz[m
+2012-09-06 23:23:55 [INFO] [Tekkit-R] ultrajono: i've got 2 buttons i can click here on the anchor[m
+2012-09-06 23:23:55 [INFO] [Tekkit-R] H4ZM4T: dc?[m
+2012-09-06 23:24:02 [INFO] [Tekkit-R] H4ZM4T: DONT PRESS THEM[m
+2012-09-06 23:24:05 [INFO] [Tekkit-R] H4ZM4T: NO[m
+2012-09-06 23:24:07 [INFO] [Tekkit-R] H4ZM4T: MINE[m
+2012-09-06 23:24:12 [INFO] [Tekkit-R] H4ZM4T: zzzzzz[m
+2012-09-06 23:24:13 [INFO] [Tekkit-R] H4ZM4T: taylor[m
+2012-09-06 23:24:14 [INFO] [Tekkit-R] H4ZM4T: zzzzz[m
+2012-09-06 23:24:16 [INFO] [Tekkit-R] ultrajono: the word is please[m
+2012-09-06 23:24:19 [INFO] [Tekkit-R] H4ZM4T: plx[m
+2012-09-06 23:24:23 [INFO] [Tekkit-R] H4ZM4T: pretty plx[m
+2012-09-06 23:24:26 [INFO] [Tekkit-R] ultrajono: is that hard to do?[m
+2012-09-06 23:24:27 [INFO] [Tekkit-R] H4ZM4T: fuuuuuu[m
+2012-09-06 23:24:30 [INFO] [Tekkit-R] ultrajono: :P[m
+2012-09-06 23:24:36 [INFO] [Tekkit-R] H4ZM4T: ttayyyyylllooorrrr[m
+2012-09-06 23:24:47 [INFO] [Tekkit-R] ultrajono: obey the nellie, he gets annoying if you don't do as he asks[m
+2012-09-06 23:25:24 [INFO] [Tekkit-R] ultrajono: so, why not make more of the unlimited cobble?[m
+2012-09-06 23:25:35 [INFO] [Tekkit-R] H4ZM4T: like I said before, taxes the server a bit[m
+2012-09-06 23:25:37 [INFO] [Tekkit-R] ultrajono: or say, why can't i, once i figure out how to?[m
+2012-09-06 23:25:43 [INFO] [Tekkit-R] ultrajono: assuming i do[m
+2012-09-06 23:25:51 [INFO] [Tekkit-R] ultrajono: creeper[m
+2012-09-06 23:26:17 [INFO] [Tekkit-R] ultrajono: no real damage[m
+2012-09-06 23:26:46 [INFO] [Tekkit-R] H4ZM4T: OI[m
+2012-09-06 23:26:49 [INFO] [Tekkit-R] ultrajono: what?[m
+2012-09-06 23:26:52 [INFO] [Tekkit-R] H4ZM4T: patch up the hole underground[m
+2012-09-06 23:26:55 [INFO] [Tekkit-R] ultrajono: hey[m
+2012-09-06 23:26:55 [INFO] [Tekkit-R] H4ZM4T: not just the surface[m
+2012-09-06 23:26:58 [INFO] [Tekkit-R] ultrajono: creeper exploded[m
+2012-09-06 23:27:00 [INFO] [Tekkit-R] H4ZM4T: and?[m
+2012-09-06 23:27:01 [INFO] [Tekkit-R] ultrajono: i drove him away from your stuff[m
+2012-09-06 23:27:04 [INFO] [Tekkit-R] H4ZM4T: patch up all of it[m
+2012-09-06 23:27:08 [INFO] [Tekkit-R] ultrajono: you know what, no[m
+2012-09-06 23:27:11 [INFO] [Tekkit-R] ultrajono: i have no reason to[m
+2012-09-06 23:27:15 [INFO] [Tekkit-R] H4ZM4T: yes yes you do[m
+2012-09-06 23:27:20 [INFO] [Tekkit-R] H4ZM4T: you blew a creeper up on my soil[m
+2012-09-06 23:27:22 [INFO] [Tekkit-R] H4ZM4T: not cool[m
+2012-09-06 23:27:31 [INFO] [Tekkit-R] ultrajono: uh, i blew up the creeper AWAY FRMO YOUR INVENTION[m
+2012-09-06 23:27:34 [INFO] [Tekkit-R] ultrajono: which would you rather?[m
+2012-09-06 23:27:40 [INFO] [Tekkit-R] H4ZM4T: it wouldn't have blown up if you weren't there though[m
+2012-09-06 23:27:46 [INFO] [Tekkit-R] H4ZM4T: hence, your fault irrelevant[m
+2012-09-06 23:27:55 [INFO] [Tekkit-R] ultrajono: so, a creeper was here[m
+2012-09-06 23:27:59 [INFO] [Tekkit-R] ultrajono: i drove him away from your stuff[m
+2012-09-06 23:28:03 [INFO] [Tekkit-R] ultrajono: he blew up near me[m
+2012-09-06 23:28:09 [INFO] [Tekkit-R] ultrajono: and its my fault for not fixing 'your land'?[m
+2012-09-06 23:28:26 [INFO] [Tekkit-R] H4ZM4T: it would never have aggrod had you not been there, so yes[m
+2012-09-06 23:28:36 [INFO] [Tekkit-R] ultrajono: unbelievable[m
+2012-09-06 23:28:37 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-06 23:28:41 [INFO] [Tekkit-R] H4ZM4T: no, logical[m
+2012-09-06 23:29:31 [INFO] [Tekkit-R] nightkhaos: okay made four solar panels, that should get me started[m
+2012-09-06 23:36:00 [INFO] [Tekkit-R] H4ZM4T: well[m
+2012-09-06 23:36:04 [INFO] [Tekkit-R] H4ZM4T: that is me done for the evening[m
+2012-09-06 23:36:11 [INFO] [Tekkit-R] H4ZM4T: do you think I was too harsh on jono?[m
+2012-09-06 23:36:13 [INFO] [Tekkit-R] nightkhaos: night[m
+2012-09-06 23:36:22 [INFO] [Tekkit-R] H4ZM4T: he needed to learnt hat patching things isn't up to standard[m
+2012-09-06 23:36:31 [INFO] [Tekkit-R] H4ZM4T: and instead he went off on a huff[m
+2012-09-06 23:36:32 [INFO] [Tekkit-R] nightkhaos: *shrugs*[m
+2012-09-06 23:36:48 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-06 23:36:52 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-07 00:08:02 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-07 00:08:17 [INFO] [Tekkit-R] ultrajono: still here ey?[m
+2012-09-07 00:08:21 [INFO] [Tekkit-R] nightkhaos: yep[m
+2012-09-07 00:08:32 [INFO] [Tekkit-R] ultrajono: everythin ok?[m
+2012-09-07 00:08:40 [INFO] [Tekkit-R] nightkhaos: yep[m
+2012-09-07 00:08:44 [INFO] [Tekkit-R] nightkhaos: want to help?[m
+2012-09-07 00:08:58 [INFO] [Tekkit-R] ultrajono: sure, why not, nothign else to do, the rest just scares me[m
+2012-09-07 00:09:27 [INFO] [Tekkit-R] ultrajono: nellie's machine is actually rather smart[m
+2012-09-07 00:09:43 [INFO] [Tekkit-R] nightkhaos: hehe... I has solar power xD[m
+2012-09-07 00:10:06 [INFO] [Tekkit-R] ultrajono: he has an automatic diamond machine that will constantly give him diamonds, even if no one is on[m
+2012-09-07 00:10:19 [INFO] [Tekkit-R] nightkhaos: using a cobble gneerator[m
+2012-09-07 00:10:24 [INFO] [Tekkit-R] ultrajono: yup[m
+2012-09-07 00:11:06 [INFO] [Tekkit-R] ultrajono: probably more efficient ways to do it[m
+2012-09-07 00:12:48 [INFO] [Tekkit-R] ultrajono: you been to brents yet?[m
+2012-09-07 00:12:55 [INFO] [Tekkit-R] nightkhaos: yep[m
+2012-09-07 00:13:02 [INFO] [Tekkit-R] ultrajono: how long ago?[m
+2012-09-07 00:13:05 [INFO] [Tekkit-R] nightkhaos: if you come here I have a favour to ask[m
+2012-09-07 00:13:07 [INFO] [Tekkit-R] nightkhaos: 5 minutes[m
+2012-09-07 00:13:12 [INFO] [Tekkit-R] ultrajono: 5 min ago?[m
+2012-09-07 00:13:15 [INFO] [Tekkit-R] ultrajono: and i'm already near yorus[m
+2012-09-07 00:13:55 [INFO] [Tekkit-R] ultrajono: tada[m
+2012-09-07 00:14:01 [INFO] [Tekkit-R] ultrajono: hello chainsaw[m
+2012-09-07 00:14:07 [INFO] [Tekkit-R] nightkhaos: you'll need this. One sec[m
+2012-09-07 00:14:18 [INFO] [Tekkit-R] ultrajono: a freakin chainsaw?[m
+2012-09-07 00:14:23 [INFO] [Tekkit-R] nightkhaos: put that on.[m
+2012-09-07 00:14:33 [INFO] [Tekkit-R] ultrajono: i'll help, if you explain what all this shit is? deal?[m
+2012-09-07 00:14:43 [INFO] [Tekkit-R] nightkhaos: that's a chainsaw and a powerpack to wear[m
+2012-09-07 00:14:48 [INFO] [Tekkit-R] nightkhaos: okay follow me[m
+2012-09-07 00:14:54 [INFO] [Tekkit-R] ultrajono: i meant the rest of it[m
+2012-09-07 00:15:13 [INFO] [Tekkit-R] nightkhaos: oh that was just a generator, an MFE connected to a solar panels[m
+2012-09-07 00:15:32 [INFO] [Tekkit-R] ultrajono: MFE?[m
+2012-09-07 00:15:46 [INFO] [Tekkit-R] nightkhaos: multi-function-electrical storage unit[m
+2012-09-07 00:16:04 [INFO] [Tekkit-R] ultrajono: ello massive tree[m
+2012-09-07 00:16:36 [INFO] [Tekkit-R] ultrajono: you make this?[m
+2012-09-07 00:16:44 [INFO] [Tekkit-R] ultrajono: or, cutting it down?[m
+2012-09-07 00:16:51 [INFO] [Tekkit-R] nightkhaos: okay, using the chainsaw I need you to collect as much of this particular wood as possibl[m
+2012-09-07 00:17:02 [INFO] [Tekkit-R] ultrajono: easy enough[m
+2012-09-07 00:17:04 [INFO] [Tekkit-R] nightkhaos: important to note... PUNCH THE LEAVES. Otherwise your battery will drain like a mofo[m
+2012-09-07 00:17:23 [INFO] [Tekkit-R] ultrajono: whats a MFE do?[m
+2012-09-07 00:17:30 [INFO] [Tekkit-R] nightkhaos: stores energy[m
+2012-09-07 00:17:48 [INFO] [Tekkit-R] nightkhaos: when your chainsaw stairs getting "damaged" then we need to recharge your pack.[m
+2012-09-07 00:17:56 [INFO] [Tekkit-R] nightkhaos: you should have plenty to get a stack or two through :)[m
+2012-09-07 00:18:07 [INFO] [Tekkit-R] ultrajono: got any food?[m
+2012-09-07 00:18:13 [INFO] [Tekkit-R] ultrajono: i've only got 9 bread[m
+2012-09-07 00:18:27 [INFO] [Tekkit-R] ultrajono: that should be fine[m
+2012-09-07 00:18:45 [INFO] [Tekkit-R] nightkhaos: thanks. I'm just going AFK for a moment. need to work out why my extractor exploded when I[m
+2012-09-07 00:18:48 [INFO] [Tekkit-R] nightkhaos: connected it to the MFE[m
+2012-09-07 00:19:24 [INFO] [Tekkit-R] nightkhaos: ahh... need an LV transformer[m
+2012-09-07 00:19:30 [INFO] [Tekkit-R] ultrajono: eh?[m
+2012-09-07 00:19:42 [INFO] [Tekkit-R] nightkhaos: the MFE outputs high voltage.[m
+2012-09-07 00:19:48 [INFO] [Tekkit-R] ultrajono: ok[m
+2012-09-07 00:19:57 [INFO] [Tekkit-R] nightkhaos: So, I need to transform it to LV[m
+2012-09-07 00:20:02 [INFO] [Tekkit-R] nightkhaos: (low voltage)[m
+2012-09-07 00:20:07 [INFO] [Tekkit-R] ultrajono: different wattage for different items[m
+2012-09-07 00:20:21 [INFO] [Tekkit-R] ultrajono: i'm guessing[m
+2012-09-07 00:20:29 [INFO] [Tekkit-R] nightkhaos: exactly[m
+2012-09-07 00:20:43 [INFO] [Tekkit-R] ultrajono: chainsaw is kinda handy[m
+2012-09-07 00:20:49 [INFO] [Tekkit-R] nightkhaos: I know right. :)[m
+2012-09-07 00:20:58 [INFO] [Tekkit-R] ultrajono: how hard are they to charge wiht a battery pack?[m
+2012-09-07 00:21:14 [INFO] [Tekkit-R] nightkhaos: very easy.[m
+2012-09-07 00:21:21 [INFO] [Tekkit-R] ultrajono: hard to make?[m
+2012-09-07 00:21:47 [INFO] [Tekkit-R] nightkhaos: Not really, refined iron, a circuit, and a battery... most annoying resource is rubber[m
+2012-09-07 00:22:10 [INFO] [Tekkit-R] ultrajono: if you coudl give me a couple of shears this would go much faster[m
+2012-09-07 00:23:14 [INFO] [Tekkit-R] nightkhaos: don't have any iron on me... one second[m
+2012-09-07 00:23:22 [INFO] [Tekkit-R] ultrajono: how do you know what does what though?[m
+2012-09-07 00:24:56 [INFO] [Tekkit-R] nightkhaos: how do you mean what does what?[m
+2012-09-07 00:25:04 [INFO] [Tekkit-R] ultrajono: like, how do you know how to make this shit?[m
+2012-09-07 00:25:09 [INFO] [Tekkit-R] nightkhaos: wiki mostly[m
+2012-09-07 00:25:13 [INFO] [Tekkit-R] ultrajono: solar pannels and the wiring connecting it to........[m
+2012-09-07 00:25:43 [INFO] [Tekkit-R] nightkhaos: there ya go[m
+2012-09-07 00:25:55 [INFO] [Tekkit-R] ultrajono: bout the same speed[m
+2012-09-07 00:26:10 [INFO] [Tekkit-R] ultrajono: want em back?[m
+2012-09-07 00:26:14 [INFO] [Tekkit-R] nightkhaos: nah. keep em[m
+2012-09-07 00:26:32 [INFO] [Tekkit-R] ultrajono: why this wood?[m
+2012-09-07 00:28:43 [INFO] [Tekkit-R] ultrajono: is it wrong that the first thing i wanted to make was the weapons?[m
+2012-09-07 00:30:27 [INFO] [Tekkit-R] nightkhaos: damnit... I need rubber[m
+2012-09-07 00:30:29 [INFO] [Tekkit-R] nightkhaos: and no[m
+2012-09-07 00:30:37 [INFO] [Tekkit-R] nightkhaos: *sigh* everything I'm doing requires rubber[m
+2012-09-07 00:30:40 [INFO] [Tekkit-R] ultrajono: planning to get lucky?[m
+2012-09-07 00:31:08 [INFO] [Tekkit-R] ultrajono: sorry, to easy[m
+2012-09-07 00:31:27 [INFO] [Tekkit-R] ultrajono: interesting fact, the shears work well on light leaves, not dark[m
+2012-09-07 00:31:33 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-07 00:33:48 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-07 00:34:03 [INFO] [Tekkit-R] nightkhaos: sorry had an audio bug[m
+2012-09-07 00:34:11 [INFO] [Tekkit-R] ultrajono: all good[m
+2012-09-07 00:34:25 [INFO] [Tekkit-R] ultrajono: just over 5 stacks[m
+2012-09-07 00:34:28 [INFO] [Tekkit-R] nightkhaos: awesome[m
+2012-09-07 00:34:38 [INFO] [Tekkit-R] ultrajono: did you get what i said about the shears?[m
+2012-09-07 00:34:43 [INFO] [Tekkit-R] nightkhaos: now we need to go to brents because my extractor isn't... existing[m
+2012-09-07 00:34:52 [INFO] [Tekkit-R] nightkhaos: it only works on dark leaves?[m
+2012-09-07 00:34:56 [INFO] [Tekkit-R] ultrajono: other way around[m
+2012-09-07 00:35:35 [INFO] [Tekkit-R] ultrajono: wouldn't tnt be easier?[m
+2012-09-07 00:35:44 [INFO] [Tekkit-R] ultrajono: or does that destroy the block?[m
+2012-09-07 00:35:50 [INFO] [Tekkit-R] nightkhaos: I think it might[m
+2012-09-07 00:35:55 [INFO] [Tekkit-R] nightkhaos: anyway... down ya come. :)[m
+2012-09-07 00:36:02 [INFO] [Tekkit-R] ultrajono: yes boss man[m
+2012-09-07 00:36:06 [INFO] [Tekkit-R] ultrajono: yousa a good boss[m
+2012-09-07 00:36:12 [INFO] [Tekkit-R] nightkhaos: lol[m
+2012-09-07 00:36:19 [INFO] [Tekkit-R] ultrajono: shine your shoes?[m
+2012-09-07 00:36:26 [INFO] [Tekkit-R] ultrajono: me pick some good cotton for massa[m
+2012-09-07 00:36:27 [INFO] [Tekkit-R] nightkhaos: so the would you've been cutting is called rubberwood.[m
+2012-09-07 00:36:35 [INFO] [Tekkit-R] ultrajono: i've notcied[m
+2012-09-07 00:37:44 [INFO] [Tekkit-R] ultrajono: i'm at your construction[m
+2012-09-07 00:37:54 [INFO] [Tekkit-R] nightkhaos: k, come to my hovel. :P[m
+2012-09-07 00:38:56 [INFO] [Tekkit-R] ultrajono: ok, i'm dizzy[m
+2012-09-07 00:39:19 [INFO] [Tekkit-R] nightkhaos: my mine[m
+2012-09-07 00:39:27 [INFO] [Tekkit-R] ultrajono: i figured :P[m
+2012-09-07 00:39:49 [INFO] [Tekkit-R] ultrajono: to?[m
+2012-09-07 00:39:52 [INFO] [Tekkit-R] nightkhaos: brents[m
+2012-09-07 00:39:56 [INFO] [Tekkit-R] ultrajono: fuckin hell[m
+2012-09-07 00:40:09 [INFO] [Tekkit-R] ultrajono: busy busy boy[m
+2012-09-07 00:40:16 [INFO] [Tekkit-R] nightkhaos: &shrus*[m
+2012-09-07 00:40:54 [INFO] [Tekkit-R] ultrajono: sec[m
+2012-09-07 00:41:05 [INFO] [Tekkit-R] nightkhaos: just keep walking you can't miss the ladder[m
+2012-09-07 00:41:37 [INFO] [Tekkit-R] nightkhaos: just watch out for the little bot[m
+2012-09-07 00:41:46 [INFO] [Tekkit-R] nightkhaos: should really get brent to move it[m
+2012-09-07 00:42:07 [INFO] [Tekkit-R] ultrajono: just keep goin forward?[m
+2012-09-07 00:42:28 [INFO] [Tekkit-R] nightkhaos: yep, then up to brent's industrial level[m
+2012-09-07 00:42:52 [INFO] [Tekkit-R] ultrajono: yeh, been here multiple times[m
+2012-09-07 00:42:54 [INFO] [Tekkit-R] nightkhaos: k[m
+2012-09-07 00:42:56 [INFO] [Tekkit-R] ultrajono: that, is so much easier[m
+2012-09-07 00:43:08 [INFO] [Tekkit-R] nightkhaos: this one, closest to the chest, put a stack of that wood in it[m
+2012-09-07 00:43:21 [INFO] [Tekkit-R] ultrajono: eh?[m
+2012-09-07 00:43:23 [INFO] [Tekkit-R] nightkhaos: 4 million, I'm sure he won't mind[m
+2012-09-07 00:43:29 [INFO] [Tekkit-R] ultrajono: put it in the chest?[m
+2012-09-07 00:43:38 [INFO] [Tekkit-R] nightkhaos: no, the one to the left of the chest, up the top slot[m
+2012-09-07 00:43:42 [INFO] [Tekkit-R] nightkhaos: like a furance[m
+2012-09-07 00:43:51 [INFO] [Tekkit-R] ultrajono: ah[m
+2012-09-07 00:43:56 [INFO] [Tekkit-R] ultrajono: 4 million?[m
+2012-09-07 00:44:00 [INFO] [Tekkit-R] nightkhaos: okay, now it's going to extract rubber out of it[m
+2012-09-07 00:44:02 [INFO] [Tekkit-R] nightkhaos: EU...[m
+2012-09-07 00:44:07 [INFO] [Tekkit-R] nightkhaos: energy basically[m
+2012-09-07 00:44:30 [INFO] [Tekkit-R] ultrajono: how hard is it to make one of these quarry's?[m
+2012-09-07 00:44:41 [INFO] [Tekkit-R] nightkhaos: pretty hard... requires 11 diamonds.[m
+2012-09-07 00:44:49 [INFO] [Tekkit-R] ultrajono: so, about an hour and a favour from nellie?[m
+2012-09-07 00:44:56 [INFO] [Tekkit-R] nightkhaos: I'd say so[m
+2012-09-07 00:45:09 [INFO] [Tekkit-R] nightkhaos: i has one[m
+2012-09-07 00:45:11 [INFO] [Tekkit-R] ultrajono: or, make your own auto diamond farm like him[m
+2012-09-07 00:45:15 [INFO] [Tekkit-R] ultrajono: an auto diamond farm?[m
+2012-09-07 00:45:20 [INFO] [Tekkit-R] nightkhaos: That might work[m
+2012-09-07 00:45:33 [INFO] [Tekkit-R] ultrajono: none of this, makes any sense to me[m
+2012-09-07 00:45:39 [INFO] [Tekkit-R] nightkhaos: okay[m
+2012-09-07 00:45:43 [INFO] [Tekkit-R] nightkhaos: let's start at the start[m
+2012-09-07 00:45:54 [INFO] [Tekkit-R] nightkhaos: upp here[m
+2012-09-07 00:46:00 [INFO] [Tekkit-R] ultrajono: ooh, this is new[m
+2012-09-07 00:46:04 [INFO] [Tekkit-R] nightkhaos: in that room is the nuclear reactor[m
+2012-09-07 00:46:17 [INFO] [Tekkit-R] nightkhaos: the energy from there is[m
+2012-09-07 00:46:19 [INFO] [Tekkit-R] ultrajono: if we go in, we die?[m
+2012-09-07 00:46:26 [INFO] [Tekkit-R] nightkhaos: radiation, all that stuff, yeah[m
+2012-09-07 00:46:31 [INFO] [Tekkit-R] nightkhaos: goes to this block here[m
+2012-09-07 00:46:37 [INFO] [Tekkit-R] ultrajono: msfu?[m
+2012-09-07 00:46:46 [INFO] [Tekkit-R] nightkhaos: exactly. that is like a giant battery[m
+2012-09-07 00:47:10 [INFO] [Tekkit-R] nightkhaos: that battery then transformed the power from EV to HV[m
+2012-09-07 00:47:16 [INFO] [Tekkit-R] ultrajono: extreme to high[m
+2012-09-07 00:47:30 [INFO] [Tekkit-R] nightkhaos: and then the below there is another one that converts from HV to LV[m
+2012-09-07 00:47:35 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-07 00:47:39 [INFO] [Tekkit-R] ultrajono: hey lluoc[m
+2012-09-07 00:47:43 [INFO] [Tekkit-R] lluoc: hey[m
+2012-09-07 00:47:47 [INFO] [Tekkit-R] nightkhaos: that power powers all the the devices[m
+2012-09-07 00:47:47 [INFO] [Tekkit-R] ultrajono: you in vanilla, or this crazy crazy world?[m
+2012-09-07 00:47:57 [INFO] [Tekkit-R] nightkhaos: we have macerators, which crush ore[m
+2012-09-07 00:47:58 [INFO] [Tekkit-R] lluoc: tekkit-restricted[m
+2012-09-07 00:48:06 [INFO] [Tekkit-R] lluoc: also known as crazy world[m
+2012-09-07 00:48:10 [INFO] [Tekkit-R] ultrajono: ah yes[m
+2012-09-07 00:48:10 [INFO] [Tekkit-R] nightkhaos: furance, which, is well... like a standard furance[m
+2012-09-07 00:48:23 [INFO] [Tekkit-R] nightkhaos: and other stuff that I don't even understand yet. :P[m
+2012-09-07 00:48:35 [INFO] [Tekkit-R] ultrajono: macerators, crushing ore to what?[m
+2012-09-07 00:48:41 [INFO] [Tekkit-R] nightkhaos: dust.[m
+2012-09-07 00:48:46 [INFO] [Tekkit-R] nightkhaos: one ore to 2 dust[m
+2012-09-07 00:48:50 [INFO] [Tekkit-R] nightkhaos: one dust to one ingot[m
+2012-09-07 00:48:55 [INFO] [Tekkit-R] nightkhaos: effectively doubles your yeild[m
+2012-09-07 00:48:56 [INFO] [Tekkit-R] lluoc: heh heh[m
+2012-09-07 00:49:06 [INFO] [Tekkit-R] nightkhaos: right... so that's the basic stuff[m
+2012-09-07 00:49:06 [INFO] [Tekkit-R] lluoc: jono, you and the vanilla wiki never got along[m
+2012-09-07 00:49:12 [INFO] [Tekkit-R] lluoc: now you're on tekkit[m
+2012-09-07 00:49:20 [INFO] [Tekkit-R] ultrajono: oh, i'm not sure[m
+2012-09-07 00:49:20 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-07 00:49:22 [INFO] [Tekkit-R] ultrajono: tekkit SCARES ME[m
+2012-09-07 00:49:26 [INFO] [Tekkit-R] nightkhaos: next... we have the quarries, which I'm sure you've seen working[m
+2012-09-07 00:49:37 [INFO] [Tekkit-R] ultrajono: actually, i haven't[m
+2012-09-07 00:49:39 [INFO] [Tekkit-R] lluoc: have you seen what nukes do?[m
+2012-09-07 00:49:42 [INFO] [Tekkit-R] nightkhaos: these little things pocking out the side and top are teleport pipes[m
+2012-09-07 00:49:49 [INFO] [Tekkit-R] ultrajono: i may hae set of like 6 in the other world[m
+2012-09-07 00:49:50 [INFO] [Tekkit-R] nightkhaos: which teleport to here[m
+2012-09-07 00:49:54 [INFO] [Tekkit-R] nightkhaos: and here respectively[m
+2012-09-07 00:50:06 [INFO] [Tekkit-R] nightkhaos: one being for items, the other giving the qurries power[m
+2012-09-07 00:50:20 [INFO] [Tekkit-R] ultrajono: so quaries are full auto, no need for anything[m
+2012-09-07 00:50:22 [INFO] [Tekkit-R] lluoc: oh, brick roof. Haven't seen one of those in a while[m
+2012-09-07 00:50:24 [INFO] [Tekkit-R] ultrajono: do they sort the items?[m
+2012-09-07 00:50:31 [INFO] [Tekkit-R] nightkhaos: the stuff the comes into this pipe[m
+2012-09-07 00:50:34 [INFO] [Tekkit-R] ultrajono: welcome to nellies[m
+2012-09-07 00:50:43 [INFO] [Tekkit-R] nightkhaos: that multile coloured pipe there sorts things[m
+2012-09-07 00:50:45 [INFO] [Tekkit-R] ultrajono: you been to tekkit before?[m
+2012-09-07 00:50:58 [INFO] [Tekkit-R] lluoc: WHAT LAWS OF THERMODYNAMICS[m
+2012-09-07 00:51:00 [INFO] [Tekkit-R] nightkhaos: it sends them into the chest, the convertor[m
+2012-09-07 00:51:05 [INFO] [Tekkit-R] nightkhaos: or down here[m
+2012-09-07 00:51:07 [INFO] [Tekkit-R] lluoc: I feel this is cheating....[m
+2012-09-07 00:51:12 [INFO] [Tekkit-R] ultrajono: yup[m
+2012-09-07 00:51:20 [INFO] [Tekkit-R] ultrajono: ok, see, this is just chinese to me now[m
+2012-09-07 00:51:31 [INFO] [Tekkit-R] ultrajono: electric furnaces?[m
+2012-09-07 00:51:34 [INFO] [Tekkit-R] nightkhaos: this auto macerators and smelts the ore[m
+2012-09-07 00:51:41 [INFO] [Tekkit-R] nightkhaos: then sends it back up to[m
+2012-09-07 00:51:50 [INFO] [Tekkit-R] nightkhaos: this little chest[m
+2012-09-07 00:52:06 [INFO] [Tekkit-R] lluoc: oh taylor, is my eclipse phase character still alive and or sane?[m
+2012-09-07 00:52:09 [INFO] [Tekkit-R] ultrajono: which gives him all this stuff[m
+2012-09-07 00:52:17 [INFO] [Tekkit-R] nightkhaos: yes lluoc, no one died yet[m
+2012-09-07 00:52:20 [INFO] [Tekkit-R] nightkhaos: exactly.[m
+2012-09-07 00:52:27 [INFO] [Tekkit-R] lluoc: and the sane part?[m
+2012-09-07 00:52:31 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-07 00:52:38 [INFO] [Tekkit-R] lluoc: oh dear. Who got infected.[m
+2012-09-07 00:52:43 [INFO] [Tekkit-R] nightkhaos: honestly very simple setup. in atlatnis mine is going to be a lot more complicated[m
+2012-09-07 00:52:43 [INFO] [Tekkit-R] ultrajono: and the way the quarries work, as in, how do they actually mine?[m
+2012-09-07 00:52:47 [INFO] [Tekkit-R] nightkhaos: with things like autobuilders[m
+2012-09-07 00:52:58 [INFO] [Tekkit-R] ultrajono: oh crap[m
+2012-09-07 00:53:12 [INFO] [Tekkit-R] nightkhaos: When I get my quarry up and running I'll show you[m
+2012-09-07 00:53:19 [INFO] [Tekkit-R] ultrajono: so, this massive hole, he actually didn't mine himself, it was all auto?[m
+2012-09-07 00:53:21 [INFO] [Tekkit-R] lluoc: where's your houses?[m
+2012-09-07 00:53:24 [INFO] [Tekkit-R] nightkhaos: yep[m
+2012-09-07 00:53:26 [INFO] [Tekkit-R] ultrajono: i'll show you[m
+2012-09-07 00:53:31 [INFO] [Tekkit-R] nightkhaos: we're currently at brents[m
+2012-09-07 00:53:32 [INFO] [Tekkit-R] lluoc died[m
+2012-09-07 00:53:37 [INFO] [Tekkit-R] ultrajono: i've got food for you[m
+2012-09-07 00:53:59 [INFO] [Tekkit-R] nightkhaos: right that should be enough to get me started[m
+2012-09-07 00:54:01 [INFO] [Tekkit-R] lluoc: im at nelly's i think[m
+2012-09-07 00:54:16 [INFO] [Tekkit-R] ultrajono: typical nellie cottage?[m
+2012-09-07 00:54:24 [INFO] [Tekkit-R] lluoc: no actually[m
+2012-09-07 00:54:25 [INFO] [Tekkit-R] nightkhaos: jono, when you're done, fetch rowan and take him to my house[m
+2012-09-07 00:54:30 [INFO] [Tekkit-R] ultrajono: yes massa[m
+2012-09-07 00:54:43 [INFO] [Tekkit-R] lluoc: he doesn't have any ground level chests[m
+2012-09-07 00:54:43 [INFO] [Tekkit-R] ultrajono: i see you[m
+2012-09-07 00:54:45 [INFO] [Tekkit-R] nightkhaos: just could use the help :P[m
+2012-09-07 00:54:54 [INFO] [Tekkit-R] lluoc: AHH[m
+2012-09-07 00:54:59 [INFO] [Tekkit-R] ultrajono: hi[m
+2012-09-07 00:55:06 [INFO] [Tekkit-R] lluoc: I fell in the perpetual energy machine[m
+2012-09-07 00:55:09 [INFO] [Tekkit-R] lluoc: hi[m
+2012-09-07 00:55:11 [INFO] [Tekkit-R] lluoc: hey, thanks[m
+2012-09-07 00:55:17 [INFO] [Tekkit-R] lluoc: by the way[m
+2012-09-07 00:55:18 [INFO] [Tekkit-R] ultrajono: all good :D[m
+2012-09-07 00:55:25 [INFO] [Tekkit-R] lluoc: THE FUCK IS ALL THIS[m
+2012-09-07 00:55:30 [INFO] [Tekkit-R] ultrajono: nellie's auto diamond machine[m
+2012-09-07 00:55:35 [INFO] [Tekkit-R] ultrajono: i know ey, thats why is aid, its scary[m
+2012-09-07 00:55:42 [INFO] [Tekkit-R] ultrajono: cobble comes to this machine, which he has set up to give him diamond[m
+2012-09-07 00:55:49 [INFO] [Tekkit-R] ultrajono: and, because of an 'anchor' it'll be on ALWAYS[m
+2012-09-07 00:55:54 [INFO] [Tekkit-R] ultrajono: every 13 or so min, free diamond[m
+2012-09-07 00:56:07 [INFO] [Tekkit-R] ultrajono: brents entrance is the best[m
+2012-09-07 00:56:08 [INFO] [Tekkit-R] lluoc: well I guess that is better than 13 diamon a second[m
+2012-09-07 00:56:10 [INFO] [Tekkit-R] nightkhaos: i'm not sure if it's game breakign or not[m
+2012-09-07 00:56:21 [INFO] [Tekkit-R] ultrajono: i'll show you that?[m
+2012-09-07 00:56:23 [INFO] [Tekkit-R] nightkhaos: however, at the same time...[m
+2012-09-07 00:56:23 [INFO] [Tekkit-R] lluoc: ok[m
+2012-09-07 00:56:34 [INFO] [Tekkit-R] nightkhaos: when you have enough EU you can fabriate materials[m
+2012-09-07 00:56:39 [INFO] [Tekkit-R] lluoc: i's awesome[m
+2012-09-07 00:56:54 [INFO] [Tekkit-R] ultrajono: random nether portal[m
+2012-09-07 00:57:02 [INFO] [Tekkit-R] nightkhaos: so I don't see that it's too bad... not as bad as when EE was on[m
+2012-09-07 00:57:18 [INFO] [Tekkit-R] ultrajono: turn around, back to nellies for a sec?[m
+2012-09-07 00:57:21 [INFO] [Tekkit-R] lluoc: DIAMOD EVERWHERE[m
+2012-09-07 00:57:32 [INFO] [Tekkit-R] ultrajono: back around[m
+2012-09-07 00:57:37 [INFO] [Tekkit-R] ultrajono: say wen your looking[m
+2012-09-07 00:57:48 [INFO] [Tekkit-R] ultrajono: lluoc?[m
+2012-09-07 00:57:50 [INFO] [Tekkit-R] lluoc: ok, looking at his house[m
+2012-09-07 00:58:01 [INFO] [Tekkit-R] ultrajono: turn back round[m
+2012-09-07 00:58:10 [INFO] [Tekkit-R] lluoc: heh nice[m
+2012-09-07 00:58:13 [INFO] [Tekkit-R] ultrajono: this is brents[m
+2012-09-07 00:58:13 [INFO] [Tekkit-R] ultrajono: come on down[m
+2012-09-07 00:58:28 [INFO] [Tekkit-R] ultrajono: works via trap door, i just drop in and replace it[m
+2012-09-07 00:58:39 [INFO] [Tekkit-R] ultrajono: where aer you?[m
+2012-09-07 00:58:47 [INFO] [Tekkit-R] lluoc: bottom[m
+2012-09-07 00:58:55 [INFO] [Tekkit-R] ultrajono: did you check out the other stuff?[m
+2012-09-07 00:59:20 [INFO] [Tekkit-R] ultrajono: first level[m
+2012-09-07 00:59:23 [INFO] [Tekkit-R] ultrajono: industrial[m
+2012-09-07 00:59:28 [INFO] [Tekkit-R] lluoc: ... wat[m
+2012-09-07 00:59:36 [INFO] [Tekkit-R] lluoc: the[m
+2012-09-07 00:59:45 [INFO] [Tekkit-R] ultrajono: exactly[m
+2012-09-07 00:59:46 [INFO] [Tekkit-R] lluoc: fuck[m
+2012-09-07 00:59:58 [INFO] [Tekkit-R] ultrajono: see this thing here?[m
+2012-09-07 01:00:02 [INFO] [Tekkit-R] ultrajono: yo[m
+2012-09-07 01:00:09 [INFO] [Tekkit-R] ultrajono: this black thing pointing down?[m
+2012-09-07 01:00:13 [INFO] [Tekkit-R] lluoc: oh, I've seen them wor[m
+2012-09-07 01:00:22 [INFO] [Tekkit-R] ultrajono: yeh, he's just makinga  crapload of em[m
+2012-09-07 01:00:26 [INFO] [Tekkit-R] lluoc: why isn't it active[m
+2012-09-07 01:00:47 [INFO] [Tekkit-R] ultrajono: follow[m
+2012-09-07 01:00:51 [INFO] [Tekkit-R] ultrajono: need food?[m
+2012-09-07 01:00:55 [INFO] [Tekkit-R] lluoc: nope[m
+2012-09-07 01:01:03 [INFO] [Tekkit-R] ultrajono: bellow[m
+2012-09-07 01:01:08 [INFO] [Tekkit-R] ultrajono: very confusing[m
+2012-09-07 01:01:09 [INFO] [Tekkit-R] ultrajono: and above[m
+2012-09-07 01:01:22 [INFO] [Tekkit-R] ultrajono: and above again for radiation![m
+2012-09-07 01:01:46 [INFO] [Tekkit-R] lluoc: inactive?[m
+2012-09-07 01:02:05 [INFO] [Tekkit-R] ultrajono: sheesh :P[m
+2012-09-07 01:02:08 [INFO] [Tekkit-R] lluoc: fuck doors[m
+2012-09-07 01:02:22 [INFO] [Tekkit-R] lluoc: oh oh[m
+2012-09-07 01:02:32 [INFO] [Tekkit-R] ultrajono: follow again[m
+2012-09-07 01:02:35 [INFO] [Tekkit-R] lluoc: umm[m
+2012-09-07 01:02:40 [INFO] [Tekkit-R] lluoc: i messed up[m
+2012-09-07 01:02:46 [INFO] [Tekkit-R] ultrajono: hehehehe[m
+2012-09-07 01:02:52 [INFO] [Tekkit-R] ultrajono: don't have a pick[m
+2012-09-07 01:03:07 [INFO] [Tekkit-R] ultrajono: up here[m
+2012-09-07 01:03:24 [INFO] [Tekkit-R] lluoc: yay[m
+2012-09-07 01:03:24 [INFO] [Tekkit-R] ultrajono: douche :P[m
+2012-09-07 01:03:26 [INFO] [Tekkit-R] lluoc: thanks[m
+2012-09-07 01:03:28 [INFO] [Tekkit-R] lluoc: heh[m
+2012-09-07 01:03:44 [INFO] [Tekkit-R] ultrajono: basic farm[m
+2012-09-07 01:04:08 [INFO] [Tekkit-R] lluoc: ... no[m
+2012-09-07 01:04:12 [INFO] [Tekkit-R] ultrajono: ?[m
+2012-09-07 01:04:16 [INFO] [Tekkit-R] lluoc: I refuse[m
+2012-09-07 01:04:20 [INFO] [Tekkit-R] ultrajono: refuse?[m
+2012-09-07 01:04:33 [INFO] [Tekkit-R] lluoc: to accept that there is effectivly a missing chunk here[m
+2012-09-07 01:04:45 [INFO] [Tekkit-R] ultrajono: welcome to auto mines[m
+2012-09-07 01:04:53 [INFO] [Tekkit-R] lluoc: ... it cuts through a mine shaft[m
+2012-09-07 01:05:04 [INFO] [Tekkit-R] ultrajono: cuts through anything bar bedrock, i think[m
+2012-09-07 01:05:09 [INFO] [Tekkit-R] lluoc: Oh hey, did you see what the new snapshow gave us?[m
+2012-09-07 01:05:15 [INFO] [Tekkit-R] ultrajono: nope[m
+2012-09-07 01:05:19 [INFO] [Tekkit-R] lluoc: Heads[m
+2012-09-07 01:05:19 [INFO] [Tekkit-R] ultrajono: follow[m
+2012-09-07 01:05:23 [INFO] [Tekkit-R] lluoc: mobs drop heads[m
+2012-09-07 01:05:23 [INFO] [Tekkit-R] ultrajono: oh, yeh, i saw that[m
+2012-09-07 01:05:44 [INFO] [Tekkit-R] lluoc: also the wither is now a nether boss[m
+2012-09-07 01:05:44 [INFO] [Tekkit-R] ultrajono: lotsa runnin[m
+2012-09-07 01:05:52 [INFO] [Tekkit-R] ultrajono: nope, not this way[m
+2012-09-07 01:06:02 [INFO] [Tekkit-R] ultrajono: i actually have no idea which way[m
+2012-09-07 01:06:11 [INFO] [Tekkit-R] ultrajono: this way[m
+2012-09-07 01:06:13 [INFO] [Tekkit-R] ultrajono: thank you maps[m
+2012-09-07 01:06:18 [INFO] [Tekkit-R] ultrajono: i think[m
+2012-09-07 01:06:24 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-07 01:06:26 [INFO] [Tekkit-R] ultrajono: taylor, is there a lava thing on the way to yours[m
+2012-09-07 01:06:27 [INFO] [Tekkit-R] nightkhaos: head north[m
+2012-09-07 01:06:37 [INFO] [Tekkit-R] nightkhaos: from the lader[m
+2012-09-07 01:06:39 [INFO] [Tekkit-R] lluoc: this is east[m
+2012-09-07 01:06:44 [INFO] [Tekkit-R] nightkhaos: you should cross a lava pit first[m
+2012-09-07 01:06:49 [INFO] [Tekkit-R] ultrajono: oh, ok, right way :D[m
+2012-09-07 01:06:50 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-07 01:07:04 [INFO] [Tekkit-R] ultrajono: mark it yeh?[m
+2012-09-07 01:07:12 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-07 01:07:13 [INFO] [Tekkit-R] ultrajono: nope[m
+2012-09-07 01:07:19 [INFO] [Tekkit-R] lluoc: aww[m
+2012-09-07 01:07:19 [INFO] [Tekkit-R] ultrajono: taylors is facing the other way[m
+2012-09-07 01:07:27 [INFO] [Tekkit-R] nightkhaos: 719, 60[m
+2012-09-07 01:07:35 [INFO] [Tekkit-R] ultrajono: yes, i know, but its harder in the mine[m
+2012-09-07 01:07:54 [INFO] [Tekkit-R] nightkhaos: you should go to about 300-something, 28, then you turn[m
+2012-09-07 01:08:13 [INFO] [Tekkit-R] ultrajono: you just wanna go the above ground way?[m
+2012-09-07 01:08:27 [INFO] [Tekkit-R] lluoc: remember tp[m
+2012-09-07 01:08:34 [INFO] [Tekkit-R] ultrajono: tp?[m
+2012-09-07 01:08:42 [INFO] [Tekkit-R] lluoc: teleport command[m
+2012-09-07 01:08:53 [INFO] [Tekkit-R] ultrajono: lluoc?[m
+2012-09-07 01:08:54 [INFO] [Tekkit-R] nightkhaos: if you want to tp to me go ahead[m
+2012-09-07 01:08:58 [INFO] [Tekkit-R] lluoc: I should give people self access again[m
+2012-09-07 01:09:11 [INFO] [Tekkit-R] lluoc: creeper[m
+2012-09-07 01:09:17 [INFO] [Tekkit-R] ultrajono: FUCK[m
+2012-09-07 01:09:28 [INFO] [Tekkit-R] ultrajono died[m
+2012-09-07 01:09:35 [INFO] [Tekkit-R] ultrajono: and, i lost all of it[m
+2012-09-07 01:09:38 [INFO] [Tekkit-R] ultrajono: sorry taylor[m
+2012-09-07 01:09:50 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-07 01:09:51 [INFO] [Tekkit-R] nightkhaos: damn you[m
+2012-09-07 01:09:55 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-07 01:10:06 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-07 01:10:09 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-07 01:10:16 [INFO] [Tekkit-R] ultrajono: all that wood[m
+2012-09-07 01:10:17 [INFO] [Tekkit-R] lluoc died[m
+2012-09-07 01:10:25 [INFO] [Tekkit-R] lluoc: I grabbed it and drowned[m
+2012-09-07 01:10:28 [INFO] [Tekkit-R] lluoc: run?[m
+2012-09-07 01:10:29 [INFO] [Tekkit-R] ultrajono: damn[m
+2012-09-07 01:10:47 [INFO] [Tekkit-R] ultrajono: where are you lluoc?[m
+2012-09-07 01:10:55 [INFO] [Tekkit-R] lluoc: go get your stuff[m
+2012-09-07 01:11:32 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-07 01:12:31 [INFO] [Tekkit-R] ultrajono: ok, that is just evil[m
+2012-09-07 01:13:25 [INFO] [Tekkit-R] ultrajono: oh not fair[m
+2012-09-07 01:13:27 [INFO] [Tekkit-R] ultrajono died[m
+2012-09-07 01:13:52 [INFO] [Tekkit-R] ultrajono: does ptp still work?[m
+2012-09-07 01:14:09 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-07 01:14:13 [INFO] [Tekkit-R] lluoc: AHH[m
+2012-09-07 01:14:24 [INFO] [Tekkit-R] ultrajono died[m
+2012-09-07 01:14:27 [INFO] [Tekkit-R] ultrajono: derp[m
+2012-09-07 01:14:28 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-07 01:14:34 [INFO] [Tekkit-R] lluoc: did you get it back?[m
+2012-09-07 01:14:41 [INFO] [Tekkit-R] ultrajono: yup, but started to drown on teh way up[m
+2012-09-07 01:15:34 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-07 01:15:39 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-07 01:15:44 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-07 01:15:48 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-07 01:16:00 [INFO] [Tekkit-C] lluoc: ok I grabbedit but I have 1 heart[m
+2012-09-07 01:16:10 [INFO] [Tekkit-R] ultrajono: damn[m
+2012-09-07 01:16:11 [INFO] [Tekkit-C] lluoc: tell me when you're in position[m
+2012-09-07 01:16:12 [INFO] [Tekkit-R] ultrajono died[m
+2012-09-07 01:16:29 [INFO] [Tekkit-C] lluoc: and I'll die.[m
+2012-09-07 01:16:30 [INFO] [Tekkit-R] ultrajono: 2 person mission[m
+2012-09-07 01:16:44 [INFO] [Tekkit-C] lluoc: If you can get rid of some of the water?[m
+2012-09-07 01:16:51 [INFO] [Tekkit-R] ultrajono: say, all of it?[m
+2012-09-07 01:16:53 [INFO] [Tekkit-C] lluoc: a bucket can let you get air[m
+2012-09-07 01:17:00 [INFO] [Tekkit-C] lluoc: or pt a door on the bottom[m
+2012-09-07 01:17:09 [INFO] [Tekkit-C] lluoc: so you cna use that as an air pocket[m
+2012-09-07 01:17:15 [INFO] [Tekkit-R] ultrajono: i was thinking tele to taylor?[m
+2012-09-07 01:17:43 [INFO] [Tekkit-C] lluoc: go get your stuff[m
+2012-09-07 01:17:49 [INFO] [Tekkit-R] ultrajono: i'm almost ther[m
+2012-09-07 01:17:54 [INFO] [Tekkit-R] ultrajono: and its taylors[m
+2012-09-07 01:18:07 [INFO] [Tekkit-C] lluoc: .... go get taylors stuff back[m
+2012-09-07 01:18:30 [INFO] [Tekkit-C] lluoc: meanwhile: heh heh, nukes[m
+2012-09-07 01:18:31 [INFO] [Tekkit-R] ultrajono: i'm infront of the waterfall[m
+2012-09-07 01:18:40 [INFO] [Tekkit-R] ultrajono: tell me what to do[m
+2012-09-07 01:18:43 [INFO] [Tekkit-C] lluoc: make an air pocket[m
+2012-09-07 01:18:47 [INFO] [Tekkit-R] ultrajono: how?[m
+2012-09-07 01:18:49 [INFO] [Tekkit-C] lluoc: get a door[m
+2012-09-07 01:18:53 [INFO] [Tekkit-R] ultrajono: a door?[m
+2012-09-07 01:19:01 [INFO] [Tekkit-C] lluoc: put it under water[m
+2012-09-07 01:19:11 [INFO] [Tekkit-C] lluoc: the door blocks the water[m
+2012-09-07 01:19:19 [INFO] [Tekkit-C] lluoc: so you can breath when you are in the door[m
+2012-09-07 01:19:44 [INFO] [Tekkit-C] lluoc: if you don't get it, come to creative and I'll show you[m
+2012-09-07 01:19:56 [INFO] [Tekkit-R] ultrajono: yeh, might do[m
+2012-09-07 01:19:57 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-07 01:20:04 [INFO] [Tekkit-C] ultrajono has joined the game[m
+2012-09-07 01:20:14 [INFO] [Tekkit-C] ultrajono: ok, where are ya?[m
+2012-09-07 01:20:27 [INFO] [Tekkit-C] lluoc: come to spawn[m
+2012-09-07 01:20:31 [INFO] [Tekkit-C] ultrajono: coors?[m
+2012-09-07 01:20:33 [INFO] [Tekkit-C] ultrajono: coords?[m
+2012-09-07 01:20:40 [INFO] [Tekkit-C] lluoc: the big hole[m
+2012-09-07 01:20:49 [INFO] [Tekkit-C] lluoc: 200,200[m
+2012-09-07 01:21:44 [INFO] [Tekkit-C] ultrajono: big big hole[m
+2012-09-07 01:21:54 [INFO] [Tekkit-C] lluoc: now come to the volcano near it[m
+2012-09-07 01:22:14 [INFO] [Tekkit-C] lluoc: sigh. that feeling when you mistake TNT for nukes[m
+2012-09-07 01:22:27 [INFO] [Tekkit-C] lluoc: there is a hole on the side[m
+2012-09-07 01:22:39 [INFO] [Tekkit-C] lluoc: here[m
+2012-09-07 01:23:06 [INFO] [Tekkit-C] lluoc: grabs some hukes[m
+2012-09-07 01:23:07 [INFO] [Tekkit-C] ultrajono: oh, this is gonna be fun[m
+2012-09-07 01:23:25 [INFO] [Tekkit-C] lluoc: taylor, you still on?[m
+2012-09-07 01:23:30 [INFO] [Tekkit-R] nightkhaos: yes[m
+2012-09-07 01:23:38 [INFO] [Tekkit-C] lluoc: you may experience some lag...[m
+2012-09-07 01:23:45 [INFO] [Tekkit-C] ultrajono: just a bit :P[m
+2012-09-07 01:23:52 [INFO] [Tekkit-C] lluoc: minor really[m
+2012-09-07 01:24:24 [INFO] [Tekkit-C] ultrajono: how close to lava?[m
+2012-09-07 01:24:37 [INFO] [Tekkit-C] ultrajono: answers that :D[m
+2012-09-07 01:25:22 [INFO] [Tekkit-C] ultrajono: so, about what nellie has on him?[m
+2012-09-07 01:25:34 [INFO] [Tekkit-C] lluoc: ?[m
+2012-09-07 01:26:07 [INFO] [Tekkit-C] ultrajono: nellie always claims to havea  fuckton of explosives[m
+2012-09-07 01:26:21 [INFO] [Tekkit-C] ultrajono: can i hit teh switch?[m
+2012-09-07 01:26:30 [INFO] [Tekkit-C] ultrajono: why obsidian?[m
+2012-09-07 01:26:52 [INFO] [Tekkit-C] lluoc: hey taylor[m
+2012-09-07 01:26:57 [INFO] [Tekkit-C] lluoc: want to see this?[m
+2012-09-07 01:27:01 [INFO] [Tekkit-C] ultrajono: you want to[m
+2012-09-07 01:27:03 [INFO] [Tekkit-C] ultrajono: trust me[m
+2012-09-07 01:27:14 [INFO] [Tekkit-R] nightkhaos: busy[m
+2012-09-07 01:27:16 [INFO] [Tekkit-C] ultrajono: where are you anyway?[m
+2012-09-07 01:27:20 [INFO] [Tekkit-R] nightkhaos: at my house[m
+2012-09-07 01:27:21 [INFO] [Tekkit-C] lluoc: and jono, you can have swiching[m
+2012-09-07 01:27:28 [INFO] [Tekkit-C] ultrajono: just tell me when :D[m
+2012-09-07 01:27:30 [INFO] [Tekkit-C] lluoc: were n cerative[m
+2012-09-07 01:27:32 [INFO] [Tekkit-C] ultrajono: actually, where are you lluoc?[m
+2012-09-07 01:27:35 [INFO] [Tekkit-C] lluoc: sure you don't want to?[m
+2012-09-07 01:27:40 [INFO] [Tekkit-C] ultrajono: nevermind[m
+2012-09-07 01:28:13 [INFO] [Tekkit-C] lluoc: go when you want[m
+2012-09-07 01:28:27 [INFO] [Tekkit-C] ultrajono: taylor, last chance man[m
+2012-09-07 01:28:42 [INFO] [Tekkit-C] lluoc: aww[m
+2012-09-07 01:28:46 [INFO] [Tekkit-C] lluoc: oh well[m
+2012-09-07 01:29:02 [INFO] [Tekkit-C] ultrajono: minor lag coming your way[m
+2012-09-07 01:29:17 [INFO] [Tekkit-R] nightkhaos: wait... you lost my chainsaw[m
+2012-09-07 01:29:17 [INFO] [Tekkit-C] lluoc: watch the minimap[m
+2012-09-07 01:29:29 [INFO] [Tekkit-C] ultrajono: i am[m
+2012-09-07 01:29:43 [INFO] [Tekkit-C] ultrajono: lluoc has it[m
+2012-09-07 01:29:43 [INFO] [Tekkit-C] ultrajono: about to get it back from him in reality[m
+2012-09-07 01:29:50 [INFO] [Tekkit-C] ultrajono: or, other reality[m
+2012-09-07 01:29:56 [INFO] [Tekkit-R] nightkhaos: well I kinda need it soon[m
+2012-09-07 01:29:59 [INFO] [Tekkit-C] lluoc: just let the world rerender[m
+2012-09-07 01:29:59 [INFO] [Tekkit-C] ultrajono: fuckin hell[m
+2012-09-07 01:30:11 [INFO] [Tekkit-C] lluoc: so I can get the after screenshot[m
+2012-09-07 01:30:26 [INFO] [Tekkit-C] ultrajono: goodbye volcano, we will miss you[m
+2012-09-07 01:30:40 [INFO] [Tekkit-C] ultrajono: ok, that was nuts[m
+2012-09-07 01:30:46 [INFO] [Tekkit-C] lluoc: still going[m
+2012-09-07 01:30:59 [INFO] [Tekkit-C] lluoc: in the meantime[m
+2012-09-07 01:31:02 [INFO] [Tekkit-C] lluoc: grab a door[m
+2012-09-07 01:31:02 [INFO] [Tekkit-C] ultrajono: oh, so it is[m
+2012-09-07 01:31:18 [INFO] [Tekkit-C] lluoc: jump underwater[m
+2012-09-07 01:31:32 [INFO] [Tekkit-C] lluoc: and put a door on the river/ocean bed[m
+2012-09-07 01:31:47 [INFO] [Tekkit-C] ultrajono: oh, shiny[m
+2012-09-07 01:31:57 [INFO] [Tekkit-C] ultrajono: would work with a sign?[m
+2012-09-07 01:32:03 [INFO] [Tekkit-C] ultrajono: but, signs won't cover head[m
+2012-09-07 01:32:05 [INFO] [Tekkit-C] lluoc: might[m
+2012-09-07 01:32:05 [INFO] [Tekkit-C] ultrajono: nevermind[m
+2012-09-07 01:32:07 [INFO] [Tekkit-C] lluoc: try[m
+2012-09-07 01:32:36 [INFO] [Tekkit-C] lluoc: i think it's doe[m
+2012-09-07 01:32:54 [INFO] [Tekkit-C] lluoc: just have to increase my view disance[m
+2012-09-07 01:33:04 [INFO] [Tekkit-C] ultrajono: ok, that was nuts[m
+2012-09-07 01:33:13 [INFO] [Tekkit-C] lluoc: move back a litt[m
+2012-09-07 01:33:17 [INFO] [Tekkit-C] lluoc: le[m
+2012-09-07 01:33:24 [INFO] [Tekkit-C] lluoc: ok[m
+2012-09-07 01:33:35 [INFO] [Tekkit-C] ultrajono: minor damage[m
+2012-09-07 01:33:55 [INFO] [Tekkit-C] lluoc: heh[m
+2012-09-07 01:34:00 [INFO] [Tekkit-C] lluoc: anyways[m
+2012-09-07 01:34:10 [INFO] [Tekkit-C] lluoc: go back to normal tekkit?[m
+2012-09-07 01:34:12 [INFO] [Tekkit-C] ultrajono: hey, what is this black running stuff?[m
+2012-09-07 01:34:23 [INFO] [Tekkit-C] lluoc: oil[m
+2012-09-07 01:34:23 [INFO] [Tekkit-R] nightkhaos: oil?[m
+2012-09-07 01:34:28 [INFO] [Tekkit-C] ultrajono: we have oil?[m
+2012-09-07 01:34:34 [INFO] [Tekkit-C] ultrajono: wonder what happens when you light it[m
+2012-09-07 01:34:45 [INFO] [Tekkit-C] ultrajono: lava out to do it[m
+2012-09-07 01:34:50 [INFO] [Tekkit-C] lluoc: it hurvived the nuke[m
+2012-09-07 01:35:06 [INFO] [Tekkit-C] lluoc: anway jono, kind of need to go...[m
+2012-09-07 01:35:14 [INFO] [Tekkit-C] ultrajono: yeh, sure[m
+2012-09-07 01:35:16 [INFO] [Tekkit-C] ultrajono has left the game[m
+2012-09-07 01:35:21 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-07 01:35:50 [INFO] [Tekkit-R] ultrajono: made a door, goin to water[m
+2012-09-07 01:35:54 [INFO] [Tekkit-C] lluoc: k[m
+2012-09-07 01:36:10 [INFO] [Tekkit-R] ultrajono: just anywhere at teh bottom?[m
+2012-09-07 01:36:20 [INFO] [Tekkit-C] lluoc: near where i will die[m
+2012-09-07 01:36:32 [INFO] [Tekkit-R] ultrajono: straight below the entrance?[m
+2012-09-07 01:36:36 [INFO] [Tekkit-C] lluoc: sure[m
+2012-09-07 01:36:46 [INFO] [Tekkit-C] lluoc: wait in it when you place it[m
+2012-09-07 01:37:00 [INFO] [Tekkit-R] ultrajono: i'm here[m
+2012-09-07 01:37:04 [INFO] [Tekkit-C] lluoc: ok,[m
+2012-09-07 01:37:05 [INFO] [Tekkit-R] ultrajono: as below it as i can be[m
+2012-09-07 01:37:08 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-07 01:37:13 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-07 01:37:19 [INFO] [Tekkit-R] lluoc died[m
+2012-09-07 01:37:29 [INFO] [Tekkit-R] ultrajono: ok taylor, i got it all[m
+2012-09-07 01:37:30 [INFO] [Tekkit-R] lluoc: get it?[m
+2012-09-07 01:37:33 [INFO] [Tekkit-R] ultrajono: not, just a matter to not drown[m
+2012-09-07 01:37:48 [INFO] [Tekkit-R] ultrajono: and i got it back[m
+2012-09-07 01:37:54 [INFO] [Tekkit-R] ultrajono: lets go the above ground way[m
+2012-09-07 01:37:56 [INFO] [Tekkit-R] lluoc: he he[m
+2012-09-07 01:38:01 [INFO] [Tekkit-R] lluoc: got to go[m
+2012-09-07 01:38:07 [INFO] [Tekkit-R] ultrajono: ah, later[m
+2012-09-07 01:38:13 [INFO] [Tekkit-R] lluoc: night[m
+2012-09-07 01:38:15 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-07 01:38:32 [INFO] [Tekkit-R] ultrajono: sleep so i can go above?[m
+2012-09-07 01:39:22 [INFO] [Tekkit-R] ultrajono: ?[m
+2012-09-07 01:40:52 [INFO] [Tekkit-R] ultrajono: wanna meet me at brents?[m
+2012-09-07 01:45:13 [INFO] [Tekkit-R] nightkhaos: sleeping[m
+2012-09-07 01:45:46 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-07 01:45:51 [INFO] [Tekkit-R] ultrajono has joined the game[m
+2012-09-07 01:46:04 [INFO] [Tekkit-R] ultrajono: ok, i'm lost as a fucker[m
+2012-09-07 01:46:20 [INFO] [Tekkit-R] ultrajono: nevermind, meet you at yours[m
+2012-09-07 01:46:40 [INFO] [Tekkit-R] ultrajono: can you please sign up the way to yours from brent?[m
+2012-09-07 01:47:05 [INFO] [Tekkit-R] nightkhaos: go overland... 668, +20[m
+2012-09-07 01:47:06 [INFO] [Tekkit-R] nightkhaos: brb[m
+2012-09-07 01:47:10 [INFO] [Tekkit-R] ultrajono: i'm goin overland[m
+2012-09-07 01:47:16 [INFO] [Tekkit-R] ultrajono: and i have reis, i know how to get to yours as i've been there[m
+2012-09-07 01:51:16 [INFO] [Tekkit-R] nightkhaos: awesome. :)[m
+2012-09-07 01:52:00 [INFO] [Tekkit-R] ultrajono: yo[m
+2012-09-07 01:52:07 [INFO] [Tekkit-R] nightkhaos: hey dude... chainsaw?[m
+2012-09-07 01:52:34 [INFO] [Tekkit-R] ultrajono: rest isn't anything important[m
+2012-09-07 01:52:35 [INFO] [Tekkit-R] nightkhaos: awesome. :)[m
+2012-09-07 01:52:40 [INFO] [Tekkit-R] ultrajono: thank yous imba[m
+2012-09-07 01:52:58 [INFO] [Tekkit-R] nightkhaos: okay... now I guess I should collect everything from my "hovel[m
+2012-09-07 01:53:06 [INFO] [Tekkit-R] nightkhaos: where ya going dude?[m
+2012-09-07 01:53:13 [INFO] [Tekkit-R] ultrajono: ?[m
+2012-09-07 01:53:18 [INFO] [Tekkit-R] nightkhaos: oh nevermind[m
+2012-09-07 01:53:39 [INFO] [Tekkit-R] nightkhaos: i need better solar panels[m
+2012-09-07 01:55:48 [INFO] [Tekkit-R] ultrajono: ah[m
+2012-09-07 01:55:50 [INFO] [Tekkit-R] ultrajono: i'm off, night[m
+2012-09-07 01:55:55 [INFO] [Tekkit-R] nightkhaos: night[m
+2012-09-07 01:56:08 [INFO] [Tekkit-R] ultrajono has left the game[m
+2012-09-07 03:30:54 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-07 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-07 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-07 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-07 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-07 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-07 08:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-09-07 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-07 08:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-07 08:05:01 [INFO] CONSOLE: Save complete.[m
+2012-09-07 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-07 08:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-07 08:05:01 [SEVERE] [xServer] Malformed Packet
+2012-09-07 08:05:01 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-07 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-07 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-07 08:05:01 [INFO] [34;1m[xServer] Fluid has disconnected[m
+2012-09-07 08:05:01 [SEVERE] [xServer] Malformed Packet
+2012-09-07 08:05:01 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-07 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-07 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-07 08:05:01 [SEVERE] [xServer] Malformed Packet
+2012-09-07 08:05:01 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-07 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-07 08:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-07 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-07 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-07 08:05:01 [INFO] Stopping server
+2012-09-07 08:05:01 [SEVERE] [xServer] Could not read packet
+2012-09-07 08:05:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-07 08:05:01 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2012-09-07 08:05:01 [SEVERE] [xServer] Couldn't send packet
+2012-09-07 08:05:01 [SEVERE] [xServer] Couldn't send packet
+2012-09-07 08:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-07 08:05:01 [WARNING] DSCT: Socket closed
+2012-09-07 08:05:01 [INFO] Closing listening thread
+2012-09-07 08:05:01 [INFO] Saving players
+2012-09-07 08:05:01 [INFO] Saving worlds
+2012-09-07 08:05:01 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@5c3df160
+2012-09-07 08:05:02 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@66b204ef
