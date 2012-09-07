@@ -1,0 +1,1 @@
+var dynmapversion = "0.80-1315";

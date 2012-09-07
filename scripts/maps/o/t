@@ -1,0 +1,13 @@
+outputdir = "/var/www/maps"
+texturepath="/home/minecraft/scripts/maps/"
+worlds["Fluid"] = "/home/minecraft/server/fluid/world"
+worlds["Creative"] = "/home/minecraft/server/creative/world"
+worlds["Experiment"] = "/home/minecraft/server/experiment/world"
+worlds["Tekkit Restricted"] = "/home/minecraft/server/tekkit_restricted/world"
+worlds["Tekkit Creative"] = "/home/minecraft/server/tekkit_creative/world"
+
+renders["Test"] = {
+    "world": "Tekkit Restricted",
+    "title": "Test",
+    "rendermode": smooth_lighting
+}
