@@ -5398,3 +5398,515 @@ java.io.IOException: Input/output error
 2012-09-08 08:05:01 [INFO] Saving worlds
 2012-09-08 08:05:01 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@7e7d096c
 2012-09-08 08:05:01 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@18c3ab24
+2012-09-08 08:09:38 [INFO] Starting minecraft server version 1.3.1
+2012-09-08 08:09:38 [INFO] Loading properties
+2012-09-08 08:09:38 [INFO] Default game type: SURVIVAL
+2012-09-08 08:09:38 [INFO] Generating keypair
+2012-09-08 08:09:39 [INFO] Starting Minecraft server on *:25568
+2012-09-08 08:09:39 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-08 08:09:39 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-08 08:09:39 [INFO] Preparing level "world"
+2012-09-08 08:09:39 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-08 08:09:41 [INFO] Preparing spawn area: 81%
+2012-09-08 08:09:41 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-08 08:09:41 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-08 08:09:41 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-08 08:09:41 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-08 08:09:41 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-08 08:09:41 [INFO] Done (1.891s)! For help, type "help" or "?"
+2012-09-08 08:09:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-08 08:09:42 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-08 08:09:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-08 08:09:42 [INFO] CONSOLE: Forcing save..[m
+2012-09-08 08:09:42 [INFO] CONSOLE: Save complete.[m
+2012-09-08 08:09:42 [INFO] Unknown command. Type "help" for help.[m
+2012-09-08 08:09:42 [INFO] [35;1m[Server] Backup complete[m
+2012-09-08 08:09:43 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-08 08:09:43 [INFO] [xServer] Client connected to localhost:33777
+2012-09-08 08:09:46 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-08 08:09:47 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-08 08:28:05 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-08 11:15:11 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-08 11:28:48 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-08 11:40:10 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-08 12:09:23 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-08 12:31:00 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-08 12:32:53 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-08 12:33:29 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-08 12:33:37 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-08 12:33:55 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-08 14:16:38 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 14:53:16 [INFO] [Fluid] lluoc has joined the game[m
+2012-09-08 14:55:11 [INFO] [Fluid] lluoc died[m
+2012-09-08 15:49:52 [INFO] [Fluid] lluoc has left the game[m
+2012-09-08 15:57:55 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-08 15:58:03 [INFO] [Tekkit-R] nightkhaos: hey dude.[m
+2012-09-08 15:58:06 [INFO] [Tekkit-R] mebeme: Hey man[m
+2012-09-08 15:58:15 [INFO] [Tekkit-R] nightkhaos: come check out my house. Almost created an automated quarry setup like yourself[m
+2012-09-08 15:58:27 [INFO] [Tekkit-R] mebeme: Where abouts?[m
+2012-09-08 15:58:33 [INFO] [Tekkit-R] nightkhaos: 720, 60[m
+2012-09-08 15:58:55 [INFO] [Tekkit-R] nightkhaos: if you use the tunnel I dug and then follow the path when you exit my old hovel... it's hard to miss[m
+2012-09-08 15:59:42 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-08 15:59:44 [INFO] [Tekkit-R] nightkhaos: and getting back for you will be easy, there is a nether portal that links to yours[m
+2012-09-08 15:59:45 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-08 15:59:58 [INFO] [Tekkit-R] nightkhaos: in bed btw[m
+2012-09-08 16:00:37 [INFO] [Tekkit-R] mebeme: Don't I'm almsot there[m
+2012-09-08 16:01:10 [INFO] [Tekkit-R] nightkhaos: my furances are losing heat. :P[m
+2012-09-08 16:01:37 [INFO] [Tekkit-R] nightkhaos: solar power is annoying like that[m
+2012-09-08 16:01:44 [INFO] [Tekkit-R] nightkhaos: thinking of setting up a nuclear reactor[m
+2012-09-08 16:03:08 [INFO] [Tekkit-R] nightkhaos: I know... tubing. :P[m
+2012-09-08 16:03:08 [INFO] [Tekkit-R] mebeme: You should look into pumps[m
+2012-09-08 16:03:17 [INFO] [Tekkit-R] nightkhaos: for water or?[m
+2012-09-08 16:03:22 [INFO] [Tekkit-R] mebeme: You don't even need the pumps tbh, just a pipe[m
+2012-09-08 16:03:35 [INFO] [Tekkit-R] nightkhaos: i know.[m
+2012-09-08 16:03:52 [INFO] [Tekkit-R] nightkhaos: problem is I've been limited by[m
+2012-09-08 16:03:56 [INFO] [Tekkit-R] mebeme: and yes, this is quantum armor, except for the breast plate xD[m
+2012-09-08 16:04:03 [INFO] [Tekkit-R] nightkhaos: these.[m
+2012-09-08 16:04:09 [INFO] [Tekkit-R] nightkhaos: (upstairs)[m
+2012-09-08 16:04:20 [INFO] [Tekkit-R] mebeme: Thats a fair few LV panels[m
+2012-09-08 16:04:26 [INFO] [Tekkit-R] nightkhaos: only 4.[m
+2012-09-08 16:04:31 [INFO] [Tekkit-R] nightkhaos: not enough to run a quarry[m
+2012-09-08 16:04:50 [INFO] [Tekkit-R] mebeme: Use geothermal power[m
+2012-09-08 16:04:51 [INFO] [Tekkit-R] nightkhaos: (continiously I might add)[m
+2012-09-08 16:04:57 [INFO] [Tekkit-R] mebeme: It's 20 EU a tick[m
+2012-09-08 16:04:58 [INFO] [Tekkit-R] nightkhaos: there is a volcano near by[m
+2012-09-08 16:05:10 [INFO] [Tekkit-R] mebeme: This is bizare, my minecraft is algging[m
+2012-09-08 16:05:16 [INFO] [Tekkit-R] nightkhaos: weird.[m
+2012-09-08 16:05:18 [INFO] [Tekkit-R] nightkhaos: anyway[m
+2012-09-08 16:05:25 [INFO] [Tekkit-R] nightkhaos: teleport pipes time[m
+2012-09-08 16:05:52 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-08 16:05:55 [INFO] [Tekkit-R] nightkhaos: I need... 4 for power, and 2 for mass[m
+2012-09-08 16:05:58 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 16:06:08 [INFO] [Tekkit-R] nightkhaos: i need 4 for power and 2 for mass[m
+2012-09-08 16:06:22 [INFO] [Tekkit-R] mebeme has joined the game[m
+2012-09-08 16:06:32 [INFO] [Tekkit-R] dejai: brb[m
+2012-09-08 16:06:37 [INFO] [Tekkit-R] mebeme: That is much better[m
+2012-09-08 16:06:44 [INFO] [Tekkit-R] nightkhaos: easy enough, diamond gears[m
+2012-09-08 16:07:03 [INFO] [Tekkit-R] mebeme: Silly laptop. Minecraft should run on gfx card, not system graphics[m
+2012-09-08 16:07:44 [INFO] [Tekkit-R] mebeme: Also how are you not filling that MFE[m
+2012-09-08 16:07:49 [INFO] [Tekkit-R] mebeme: during the day?[m
+2012-09-08 16:07:59 [INFO] [Tekkit-R] nightkhaos: the power of the quarry is huge[m
+2012-09-08 16:08:02 [INFO] [Tekkit-R] dejai: I am writing code for my turtles to deposit there items[m
+2012-09-08 16:08:13 [INFO] [Tekkit-R] dejai: So I am actually going to have a more than efficent quarry[m
+2012-09-08 16:08:21 [INFO] [Tekkit-R] mebeme: How are you getting them to find chests?[m
+2012-09-08 16:08:22 [INFO] [Tekkit-R] dejai: Which never needs replacing[m
+2012-09-08 16:08:38 [INFO] [Tekkit-R] dejai: I am going to use really basic ai algos[m
+2012-09-08 16:08:52 [INFO] [Tekkit-R] dejai: trackbacking to the starting location[m
+2012-09-08 16:08:53 [INFO] [Tekkit-R] mebeme: comp sci OP[m
+2012-09-08 16:09:05 [INFO] [Tekkit-R] dejai: You can easily understand.[m
+2012-09-08 16:09:10 [INFO] [Tekkit-R] dejai: Mine till slots are fulll[m
+2012-09-08 16:09:15 [INFO] [Tekkit-R] dejai: Remember each position[m
+2012-09-08 16:09:23 [INFO] [Tekkit-R] dejai: trace back in the exact direction[m
+2012-09-08 16:09:38 [INFO] [Tekkit-R] nightkhaos: damn finding 8 diamonds from my materials was hard. :([m
+2012-09-08 16:10:03 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 16:10:33 [INFO] [Tekkit-R] mebeme: Aww hostile mobs don't save[m
+2012-09-08 16:11:57 [INFO] [Tekkit-R] mebeme: remind me to not leave my bloody advanced machines on overnighgt[m
+2012-09-08 16:12:14 [INFO] [Tekkit-R] nightkhaos: yay for removing requirement on copper cable[m
+2012-09-08 16:12:19 [INFO] [Tekkit-R] nightkhaos: how much power did you burn?[m
+2012-09-08 16:12:31 [INFO] [Tekkit-R] mebeme: 2-3 million EU[m
+2012-09-08 16:13:00 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 16:13:26 [INFO] [Tekkit-R] mebeme: also lapotron crystals take FOREVER to charge[m
+2012-09-08 16:16:17 [INFO] [Tekkit-R] mebeme: Man, I need to start seriously making my Hyperpower nuclear reactor[m
+2012-09-08 16:16:33 [INFO] [Tekkit-R] dejai: Computer craft is actually op as fuck[m
+2012-09-08 16:16:47 [INFO] [Tekkit-R] mebeme: The only reason I[m
+2012-09-08 16:16:51 [INFO] [Tekkit-R] nightkhaos: brent, what am I missing... do I need wooden conductive pipes or something?[m
+2012-09-08 16:16:53 [INFO] [Tekkit-R] dejai: Making droids with diamond swords to kill things[m
+2012-09-08 16:17:10 [INFO] [Tekkit-R] mebeme: 'm not using it is because I can't be bothered typinig LUA into thier screens[m
+2012-09-08 16:17:32 [INFO] [Tekkit-R] mebeme: What are to talking about taylor?[m
+2012-09-08 16:17:36 [INFO] [Tekkit-R] dejai: I wrote a program that maps between Cpp and Lua objects[m
+2012-09-08 16:17:44 [INFO] [Tekkit-R] nightkhaos: energy teleport pipes[m
+2012-09-08 16:18:06 [INFO] [Tekkit-R] mebeme: Yea, you need a pipe to link hte machone to the TP pipe[m
+2012-09-08 16:20:25 [INFO] [Tekkit-R] mebeme: teleport pipes are realy OP as well[m
+2012-09-08 16:23:21 [INFO] [Tekkit-R] mebeme: How do I get minecraft to go fullscreen?[m
+2012-09-08 16:23:44 [INFO] [Tekkit-R] nightkhaos: magic[m
+2012-09-08 16:24:04 [INFO] [Tekkit-R] mebeme: >:([m
+2012-09-08 16:26:33 [INFO] [Tekkit-R] nightkhaos: adding a basement is always a bitch[m
+2012-09-08 16:27:27 [INFO] [Tekkit-R] mebeme: What the shit is sensor net[m
+2012-09-08 16:29:43 [INFO] [Tekkit-R] mebeme has left the game[m
+2012-09-08 16:35:58 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 16:36:01 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 16:37:01 [INFO] [Tekkit-R] dejai: The energy consenser makes life so easy[m
+2012-09-08 16:37:10 [INFO] [Tekkit-R] nightkhaos: yes, yes it does[m
+2012-09-08 16:40:17 [INFO] [Tekkit-R] nightkhaos: zzz?[m
+2012-09-08 16:40:23 [INFO] [Tekkit-R] dejai: Let me replace bed[m
+2012-09-08 16:40:51 [INFO] [Tekkit-R] dejai: kk[m
+2012-09-08 16:49:11 [INFO] [Tekkit-R] dejai: My house looks fuckign terrible[m
+2012-09-08 16:50:12 [INFO] [Tekkit-R] nightkhaos: i has a basement![m
+2012-09-08 16:53:25 [INFO] [Tekkit-R] dejai: sleep[m
+2012-09-08 16:54:41 [INFO] [Tekkit-R] dejai: I am terraforming my world[m
+2012-09-08 16:54:45 [INFO] [Tekkit-R] dejai: to make it all flat[m
+2012-09-08 16:59:29 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 17:10:49 [SEVERE] [xServer] Malformed Packet
+2012-09-08 17:10:49 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-08 17:10:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-08 17:10:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-08 17:10:49 [INFO] [34;1m[xServer] Fluid has disconnected[m
+2012-09-08 17:10:49 [SEVERE] [xServer] Malformed Packet
+2012-09-08 17:10:49 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-08 17:10:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-08 17:10:49 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-08 17:10:49 [SEVERE] [xServer] Couldn't send packet
+2012-09-08 17:11:21 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-08 17:11:21 [INFO] [xServer] Client connected to localhost:33777
+2012-09-08 17:11:23 [INFO] [34;1m[xServer] Fluid has connected[m
+2012-09-08 17:13:19 [SEVERE] [xServer] Malformed Packet
+2012-09-08 17:13:19 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-08 17:13:19 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-08 17:13:19 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-08 17:13:19 [INFO] [34;1m[xServer] Tekkit-R has disconnected[m
+2012-09-08 17:13:32 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-08 17:14:21 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 17:32:00 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 17:33:13 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 17:33:16 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 17:34:24 [INFO] [Tekkit-R] dejai: What one of my tunnelers disappeaered[m
+2012-09-08 17:37:28 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-08 17:37:30 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 17:37:35 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 17:48:15 [INFO] [Tekkit-R] dejai: sleep[m
+2012-09-08 17:48:32 [INFO] [Tekkit-R] dejai: zzz[m
+2012-09-08 17:48:37 [INFO] [Tekkit-R] nightkhaos: one sec[m
+2012-09-08 17:59:47 [INFO] [Tekkit-R] nightkhaos: sleep[m
+2012-09-08 18:00:07 [INFO] [Tekkit-R] dejai: kk[m
+2012-09-08 18:01:12 [INFO] [Tekkit-R] nightkhaos: I now have an automatic diamond maker from the excess stone and dirt from my quarry[m
+2012-09-08 18:01:14 [INFO] [Tekkit-R] nightkhaos: come see[m
+2012-09-08 18:01:27 [INFO] [Tekkit-R] dejai: Yeh just eeing it into diamond[m
+2012-09-08 18:01:32 [INFO] [Tekkit-R] dejai: I have that almost set up[m
+2012-09-08 18:01:47 [INFO] [Tekkit-R] nightkhaos: I know. I'm also going to automatically refine ore...[m
+2012-09-08 18:02:00 [INFO] [Tekkit-R] dejai: I have bots building me roads[m
+2012-09-08 18:02:06 [INFO] [Tekkit-R] nightkhaos: roads?[m
+2012-09-08 18:02:10 [INFO] [Tekkit-R] dejai: hookinh them up to the internet soon[m
+2012-09-08 18:02:24 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 18:02:25 [INFO] [Tekkit-R] dejai: I am going to be the number 1 robotic and isp in minecraftia[m
+2012-09-08 18:02:27 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 18:02:30 [INFO] [Tekkit-R] dejai: I am going to be the number 1 robotic and isp in minecraftia[m
+2012-09-08 18:02:35 [INFO] [Tekkit-R] nightkhaos: lol[m
+2012-09-08 18:04:30 [INFO] [Tekkit-R] nightkhaos: damnit... funny. I two gold ore to get this working but I processed it all[m
+2012-09-08 18:04:34 [INFO] [Tekkit-R] dejai: That awkward moment when you have everything to build a quarry except sticks[m
+2012-09-08 18:04:44 [INFO] [Tekkit-R] nightkhaos: lmao[m
+2012-09-08 18:09:40 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 18:18:17 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-08 18:27:17 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 18:29:21 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-08 18:29:25 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 18:29:30 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 18:29:56 [INFO] [Tekkit-R] dejai: wtf lost my other droid[m
+2012-09-08 18:32:44 [INFO] [Tekkit-R] dejai: Can you bring me 3 steam powered engines[m
+2012-09-08 18:39:56 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-08 18:40:08 [INFO] [Tekkit-R] nightkhaos: sorry I will once I've got my automated refinary working[m
+2012-09-08 18:40:15 [INFO] [Tekkit-R] dejai: nvm[m
+2012-09-08 18:40:19 [INFO] [Tekkit-R] dejai: Think I have made them[m
+2012-09-08 18:40:28 [INFO] [Tekkit-R] dejai: Just getting the mats should be fine[m
+2012-09-08 18:48:07 [SEVERE] [xServer] Malformed Packet
+2012-09-08 18:48:07 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-08 18:48:07 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-08 18:48:07 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-08 18:48:07 [INFO] [34;1m[xServer] Tekkit-R has disconnected[m
+2012-09-08 18:48:20 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-08 18:48:28 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 18:48:37 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 18:49:35 [INFO] [Tekkit-R] dejai: IT IS ALIVE[m
+2012-09-08 18:50:09 [INFO] [Tekkit-R] nightkhaos: what is?[m
+2012-09-08 18:50:18 [INFO] [Tekkit-R] dejai: My quarry[m
+2012-09-08 18:50:33 [INFO] [Tekkit-R] nightkhaos: come... come see mine... it's... a WIP[m
+2012-09-08 18:50:40 [INFO] [Tekkit-R] dejai: wip?[m
+2012-09-08 18:50:47 [INFO] [Tekkit-R] nightkhaos: work in progress[m
+2012-09-08 18:53:54 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-08 18:54:01 [INFO] [Tekkit-R] dejai: I BELIEVE I CAN FLY[m
+2012-09-08 18:54:07 [INFO] [Tekkit-R] dejai: I BELIEVE I CAN TOUCH THE SKY[m
+2012-09-08 18:54:09 [INFO] [Tekkit-R] lluoc: deop dejau[m
+2012-09-08 18:54:18 [INFO] [Tekkit-R] dejai: I can fly without your silly ops[m
+2012-09-08 18:54:23 [INFO] [Tekkit-R] lluoc: wait... the fuck was that[m
+2012-09-08 18:54:25 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 18:54:28 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 18:54:29 [INFO] [Tekkit-R] lluoc: heh[m
+2012-09-08 18:54:38 [INFO] [Tekkit-R] dejai: I am going to build a ring that lets me fly[m
+2012-09-08 18:54:52 [INFO] [Tekkit-R] dejai: Then I will be invisible and flying about[m
+2012-09-08 18:54:55 [INFO] [Tekkit-R] dejai: Muhahahahah[m
+2012-09-08 18:55:04 [INFO] [Tekkit-R] lluoc: ha ha spider[m
+2012-09-08 18:55:07 [INFO] [Tekkit-R] lluoc: you cant dive[m
+2012-09-08 18:55:12 [INFO] [Tekkit-R] lluoc: now i'll just drown to death[m
+2012-09-08 18:55:13 [INFO] [Tekkit-R] lluoc: ha ha[m
+2012-09-08 18:55:16 [INFO] [Tekkit-R] lluoc died[m
+2012-09-08 18:56:46 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 18:58:18 [INFO] [Tekkit-R] lluoc: sigh. have to restart it again[m
+2012-09-08 18:58:20 [INFO] [Tekkit-R] lluoc: sorry[m
+2012-09-08 18:58:22 [INFO] [Tekkit-R] nightkhaos: why?[m
+2012-09-08 18:58:29 [INFO] [Tekkit-R] lluoc: getting the map to work[m
+2012-09-08 18:58:45 [INFO] [Tekkit-R] lluoc: messed up an option[m
+2012-09-08 18:58:49 [INFO] [Tekkit-R] lluoc: badness happening[m
+2012-09-08 18:58:55 [INFO] [Tekkit-R] lluoc: won't take long.[m
+2012-09-08 18:58:58 [SEVERE] [xServer] Malformed Packet
+2012-09-08 18:58:58 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-08 18:58:58 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-08 18:58:58 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-08 18:58:58 [INFO] [34;1m[xServer] Tekkit-R has disconnected[m
+2012-09-08 18:59:16 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-08 18:59:24 [SEVERE] [xServer] Malformed Packet
+2012-09-08 18:59:24 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-08 18:59:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-08 18:59:24 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-08 18:59:24 [INFO] [34;1m[xServer] Tekkit-R has disconnected[m
+2012-09-08 19:01:33 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-08 19:01:44 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-08 19:02:11 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 19:02:45 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-08 19:05:45 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 19:05:56 [INFO] [Tekkit-R] dejai: Can you run quarries on solar?[m
+2012-09-08 19:06:00 [INFO] [Tekkit-R] nightkhaos: barely[m
+2012-09-08 19:06:02 [INFO] [Tekkit-R] nightkhaos: but yes[m
+2012-09-08 19:06:59 [INFO] [Tekkit-R] dejai: what is a better option[m
+2012-09-08 19:07:09 [INFO] [Tekkit-R] nightkhaos: geothermal[m
+2012-09-08 19:07:20 [INFO] [Tekkit-R] dejai: combustion on lava{[m
+2012-09-08 19:09:02 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-08 19:09:17 [INFO] [Tekkit-R] lluoc: damn, still rendering[m
+2012-09-08 19:09:41 [INFO] [Tekkit-R] lluoc: also wow. so many [WARNING] Can't keep up! Did the system time change, or is the server overloaded?[m
+2012-09-08 19:09:43 [INFO] [Tekkit-R] lluoc: messages[m
+2012-09-08 19:15:16 [INFO] [Tekkit-R] lluoc: wolvies[m
+2012-09-08 19:16:06 [INFO] [Tekkit-R] dejai: sleep[m
+2012-09-08 19:16:11 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-08 19:16:21 [INFO] [Tekkit-R] dejai: sleep[m
+2012-09-08 19:16:35 [INFO] [Tekkit-R] dejai: um taylor[m
+2012-09-08 19:16:37 [INFO] [Tekkit-R] dejai: sleep[m
+2012-09-08 19:16:51 [INFO] [Tekkit-R] dejai: -_-[m
+2012-09-08 19:17:13 [INFO] [Tekkit-R] dejai: that would be a no[m
+2012-09-08 19:17:33 [INFO] [Tekkit-R] dejai: which is probably a good thing[m
+2012-09-08 19:17:57 [INFO] [Tekkit-R] dejai: nup[m
+2012-09-08 19:18:06 [INFO] [Tekkit-R] dejai: lolol[m
+2012-09-08 19:18:08 [INFO] [Tekkit-R] nightkhaos: okay... now to test[m
+2012-09-08 19:18:14 [INFO] [Tekkit-R] nightkhaos: come check this out ben[m
+2012-09-08 19:18:16 [INFO] [Tekkit-R] dejai: sleep goddamn it[m
+2012-09-08 19:18:22 [INFO] [Tekkit-R] nightkhaos: kk[m
+2012-09-08 19:18:22 [INFO] [Tekkit-R] dejai: :P[m
+2012-09-08 19:18:32 [INFO] [Tekkit-R] dejai: ty[m
+2012-09-08 19:18:39 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-08 19:19:33 [INFO] [Tekkit-R] lluoc: do you's see the render messages by the way?[m
+2012-09-08 19:19:46 [INFO] [Tekkit-R] dejai: Tekkit pipes are like coding you do them lazily the first time it is a bitch to maintain[m
+2012-09-08 19:21:15 [INFO] [Tekkit-R] lluoc: KITTY[m
+2012-09-08 19:21:19 [INFO] [Tekkit-R] lluoc: no fish[m
+2012-09-08 19:22:06 [INFO] [Tekkit-R] dejai: Oh man my house isa clusterfuck of pipes lol[m
+2012-09-08 19:22:30 [INFO] [Tekkit-R] lluoc: HELLO TAYLOR[m
+2012-09-08 19:22:33 [INFO] [Tekkit-R] nightkhaos: hi[m
+2012-09-08 19:22:35 [INFO] [Tekkit-R] lluoc: can i have some food[m
+2012-09-08 19:22:38 [INFO] [Tekkit-R] lluoc: please[m
+2012-09-08 19:22:47 [INFO] [Tekkit-R] lluoc: ... dah fuck[m
+2012-09-08 19:22:55 [INFO] [Tekkit-R] dejai: We dont like no admins round here lol[m
+2012-09-08 19:23:03 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 19:23:09 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-08 19:23:12 [INFO] [Tekkit-R] lluoc: heh heh[m
+2012-09-08 19:23:25 [INFO] [Tekkit-R] dejai: damn kids[m
+2012-09-08 19:23:35 [INFO] [Tekkit-R] lluoc: heh heh[m
+2012-09-08 19:24:26 [INFO] [Tekkit-R] dejai: tp to me lluoc[m
+2012-09-08 19:24:30 [INFO] [Tekkit-R] lluoc: wait... the nether is broken[m
+2012-09-08 19:24:43 [INFO] [Tekkit-R] lluoc: and, no. trying to keep op stuff to a minimum[m
+2012-09-08 19:24:50 [INFO] [Tekkit-R] dejai: run toi me[m
+2012-09-08 19:24:59 [INFO] [Tekkit-R] lluoc: I stopped playing before because I was flying everwhere[m
+2012-09-08 19:25:02 [INFO] [Tekkit-R] lluoc: umm...[m
+2012-09-08 19:25:12 [INFO] [Tekkit-R] lluoc: oh hey[m
+2012-09-08 19:25:17 [INFO] [Tekkit-R] lluoc: your close by[m
+2012-09-08 19:25:34 [INFO] [Tekkit-R] dejai: I didnt tell you where i was you filthy cheating admin[m
+2012-09-08 19:25:47 [INFO] [Tekkit-R] lluoc: BOW BEFORE THE POWER OF ADMIN[m
+2012-09-08 19:26:03 [INFO] [Tekkit-R] lluoc: WHO HAS 1 HUNGER LEFT[m
+2012-09-08 19:26:11 [INFO] [Tekkit-R] lluoc: FUCK[m
+2012-09-08 19:26:23 [INFO] [Tekkit-R] dejai: I have pork[m
+2012-09-08 19:26:50 [INFO] [Tekkit-R] lluoc: and a lot of chests and equipment I don't understand[m
+2012-09-08 19:27:34 [INFO] [Tekkit-R] dejai: I am setting up an internet system[m
+2012-09-08 19:27:37 [INFO] [Tekkit-R] dejai: for mining droids[m
+2012-09-08 19:27:44 [INFO] [Tekkit-R] lluoc: hey[m
+2012-09-08 19:27:45 [INFO] [Tekkit-R] dejai: actually the server is annoying[m
+2012-09-08 19:27:48 [INFO] [Tekkit-R] dejai: I lost 2 droids[m
+2012-09-08 19:27:48 [INFO] [Tekkit-R] lluoc: lag[m
+2012-09-08 19:27:51 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-08 19:27:51 [INFO] [Tekkit-R] dejai: because[m
+2012-09-08 19:28:02 [INFO] [Tekkit-R] dejai: they went outside soem range[m
+2012-09-08 19:28:10 [INFO] [Tekkit-R] dejai: and the server just deleted them,,,[m
+2012-09-08 19:28:10 [INFO] [Tekkit-R] lluoc: food plox[m
+2012-09-08 19:28:28 [INFO] [Tekkit-R] lluoc: thanks[m
+2012-09-08 19:28:34 [INFO] [Tekkit-R] dejai: This is my quarry[m
+2012-09-08 19:28:41 [INFO] [Tekkit-R] lluoc: noted[m
+2012-09-08 19:28:47 [INFO] [Tekkit-R] dejai: and I used the droids to make this massive road[m
+2012-09-08 19:28:52 [INFO] [Tekkit-R] lluoc: I remember our first foray into quarries[m
+2012-09-08 19:28:54 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-08 19:29:01 [INFO] [Tekkit-R] lluoc: it escalated quicklty[m
+2012-09-08 19:29:05 [INFO] [Tekkit-R] dejai: hahaha[m
+2012-09-08 19:29:22 [INFO] [Tekkit-R] dejai: Yeh I plan to essentially have 1 layer of grass over an entire span of mined land[m
+2012-09-08 19:29:23 [INFO] [Tekkit-R] lluoc: you might want to put some water on it...[m
+2012-09-08 19:29:47 [INFO] [Tekkit-R] dejai: i know for lava etc[m
+2012-09-08 19:29:51 [INFO] [Tekkit-R] lluoc: by the way, remember how I mentioned a map. Go look at it[m
+2012-09-08 19:29:54 [INFO] [Tekkit-R] lluoc: and chat in game[m
+2012-09-08 19:30:12 [INFO] [Tekkit-R] lluoc: http://blocksoc.net:8123/[m
+2012-09-08 19:30:14 [INFO] [Tekkit-R] dejai: will do[m
+2012-09-08 19:30:29 [INFO] [Tekkit-R] nightkhaos: sleep[m
+2012-09-08 19:30:29 [INFO] [Tekkit-R] lluoc: its how I found you[m
+2012-09-08 19:30:36 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-08 19:33:35 [INFO] [Tekkit-R] dejai: If I have one quarry converting into coal[m
+2012-09-08 19:33:39 [INFO] [Tekkit-R] dejai: Then theoretically[m
+2012-09-08 19:33:47 [INFO] [Tekkit-R] dejai: I could power more then 1 quarry[m
+2012-09-08 19:33:55 [INFO] [Tekkit-R] dejai: off matter alone[m
+2012-09-08 19:34:22 [INFO] [Tekkit-R] dejai: So if I had like 80 quarries[m
+2012-09-08 19:38:37 [INFO] [Tekkit-R] dejai: Such a destructive process all the mined minerals go to making more caol to mine the minerals[m
+2012-09-08 19:39:47 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 19:41:28 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-08 19:44:21 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-08 19:44:26 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-08 19:53:38 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 19:54:34 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 20:03:14 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-08 20:03:33 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-08 21:40:05 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 21:56:21 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 21:57:18 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 22:53:51 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 22:53:54 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 22:55:31 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 22:56:51 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 23:00:45 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 23:02:57 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 23:29:12 [INFO] [Tekkit-R] nightkhaos died[m
+2012-09-08 23:31:26 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-08 23:33:27 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-08 23:55:33 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-09 01:20:17 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-09 01:51:46 [INFO] [Tekkit-R] nightkhaos died[m
+2012-09-09 02:30:38 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-09 02:30:44 [INFO] [Tekkit-R] nightkhaos: hey dude[m
+2012-09-09 02:30:54 [INFO] [Tekkit-R] nightkhaos: zzz?[m
+2012-09-09 02:31:11 [INFO] [Tekkit-R] nightkhaos: also come check out my house, I got something to show you[m
+2012-09-09 02:31:16 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-09 02:31:32 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-09 02:31:42 [INFO] [Tekkit-R] H4ZM4T: hello[m
+2012-09-09 02:31:58 [INFO] [Tekkit-R] H4ZM4T: sorry, tekkit spazzes out on first log in[m
+2012-09-09 02:32:04 [INFO] [Tekkit-R] H4ZM4T: were you saying something[m
+2012-09-09 02:32:06 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-09 02:32:13 [INFO] [Tekkit-R] nightkhaos: come check out my house.[m
+2012-09-09 02:32:16 [INFO] [Tekkit-R] nightkhaos: 720, 60[m
+2012-09-09 02:32:24 [INFO] [Tekkit-R] nightkhaos: got something to show you[m
+2012-09-09 02:32:32 [INFO] [Tekkit-R] H4ZM4T: give me a moment first[m
+2012-09-09 02:34:17 [INFO] [Tekkit-R] H4ZM4T: coooooming[m
+2012-09-09 02:35:31 [INFO] [Tekkit-R] H4ZM4T: here[m
+2012-09-09 02:35:45 [INFO] [Tekkit-R] nightkhaos: one sec, crafting a solar array[m
+2012-09-09 02:35:49 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-09 02:35:54 [INFO] [Tekkit-R] H4ZM4T: I have a mv solar array[m
+2012-09-09 02:36:23 [INFO] [Tekkit-R] H4ZM4T: a single hv solar array costs 512 solar panels[m
+2012-09-09 02:36:59 [INFO] [Tekkit-R] nightkhaos: I know. I'm one LV solar array away from an MV[m
+2012-09-09 02:37:03 [INFO] [Tekkit-R] H4ZM4T: you changed your skin[m
+2012-09-09 02:37:09 [INFO] [Tekkit-R] nightkhaos: yep. who is it?[m
+2012-09-09 02:37:21 [INFO] [Tekkit-R] H4ZM4T: can't tell[m
+2012-09-09 02:37:24 [INFO] [Tekkit-R] nightkhaos: mckay[m
+2012-09-09 02:37:31 [INFO] [Tekkit-R] H4ZM4T: nup[m
+2012-09-09 02:37:35 [INFO] [Tekkit-R] H4ZM4T: don't look like him[m
+2012-09-09 02:37:37 [INFO] [Tekkit-R] nightkhaos: anyway, here...[m
+2012-09-09 02:37:42 [INFO] [Tekkit-R] H4ZM4T: I saw[m
+2012-09-09 02:37:47 [INFO] [Tekkit-R] nightkhaos: *shrugs* it's an atlantis uniform[m
+2012-09-09 02:37:52 [INFO] [Tekkit-R] nightkhaos: so... what do you think?[m
+2012-09-09 02:38:07 [INFO] [Tekkit-R] H4ZM4T: cool, but not as grandiose giant motherfucker scale as I am planning[m
+2012-09-09 02:38:32 [INFO] [Tekkit-R] nightkhaos: This is just to tide me over. It auto refines any ore I get. That's enough[m
+2012-09-09 02:38:36 [INFO] [Tekkit-R] H4ZM4T: mhmm[m
+2012-09-09 02:38:48 [INFO] [Tekkit-R] nightkhaos: when I build atlantis I'm going to have auto-builders to a mofo[m
+2012-09-09 02:39:17 [INFO] [Tekkit-R] nightkhaos: I saw your quarry[m
+2012-09-09 02:39:29 [INFO] [Tekkit-R] nightkhaos: drop some water down there I'd advise. also fyi, ore doesn't condense[m
+2012-09-09 02:39:54 [INFO] [Tekkit-R] H4ZM4T: the point was to reveal some lava[m
+2012-09-09 02:40:01 [INFO] [Tekkit-R] nightkhaos: ahh.[m
+2012-09-09 02:40:03 [INFO] [Tekkit-R] H4ZM4T: also, I didin't want the ore to condense[m
+2012-09-09 02:40:12 [INFO] [Tekkit-R] H4ZM4T: I just wanted something I could set and ignore[m
+2012-09-09 02:40:13 [INFO] [Tekkit-R] nightkhaos: geothermal?[m
+2012-09-09 02:40:16 [INFO] [Tekkit-R] H4ZM4T: mhmm[m
+2012-09-09 02:40:31 [INFO] [Tekkit-R] H4ZM4T: so then I could get resources and build the giant motherfucker facility[m
+2012-09-09 02:40:37 [INFO] [Tekkit-R] nightkhaos: I'm going down the solar/nuclear route[m
+2012-09-09 02:40:49 [INFO] [Tekkit-R] H4ZM4T: HOLY FUCKING SHIT[m
+2012-09-09 02:40:54 [INFO] [Tekkit-R] H4ZM4T: WHAT HAPPEN[m
+2012-09-09 02:41:01 [INFO] [Tekkit-R] nightkhaos: ?[m
+2012-09-09 02:41:06 [INFO] [Tekkit-R] H4ZM4T: the lava in the nether[m
+2012-09-09 02:41:13 [INFO] [Tekkit-R] nightkhaos: some's pumping it?[m
+2012-09-09 02:41:35 [INFO] [Tekkit-R] H4ZM4T: its....insane[m
+2012-09-09 02:41:44 [INFO] [Tekkit-R] nightkhaos: fairly elementary[m
+2012-09-09 02:41:52 [INFO] [Tekkit-R] H4ZM4T: I know[m
+2012-09-09 02:41:59 [INFO] [Tekkit-R] H4ZM4T: but how much lava is gone is insane[m
+2012-09-09 02:42:16 [INFO] [Tekkit-R] nightkhaos: geothermal isn't all that efficent. I already exhausted a volcano[m
+2012-09-09 02:42:35 [INFO] [Tekkit-R] H4ZM4T: indeed[m
+2012-09-09 02:42:37 [INFO] [Tekkit-R] H4ZM4T: also, uh[m
+2012-09-09 02:42:44 [INFO] [Tekkit-R] H4ZM4T: the fabricator isn't working[m
+2012-09-09 02:42:56 [INFO] [Tekkit-R] nightkhaos: it is, it's just motherfucking slow[m
+2012-09-09 02:43:19 [INFO] [Tekkit-R] H4ZM4T: (it isn't plugged in, the mfsu is full)[m
+2012-09-09 02:43:46 [INFO] [Tekkit-R] nightkhaos: *shrugs* don't ask me. I think it's Brent's?[m
+2012-09-09 02:44:48 [INFO] [Tekkit-R] nightkhaos: i think I'm going to landmark my next quarry[m
+2012-09-09 02:45:06 [INFO] [Tekkit-R] nightkhaos: first to make one last array[m
+2012-09-09 02:45:20 [INFO] [Tekkit-R] nightkhaos: then an MV transformer[m
+2012-09-09 02:52:27 [INFO] [Tekkit-R] H4ZM4T: zzzzz[m
+2012-09-09 02:57:56 [INFO] [Tekkit-R] nightkhaos: one mv array![m
+2012-09-09 02:58:34 [INFO] [Tekkit-R] nightkhaos: now for all my things to warm up[m
+2012-09-09 02:58:53 [INFO] [Tekkit-R] nightkhaos: furance at 100%[m
+2012-09-09 02:59:12 [INFO] [Tekkit-R] nightkhaos: compressor at 15K PSI[m
+2012-09-09 02:59:33 [INFO] [Tekkit-R] nightkhaos: mace at 2000 RPM[m
+2012-09-09 02:59:46 [INFO] [Tekkit-R] nightkhaos: extracor at 2500m/s[m
+2012-09-09 03:01:19 [INFO] [Tekkit-R] H4ZM4T: I can't get my land markers to work[m
+2012-09-09 03:02:20 [INFO] [Tekkit-R] nightkhaos: :([m
+2012-09-09 03:03:17 [INFO] [Tekkit-R] H4ZM4T: zzzz[m
+2012-09-09 03:03:31 [INFO] [Tekkit-R] H4ZM4T: now uh[m
+2012-09-09 03:03:42 [INFO] [Tekkit-R] H4ZM4T: my next quarry is going to be a touch more ambitious[m
+2012-09-09 03:03:47 [INFO] [Tekkit-R] nightkhaos: oh?[m
+2012-09-09 03:05:16 [INFO] [Tekkit-R] nightkhaos: still not generating energy :([m
+2012-09-09 03:05:28 [INFO] [Tekkit-R] nightkhaos: damn quarry uses up so much energy[m
+2012-09-09 03:06:12 [INFO] [Tekkit-R] H4ZM4T: quarry isn't....quarrying[m
+2012-09-09 03:06:19 [INFO] [Tekkit-R] nightkhaos: give it time[m
+2012-09-09 03:06:25 [INFO] [Tekkit-R] H4ZM4T: nope[m
+2012-09-09 03:06:26 [INFO] [Tekkit-R] H4ZM4T: nothing[m
+2012-09-09 03:06:30 [INFO] [Tekkit-R] H4ZM4T: not even a smidgin[m
+2012-09-09 03:06:34 [INFO] [Tekkit-R] H4ZM4T: done it before[m
+2012-09-09 03:06:36 [INFO] [Tekkit-R] nightkhaos: you're a failure at life[m
+2012-09-09 03:06:37 [INFO] [Tekkit-R] H4ZM4T: is normally epic fast[m
+2012-09-09 03:06:51 [INFO] [Tekkit-R] H4ZM4T: 60x60 is acceptable for a quarry, no?[m
+2012-09-09 03:06:54 [INFO] [Tekkit-R] nightkhaos: yes[m
+2012-09-09 03:08:14 [INFO] [Tekkit-R] H4ZM4T: apparently, it is drawing power yet not doing anything[m
+2012-09-09 03:10:34 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-09 03:10:42 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-09 03:14:09 [INFO] [Tekkit-R] H4ZM4T: zzz[m
+2012-09-09 03:14:15 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-09 03:14:19 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-09 03:19:27 [INFO] [Tekkit-R] H4ZM4T: the quarry should be working[m
+2012-09-09 03:19:32 [INFO] [Tekkit-R] H4ZM4T: it is set up[m
+2012-09-09 03:19:36 [INFO] [Tekkit-R] H4ZM4T: energy linked[m
+2012-09-09 03:19:42 [INFO] [Tekkit-R] H4ZM4T: it is even draining power[m
+2012-09-09 03:19:50 [INFO] [Tekkit-R] H4ZM4T: but not a single fram is being made[m
+2012-09-09 03:22:07 [INFO] [Tekkit-R] H4ZM4T: anyway[m
+2012-09-09 03:22:09 [INFO] [Tekkit-R] H4ZM4T: I am off[m
+2012-09-09 03:22:10 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-09 03:25:55 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-09 03:26:07 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-09 03:31:57 [INFO] [Tekkit-R] nightkhaos: big moverfucking quarry. come see 737, 93[m
+2012-09-09 03:35:11 [INFO] [Tekkit-R] dejai: Only on for a min[m
+2012-09-09 03:35:27 [INFO] [Tekkit-R] nightkhaos: still... come see. :P[m
+2012-09-09 03:37:54 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-09 03:42:57 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-09 03:48:54 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-09 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-09 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-09 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-09 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-09 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-09 08:05:02 [INFO] [35;1m[Server] Starting backup[m
+2012-09-09 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-09 08:05:02 [INFO] CONSOLE: Forcing save..[m
+2012-09-09 08:05:02 [INFO] CONSOLE: Save complete.[m
+2012-09-09 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-09 08:05:02 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-09 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-09 08:05:02 [INFO] CONSOLE: Stopping the server..[m
+2012-09-09 08:05:02 [SEVERE] [xServer] Malformed Packet
+2012-09-09 08:05:02 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-09 08:05:02 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-09 08:05:02 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-09 08:05:02 [INFO] Stopping server
+2012-09-09 08:05:02 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-09 08:05:02 [SEVERE] [xServer] Could not read packet
+2012-09-09 08:05:02 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2012-09-09 08:05:02 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-09 08:05:02 [INFO] Saving players
+2012-09-09 08:05:02 [WARNING] DSCT: Socket closed
+2012-09-09 08:05:02 [INFO] Closing listening thread
+2012-09-09 08:05:02 [INFO] Saving worlds
+2012-09-09 08:05:02 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@2e6f4499
+2012-09-09 08:05:02 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@b00b0a0
+2012-09-09 08:05:02 [INFO] Stopping server
+2012-09-09 08:05:02 [INFO] Saving players
+2012-09-09 08:05:02 [INFO] Saving worlds

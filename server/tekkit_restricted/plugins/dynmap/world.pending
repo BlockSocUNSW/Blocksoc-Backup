@@ -1,0 +1,13 @@
+tiles:
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -14,-16,iso_SE_30_hires
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -13,-15,iso_SE_30_hires
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -14,-15,iso_SE_30_hires
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -4,-9,iso_SE_60_lowres
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 5,-10,iso_S_90_lowres
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 5,-11,iso_S_90_lowres
