@@ -141,8 +141,39 @@ sets:
         circles: {
             }
         hide: false
-        markers: {
-            }
+        markers:
+            atlantisc3:
+                icon: landmark_blue
+                markup: false
+                label: Atlantisc3
+                z: -1374.132457337214
+                world: world
+                y: 108.53826918367727
+                x: 2272.2092626664275
+            '"lluoc''s':
+                icon: landmark_blue
+                markup: false
+                label: '"lluoc''s'
+                z: 952.8363841024835
+                world: world
+                y: 63.0
+                x: 297.03730872028666
+            atlantisc1:
+                icon: landmark_blue
+                markup: false
+                label: Atlantisc1
+                z: 160.48429409634292
+                world: world
+                y: 64.0
+                x: 736.3200817937667
+            alantisc2:
+                icon: landmark_blue
+                markup: false
+                label: Alantisc2
+                z: -1377.019250606427
+                world: world
+                y: 108.53826918367727
+                x: 736.5899902443789
         layerprio: 0
         areas: {
             }

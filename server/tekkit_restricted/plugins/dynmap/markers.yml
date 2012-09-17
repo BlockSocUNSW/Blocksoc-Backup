@@ -35,24 +35,24 @@ icons:
         label: Ocelot
     mobs.scorpion:
         label: Scorpion
-    mobs.blaze:
-        label: Blaze
     mobs.ogre:
         label: Ogre
+    mobs.blaze:
+        label: Blaze
     mobs.caveogre:
         label: Cave Ogre
     mobs.sheep:
         label: Sheep
     mobs.dolphin:
         label: Shark
-    mobs.cat:
-        label: Cat
     mobs.ostrich:
         label: Ostrich
-    mobs.golem:
-        label: Iron Golem
+    mobs.cat:
+        label: Cat
     mobs.ghast:
         label: Ghast
+    mobs.golem:
+        label: Iron Golem
     mobs.fireogre:
         label: Fire Ogre
     mobs.horse:
@@ -142,6 +142,14 @@ sets:
             }
         hide: false
         markers:
+            atlantisc3:
+                icon: landmark_blue
+                markup: false
+                label: Atlantisc3
+                z: -1374.132457337214
+                world: world
+                y: 108.53826918367727
+                x: 2272.2092626664275
             '"lluoc''s':
                 icon: landmark_blue
                 markup: false
@@ -150,6 +158,30 @@ sets:
                 world: world
                 y: 63.0
                 x: 297.03730872028666
+            atlantisc1:
+                icon: landmark_blue
+                markup: false
+                label: Atlantisc1
+                z: 160.48429409634292
+                world: world
+                y: 64.0
+                x: 736.3200817937667
+            alantisc2:
+                icon: landmark_blue
+                markup: false
+                label: Alantisc2
+                z: -1377.019250606427
+                world: world
+                y: 108.53826918367727
+                x: 736.5899902443789
+            alantisc4:
+                icon: landmark_blue
+                markup: false
+                label: Alantisc4
+                z: 160.62484792850907
+                world: world
+                y: 104.58394437931192
+                x: 2272.2096056136857
         layerprio: 0
         areas: {
             }

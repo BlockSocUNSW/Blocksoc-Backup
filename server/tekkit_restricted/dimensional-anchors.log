@@ -457,3 +457,69 @@
 [2012-09-17 11:15:43] Loader validated at [305,60,949] in world, owner=lluoc, radius=4
 [2012-09-17 11:15:43] Loader validated at [308,57,998] in world, owner=lluoc, radius=4
 [2012-09-17 14:21:53] Loader validated at [-2162,75,386] in world, owner=nightkhaos, radius=1
+[2012-09-17 19:34:00] Log opened
+[2012-09-17 19:34:06] Loaded world info for world
+[2012-09-17 19:34:06] Loader validated at [172,65,306] in world, owner=H4ZM4T, radius=2
+[2012-09-17 19:34:06] Loader validated at [238,65,255] in world, owner=nightkhaos, radius=1
+[2012-09-17 19:34:06] Loader validated at [344,55,183] in world, owner=nightkhaos, radius=3
+[2012-09-17 19:34:11] Loaded world info for world_the_end
+[2012-09-17 19:34:11] Loaded world info for world_nether
+[2012-09-17 19:34:11] Loader validated at [305,60,949] in world, owner=lluoc, radius=4
+[2012-09-17 19:34:12] Loader validated at [308,57,998] in world, owner=lluoc, radius=4
+[2012-09-17 19:34:15] Loader validated at [717,72,56] in world, owner=nightkhaos, radius=3
+[2012-09-17 20:26:43] Loader validated at [573,20,65] in world, owner=nightkhaos, radius=1
+[2012-09-17 20:28:02] Loader validated at [573,20,65] in world, owner=nightkhaos, radius=1
+[2012-09-17 20:52:16] Loader validated at [717,72,56] in world, owner=nightkhaos, radius=3
+[2012-09-17 20:52:16] Loader validated at [573,20,65] in world, owner=nightkhaos, radius=1
+[2012-09-17 21:21:31] Loader added by lluoc at [-427,63,2215] in world, owner=lluoc, radius=0
+[2012-09-17 21:21:33] Loader updated by lluoc at [-427,63,2215] in world, owner=lluoc, radius=1
+[2012-09-17 21:21:33] Loader updated by lluoc at [-427,63,2215] in world, owner=lluoc, radius=2
+[2012-09-17 21:21:34] Loader updated by lluoc at [-427,63,2215] in world, owner=lluoc, radius=3
+[2012-09-17 21:21:34] Loader updated by lluoc at [-427,63,2215] in world, owner=lluoc, radius=4
+[2012-09-17 21:21:43] Loader added by lluoc at [-448,64,2245] in world, owner=lluoc, radius=0
+[2012-09-17 21:21:45] Loader updated by lluoc at [-448,64,2245] in world, owner=lluoc, radius=1
+[2012-09-17 21:21:45] Loader updated by lluoc at [-448,64,2245] in world, owner=lluoc, radius=2
+[2012-09-17 21:21:45] Loader updated by lluoc at [-448,64,2245] in world, owner=lluoc, radius=3
+[2012-09-17 21:21:45] Loader updated by lluoc at [-448,64,2245] in world, owner=lluoc, radius=4
+[2012-09-17 21:27:44] Loader validated at [308,57,998] in world, owner=lluoc, radius=4
+[2012-09-17 21:27:46] Loader validated at [305,60,949] in world, owner=lluoc, radius=4
+[2012-09-17 22:57:45] Loader validated at [-2162,75,386] in world, owner=nightkhaos, radius=1
+[2012-09-18 00:23:21] Loader invalidated/removed at [308,57,998] in world, owner=lluoc, radius=4
+[2012-09-18 00:23:21] Loader removed by lluoc at [308,57,998] in world, owner=lluoc, radius=4
+[2012-09-18 00:44:39] Loader added by nightkhaos at [734,63,160] in world, owner=nightkhaos, radius=0
+[2012-09-18 00:44:41] Loader updated by nightkhaos at [734,63,160] in world, owner=nightkhaos, radius=1
+[2012-09-18 00:44:41] Loader updated by nightkhaos at [734,63,160] in world, owner=nightkhaos, radius=2
+[2012-09-18 00:44:42] Loader updated by nightkhaos at [734,63,160] in world, owner=nightkhaos, radius=3
+[2012-09-18 00:56:06] Loader updated by nightkhaos at [734,63,160] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:01:51] Loader invalidated/removed at [573,20,65] in world, owner=nightkhaos, radius=1
+[2012-09-18 01:01:51] Loader removed by nightkhaos at [573,20,65] in world, owner=nightkhaos, radius=1
+[2012-09-18 01:19:53] Loader added by nightkhaos at [736,63,-1313] in world, owner=nightkhaos, radius=0
+[2012-09-18 01:19:55] Loader updated by nightkhaos at [736,63,-1313] in world, owner=nightkhaos, radius=1
+[2012-09-18 01:19:55] Loader updated by nightkhaos at [736,63,-1313] in world, owner=nightkhaos, radius=2
+[2012-09-18 01:19:56] Loader updated by nightkhaos at [736,63,-1313] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:19:56] Loader updated by nightkhaos at [736,63,-1313] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:46:06] Loader invalidated/removed at [344,55,183] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:46:06] Loader removed by dejai at [344,55,183] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:46:43] Loader added by dejai at [323,64,142] in world, owner=dejai, radius=0
+[2012-09-18 01:46:51] Loader updated by nightkhaos at [323,64,142] in world, owner=dejai, radius=0
+[2012-09-18 01:46:56] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=0
+[2012-09-18 01:46:57] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=1
+[2012-09-18 01:46:57] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=2
+[2012-09-18 01:46:57] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:46:58] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=4
+[2012-09-18 01:46:59] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:47:00] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=3
+[2012-09-18 01:47:05] Loader updated by nightkhaos at [323,64,142] in world, owner=nightkhaos, radius=4
+[2012-09-18 01:50:55] Loader updated by nightkhaos at [736,63,-1313] in world, owner=nightkhaos, radius=4
+[2012-09-18 01:53:18] Loader updated by nightkhaos at [734,63,160] in world, owner=nightkhaos, radius=4
+[2012-09-18 01:53:42] Loader updated by nightkhaos at [717,72,56] in world, owner=nightkhaos, radius=3
+[2012-09-18 02:12:10] Loader added by lluoc at [238,99,1190] in world, owner=lluoc, radius=0
+[2012-09-18 02:12:11] Loader updated by lluoc at [238,99,1190] in world, owner=lluoc, radius=1
+[2012-09-18 02:12:12] Loader updated by lluoc at [238,99,1190] in world, owner=lluoc, radius=2
+[2012-09-18 02:12:12] Loader updated by lluoc at [238,99,1190] in world, owner=lluoc, radius=3
+[2012-09-18 02:12:12] Loader updated by lluoc at [238,99,1190] in world, owner=lluoc, radius=4
+[2012-09-18 02:36:52] Loader added by lluoc at [380,101,846] in world, owner=lluoc, radius=0
+[2012-09-18 02:36:53] Loader updated by lluoc at [380,101,846] in world, owner=lluoc, radius=1
+[2012-09-18 02:36:53] Loader updated by lluoc at [380,101,846] in world, owner=lluoc, radius=2
+[2012-09-18 02:36:54] Loader updated by lluoc at [380,101,846] in world, owner=lluoc, radius=3
+[2012-09-18 02:36:54] Loader updated by lluoc at [380,101,846] in world, owner=lluoc, radius=4
