@@ -89,9 +89,9 @@ def removeBackup(path):
 
 if __name__=='__main__':
     serverCmd("say Server restarting in 5 minutes")
-    time.sleep(60*4)
+#    time.sleep(60*4)
     serverCmd("say Server restarting in 1 minute")
-    time.sleep(60)
+ #   time.sleep(60)
     NOW = datetime.datetime.now()
     logger.info("Starting backup process for: " + NOW.strftime("%d-%m-%y-%H-%M-%S"))
     serverCmd("say Starting backup")
@@ -126,7 +126,7 @@ if __name__=='__main__':
             #otherwise, if the newest backup is outside of the minimum bound, make a new backup
             if time.time() - backups[len(backups)-1][0] > MIN_BACKUP_AGE:
                 logging.info("New backup required.")
-                createBackup()
+                createTar()
             #prune off any backups that are older than the max bound.
             while len(backups) != 0 and  time.time() - backups[0][0] > MAX_BACKUP_AGE:
                 logging.info("Removing old backup: " + backups[0][1])

@@ -1,0 +1,70 @@
+outputdir = "/var/www/maps"
+
+worlds["Fluid"] = "/home/minecraft/server/fluid/world"
+worlds["Creative"] = "/home/minecraft/server/creative/world"
+worlds["Experiment"] = "/home/minecraft/server/experiment/world"
+worlds["Tekkit Restricted"] = "/home/minecraft/server/tekkit_restricted/world"
+worlds["Tekkit Creative"] = "/home/minecraft/server/tekkit_creative/world"
+
+
+renders["Fluid"] = {
+    "world": "Fluid",
+    "title": "Fluid",
+    "rendermode": smooth_lighting
+}
+
+renders["Fluid Night"] = {
+    "world": "Fluid",
+    "title": "Fluid Night",
+    "rendermode": smooth_night
+}
+
+renders["Fluid Caves"] = {
+    "world": "Fluid",
+    "title": "Fluid Caves",
+    "rendermode": cave
+}
+
+
+renders["Creative"] = {
+    "world": "Creative",
+    "title": "Creative",
+    "rendermode": smooth_lighting
+}
+
+renders["Experiment"] = {
+    "world": "Experiment",
+    "title": "Experiment",
+    "rendermode": smooth_lighting
+}
+
+renders["ExperimentCave"] = {
+    "world": "Experiment",
+    "title": "Experiment Cave",
+    "rendermode": cave
+}
+
+renders["Tekkit Restricted"] = {
+    "world": "Tekkit Restricted",
+    "title": "Tekkit Restricted",
+    "rendermode": smooth_lighting
+}
+
+renders["Tekkit Restricted Night"] = {
+    "world": "Tekkit Restricted",
+    "title": "Tekkit Restricted Night",
+    "rendermode": smooth_night
+}
+
+
+renders["Tekkit Creative"] = {
+    "world": "Tekkit Creative",
+    "title": "Tekkit Creative",
+    "rendermode": smooth_lighting
+}
+
+renders["Tekkit Creative Cave"] = {
+    "world": "Tekkit Creative",
+    "title": "Tekkit Creativ Cave",
+    "rendermode": cave
+}

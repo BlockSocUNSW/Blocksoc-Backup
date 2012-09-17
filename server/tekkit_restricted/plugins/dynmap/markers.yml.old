@@ -1,0 +1,154 @@
+icons:
+    mobs.bunny:
+        label: Bunny
+    mobs.tamedwolf:
+        label: Wolf
+    mobs.chicken:
+        label: Chicken
+    mobs.crocodile:
+        label: Crocodile
+    mobs.zombie:
+        label: Zombie
+    mobs.flamewraith:
+        label: Wraith
+    mobs.wildwolf:
+        label: Wild Wolf
+    mobs.giant:
+        label: Giant
+    mobs.wraith:
+        label: Wraith
+    mobs.villager:
+        label: Villager
+    landmark_airship:
+        label: airship
+    mobs.hellrat:
+        label: Hell Rat
+    mobs.wolf:
+        label: Wolf
+    mobs.bear:
+        label: Bear
+    mobs.silverfish:
+        label: Silverfish
+    landmark_gate:
+        label: gate
+    mobs.ocelot:
+        label: Ocelot
+    mobs.scorpion:
+        label: Scorpion
+    mobs.ogre:
+        label: Ogre
+    mobs.blaze:
+        label: Blaze
+    mobs.caveogre:
+        label: Cave Ogre
+    mobs.sheep:
+        label: Sheep
+    mobs.dolphin:
+        label: Shark
+    mobs.ostrich:
+        label: Ostrich
+    mobs.cat:
+        label: Cat
+    mobs.ghast:
+        label: Ghast
+    mobs.golem:
+        label: Iron Golem
+    mobs.fireogre:
+        label: Fire Ogre
+    mobs.horse:
+        label: Horse
+    mobs.cavespider:
+        label: Cave Spider
+    mobs.spiderjockey:
+        label: Spider Jockey
+    mobs.slime:
+        label: Slime
+    mobs.bigcat:
+        label: Big Cat
+    mobs.polarbear:
+        label: Polar Bear
+    mobs.creeper:
+        label: Creeper
+    mobs.deer:
+        label: Deer
+    landmark_blue:
+        label: blue
+    mobs.duck:
+        label: Duck
+    mobs.snowgolem:
+        label: Snow Golem
+    mobs.fishy:
+        label: Fishy
+    mobs.snake:
+        label: Snake
+    mobs.cow:
+        label: Cow
+    mobs.squid:
+        label: Squid
+    mobs.kitty:
+        label: Kitty
+    mobs.spider:
+        label: Spider
+    mobs.boar:
+        label: Boar
+    landmark_resources:
+        label: resources
+    mobs.rat:
+        label: Rat
+    mobs.werewolf:
+        label: Werewolf
+    mobs.jellyfish:
+        label: Jelly Fish
+    mobs.ray:
+        label: Ray
+    mobs.enderman:
+        label: Enderman
+    mobs.zombiepigman:
+        label: Zombie Pigman
+    mobs.mooshroom:
+        label: Mooshroom
+    landmark_red:
+        label: red
+    mobs.turtle:
+        label: Turtle
+    mobs.shark:
+        label: Shark
+    mobs.skeleton:
+        label: Skeleton
+    mobs.pig:
+        label: Pig
+    mobs.goat:
+        label: Goat
+    mobs.fox:
+        label: Bird
+    mobs.enderdragon:
+        label: Enderdragon
+sets:
+    markers:
+        circles: {
+            }
+        hide: false
+        markers: {
+            }
+        layerprio: 0
+        areas: {
+            }
+        lines: {
+            }
+        label: Markers
+        minzoom: 0
+    pylandmarks:
+        circles: {
+            }
+        hide: false
+        markers: {
+            }
+        layerprio: 0
+        areas: {
+            }
+        lines: {
+            }
+        label: Landmarks
+        minzoom: 0
+playersets: {
+    }

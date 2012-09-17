@@ -1,0 +1,15 @@
+Action: set
+Health: true
+HealthAmount: 10
+Hunger: true
+HungerAmount: 10
+Armor: false
+ArmorAmount: 100
+Weapons: false
+WeaponsAmount: 95
+Tools: false
+ToolsAmount: 100
+Blind: false
+Confusion: false
+ConfusionTime: 10
+BlindTime: 10

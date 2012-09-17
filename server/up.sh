@@ -28,7 +28,7 @@ if [[ $screens == *mc_tekkit_restricted* ]]
         else
                 echo "starting mc_tekkit_restricted"
                 cd tekkit_restricted
-                screen -dmS mc_tekkit_restricted java -jar Tekkit.jar
+                screen -dmS mc_tekkit_restricted java -Xmx3072M -Xms3072M -jar  Tekkit.jar
                 cd ..
 fi
 
