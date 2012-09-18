@@ -34202,3 +34202,1398 @@ java.lang.NullPointerException
 2012-09-18 08:05:01 [SEVERE] [xServer] Couldn't send packet
 2012-09-18 08:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
 2012-09-18 08:05:01 [INFO] Saving chunks
+2012-09-18 08:21:57 [INFO] Starting minecraft server version 1.2.5
+2012-09-18 08:21:57 [INFO] Attempting early MinecraftForge initialization
+2012-09-18 08:21:57 [INFO] Completed early MinecraftForge initialization
+2012-09-18 08:21:57 [INFO] Forge Mod Loader version 2.2.91.173 for Minecraft 1.2.5 loading
+2012-09-18 08:21:57 [FINE] Attempting to load mods contained in the minecraft jar file and associated classes
+2012-09-18 08:21:57 [FINE] Minecraft is a file at /home/minecraft/server/tekkit_creative/Tekkit.jar, loading
+2012-09-18 08:21:57 [FINE] Found a mod class net.minecraft.server.mod_MinecraftForge in file Tekkit.jar, attempting to load it
+2012-09-18 08:21:57 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge found, loading
+2012-09-18 08:21:57 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge loaded
+2012-09-18 08:21:57 [FINE] Mod class net.minecraft.server.mod_MinecraftForge loaded successfully
+2012-09-18 08:21:58 [FINE] Minecraft jar mods loaded successfully
+2012-09-18 08:21:58 [INFO] Loading mods from /home/minecraft/server/tekkit_creative/mods
+2012-09-18 08:21:58 [FINE] Found a zip or jar file AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_AdditionalPipes in file AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_AdditionalPipes found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_AdditionalPipes loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip for mod_AdditionalPipes
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_AdditionalPipes loaded successfully
+2012-09-18 08:21:58 [FINE] File AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file BalkonsWeaponMod1.2.5.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_WeaponMod in file BalkonsWeaponMod1.2.5.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WeaponMod found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WeaponMod loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in BalkonsWeaponMod1.2.5.jar for mod_WeaponMod
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_WeaponMod loaded successfully
+2012-09-18 08:21:58 [FINE] File BalkonsWeaponMod1.2.5.jar loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file CodeChickenCore-Bukkit 0.5.3r3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_CodeChickenCore in file CodeChickenCore-Bukkit 0.5.3r3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CodeChickenCore found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CodeChickenCore loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in CodeChickenCore-Bukkit 0.5.3r3.zip for mod_CodeChickenCore
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_CodeChickenCore loaded successfully
+2012-09-18 08:21:58 [FINE] File CodeChickenCore-Bukkit 0.5.3r3.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a directory ComputerCraft, attempting to load it
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.computer
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.computer.api
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.computer.core
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.computer.shared
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.turtle
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.turtle.api
+2012-09-18 08:21:58 [FINEST] Recursing into package dan200.turtle.shared
+2012-09-18 08:21:58 [FINEST] Recursing into package eloraam
+2012-09-18 08:21:58 [FINEST] Recursing into package eloraam.core
+2012-09-18 08:21:58 [FINEST] Recursing into package licenses
+2012-09-18 08:21:58 [FINEST] Recursing into package lua
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.apis
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.apis.turtle
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.help
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.programs
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.programs.computer
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.programs.http
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.programs.secret
+2012-09-18 08:21:58 [FINEST] Recursing into package lua.rom.programs.turtle
+2012-09-18 08:21:58 [FINEST] Recursing into package net
+2012-09-18 08:21:58 [FINEST] Recursing into package net.minecraft
+2012-09-18 08:21:58 [FINEST] Recursing into package net.minecraft.server
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_CCTurtle in directory server, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CCTurtle found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CCTurtle loaded
+2012-09-18 08:21:58 [FINE] Successfully loaded mod class mod_CCTurtle.class
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_ComputerCraft in directory server, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ComputerCraft found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ComputerCraft loaded
+2012-09-18 08:21:58 [FINE] Successfully loaded mod class mod_ComputerCraft.class
+2012-09-18 08:21:58 [FINEST] Recursing into package org
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.ast
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.compiler
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.lib
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.lib.jse
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.lua2java
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.luajc
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.parser
+2012-09-18 08:21:58 [FINEST] Recursing into package org.luaj.vm2.script
+2012-09-18 08:21:58 [FINE] Directory ComputerCraft loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_EE in file EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EE found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EE loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip for mod_EE
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_EE loaded successfully
+2012-09-18 08:21:58 [FINE] File EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file EnderStorage-Bukkit 1.1.3r2.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_EnderStorage in file EnderStorage-Bukkit 1.1.3r2.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EnderStorage found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EnderStorage loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in EnderStorage-Bukkit 1.1.3r2.zip for mod_EnderStorage
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_EnderStorage loaded successfully
+2012-09-18 08:21:58 [FINE] File EnderStorage-Bukkit 1.1.3r2.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file NotEnoughItems-Bukkit 1.2.2.3r3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_NotEnoughItems in file NotEnoughItems-Bukkit 1.2.2.3r3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NotEnoughItems found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NotEnoughItems loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in NotEnoughItems-Bukkit 1.2.2.3r3.zip for mod_NotEnoughItems
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_NotEnoughItems loaded successfully
+2012-09-18 08:21:58 [FINE] File NotEnoughItems-Bukkit 1.2.2.3r3.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file PowerConverters-1.3.4-mcpc78-r1.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_PowerConverters in file PowerConverters-1.3.4-mcpc78-r1.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_PowerConverters found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_PowerConverters loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in PowerConverters-1.3.4-mcpc78-r1.zip for mod_PowerConverters
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_PowerConverters loaded successfully
+2012-09-18 08:21:58 [FINE] File PowerConverters-1.3.4-mcpc78-r1.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file Railcraft-5.3.3-MCPC-1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_Railcraft in file Railcraft-5.3.3-MCPC-1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_Railcraft found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_Railcraft loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in Railcraft-5.3.3-MCPC-1.2.5-r8.zip for mod_Railcraft
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_Railcraft loaded successfully
+2012-09-18 08:21:58 [FINE] File Railcraft-5.3.3-MCPC-1.2.5-r8.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file WR-CBE Addons-Bukkit 1.2.2.3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_WirelessRedstoneAddons in file WR-CBE Addons-Bukkit 1.2.2.3.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneAddons found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneAddons loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in WR-CBE Addons-Bukkit 1.2.2.3.zip for mod_WirelessRedstoneAddons
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_WirelessRedstoneAddons loaded successfully
+2012-09-18 08:21:58 [FINE] File WR-CBE Addons-Bukkit 1.2.2.3.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_WirelessRedstoneCore in file WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneCore found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneCore loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip for mod_WirelessRedstoneCore
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_WirelessRedstoneCore loaded successfully
+2012-09-18 08:21:58 [FINE] File WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file WR-CBE RedPower-Bukkit 1.2.2.1.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_WirelessRedstoneRedPower in file WR-CBE RedPower-Bukkit 1.2.2.1.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneRedPower found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneRedPower loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in WR-CBE RedPower-Bukkit 1.2.2.1.zip for mod_WirelessRedstoneRedPower
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_WirelessRedstoneRedPower loaded successfully
+2012-09-18 08:21:58 [FINE] File WR-CBE RedPower-Bukkit 1.2.2.1.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file advancedMachines_4.0_bukkit.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_IC2AdvancedMachines in file advancedMachines_4.0_bukkit.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2AdvancedMachines found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2AdvancedMachines loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in advancedMachines_4.0_bukkit.zip for mod_IC2AdvancedMachines
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_IC2AdvancedMachines loaded successfully
+2012-09-18 08:21:58 [FINE] File advancedMachines_4.0_bukkit.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftTransport in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftTransport found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftTransport loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftTransport
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_BuildCraftTransport loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftFactory in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftFactory found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftFactory loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftFactory
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_BuildCraftFactory loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftEnergy in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftEnergy found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftEnergy loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftEnergy
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_BuildCraftEnergy loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftCore in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftCore found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftCore loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftCore
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_BuildCraftCore loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftBuilders in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftBuilders found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftBuilders loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftBuilders
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_BuildCraftBuilders loaded successfully
+2012-09-18 08:21:58 [FINE] File buildcraft-2.2.14-mcpc1.2.5-r8.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a directory ccSensors, attempting to load it
+2012-09-18 08:21:58 [FINEST] Recursing into package api
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors.api
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors.help
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors.lua
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors.shared
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors.shared.network
+2012-09-18 08:21:58 [FINEST] Recursing into package ccSensors.shared.sensorModules
+2012-09-18 08:21:58 [FINEST] Recursing into package help
+2012-09-18 08:21:58 [FINEST] Recursing into package lua
+2012-09-18 08:21:58 [FINEST] Recursing into package net
+2012-09-18 08:21:58 [FINEST] Recursing into package net.minecraft
+2012-09-18 08:21:58 [FINEST] Recursing into package net.minecraft.server
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_ccSensors in directory server, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ccSensors found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ccSensors loaded
+2012-09-18 08:21:58 [FINE] Successfully loaded mod class mod_ccSensors.class
+2012-09-18 08:21:58 [FINE] Directory ccSensors loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file immibis-core_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_ImmibisCore in file immibis-core_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmibisCore found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmibisCore loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in immibis-core_49.1.1_for_1.2.5-bukkit.jar for mod_ImmibisCore
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_ImmibisCore loaded successfully
+2012-09-18 08:21:58 [FINE] File immibis-core_49.1.1_for_1.2.5-bukkit.jar loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file industrialcraft2-1.97-mcpc1.2.5-r7.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_IC2 in file industrialcraft2-1.97-mcpc1.2.5-r7.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2 found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2 loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in industrialcraft2-1.97-mcpc1.2.5-r7.zip for mod_IC2
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_IC2 loaded successfully
+2012-09-18 08:21:58 [FINE] File industrialcraft2-1.97-mcpc1.2.5-r7.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file mffs_rev7_for_1.2.5-bukkit.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class mffs.mod_ModularForceFieldSystem in file mffs_rev7_for_1.2.5-bukkit.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class mffs.mod_ModularForceFieldSystem found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class mffs.mod_ModularForceFieldSystem loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in mffs_rev7_for_1.2.5-bukkit.zip for mod_ModularForceFieldSystem
+2012-09-18 08:21:58 [FINE] Mod class mffs.mod_ModularForceFieldSystem loaded successfully
+2012-09-18 08:21:58 [FINE] File mffs_rev7_for_1.2.5-bukkit.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_IC2NuclearControl in file mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2NuclearControl found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2NuclearControl loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip for mod_IC2NuclearControl
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_IC2NuclearControl loaded successfully
+2012-09-18 08:21:58 [FINE] File mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file mod_NetherOres.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_NetherOres in file mod_NetherOres.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NetherOres found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NetherOres loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in mod_NetherOres.jar for mod_NetherOres
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_NetherOres loaded successfully
+2012-09-18 08:21:58 [FINE] File mod_NetherOres.jar loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_IC2_ChargingBench in file mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2_ChargingBench found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2_ChargingBench loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip for mod_IC2_ChargingBench
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_IC2_ChargingBench loaded successfully
+2012-09-18 08:21:58 [FINE] File mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_CompactSolars in file mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CompactSolars found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CompactSolars loaded
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_CompactSolars loaded successfully
+2012-09-18 08:21:58 [FINE] File mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class cpw.mods.ironchest.mod_IronChest in file mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class cpw.mods.ironchest.mod_IronChest found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class cpw.mods.ironchest.mod_IronChest loaded
+2012-09-18 08:21:58 [FINE] Mod class cpw.mods.ironchest.mod_IronChest loaded successfully
+2012-09-18 08:21:58 [FINE] File mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerControl in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerControl found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerControl loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerControl
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerControl loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerLogic in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLogic found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLogic loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerLogic
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerLogic loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerLighting in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLighting found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLighting loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerLighting
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerLighting loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerWiring in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWiring found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWiring loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerWiring
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerWiring loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerCore in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerCore found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerCore loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerCore
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerCore loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerMachine in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerMachine found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerMachine loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerMachine
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerMachine loaded successfully
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_RedPowerWorld in file redpower-all-2.0p5b2-mcpc1.2.5-r15.zip, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWorld found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWorld loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r15.zip for mod_RedPowerWorld
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_RedPowerWorld loaded successfully
+2012-09-18 08:21:58 [FINE] File redpower-all-2.0p5b2-mcpc1.2.5-r15.zip loaded successfully
+2012-09-18 08:21:58 [FINE] Found a zip or jar file tubestuff_49.1.2_for_1.2.5-bukkit.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_TubeStuff in file tubestuff_49.1.2_for_1.2.5-bukkit.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_TubeStuff found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_TubeStuff loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in tubestuff_49.1.2_for_1.2.5-bukkit.jar for mod_TubeStuff
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_TubeStuff loaded successfully
+2012-09-18 08:21:58 [FINE] File tubestuff_49.1.2_for_1.2.5-bukkit.jar loaded successfully
+2012-09-18 08:21:58 [FINE] Found a directory weaponmod, attempting to load it
+2012-09-18 08:21:58 [INFO] Directory weaponmod contained no mods
+2012-09-18 08:21:58 [FINE] Found a zip or jar file zdimensional-anchor_rev3.2_for_1.2.5-bukkit.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] Found a mod class net.minecraft.server.mod_ImmiChunkLoaders in file zdimensional-anchor_rev3.2_for_1.2.5-bukkit.jar, attempting to load it
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmiChunkLoaders found, loading
+2012-09-18 08:21:58 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmiChunkLoaders loaded
+2012-09-18 08:21:58 [FINE] Failed to find mcmod.info file in zdimensional-anchor_rev3.2_for_1.2.5-bukkit.jar for mod_ImmiChunkLoaders
+2012-09-18 08:21:58 [FINE] Mod class net.minecraft.server.mod_ImmiChunkLoaders loaded successfully
+2012-09-18 08:21:58 [FINE] File zdimensional-anchor_rev3.2_for_1.2.5-bukkit.jar loaded successfully
+2012-09-18 08:21:58 [INFO] Forge Mod Loader has loaded 38 mods
+2012-09-18 08:21:58 [FINE] Beginning mod pre-initialization
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/Tekkit.jar
+2012-09-18 08:21:58 [FINE] Reading existing configuration file for mod_MinecraftForge : mod_MinecraftForge.cfg
+2012-09-18 08:21:58 [FINEST] Configuration for mod_MinecraftForge.DISABLE_DARK_ROOMS found values default: false, configured: false, interpreted: false
+2012-09-18 08:21:58 [FINEST] Configuration for mod_MinecraftForge.SPAWNER_ALLOW_ON_INVERTED found values default: true, configured: true, interpreted: true
+2012-09-18 08:21:58 [FINEST] Configuration for mod_MinecraftForge.NO_FORGE_KICK_MESSAGE found values default: This server requires you to have Minecraft Forge installed. http://MinecraftForge.net/, configured: This server requires you to have Minecraft Forge installed. http://MinecraftForge.net/, interpreted: This server requires you to have Minecraft Forge installed. http://MinecraftForge.net/
+2012-09-18 08:21:58 [FINEST] Configuration for mod_MinecraftForge.SPAWNER_MAKE_MORE_RANDOM found values default: false, configured: false, interpreted: false
+2012-09-18 08:21:58 [FINE] Configuration for mod_MinecraftForge written to mod_MinecraftForge.cfg
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_AdditionalPipes found or required. No file written
+2012-09-18 08:21:58 [INFO] MinecraftForge v3.3.8.152 Initialized
+
+2012-09-18 08:21:58 [INFO] MinecraftForge v3.3.8.152 Initialized
+
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/BalkonsWeaponMod1.2.5.jar
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_WeaponMod found or required. No file written
+2012-09-18 08:21:58 [INFO] [WeaponMod] Properties file read succesfully!
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/CodeChickenCore-Bukkit 0.5.3r3.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_CodeChickenCore found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/ComputerCraft/net/minecraft/server
+2012-09-18 08:21:58 [FINE] Reading existing configuration file for mod_CCTurtle : mod_CCTurtle.cfg
+2012-09-18 08:21:58 [FINEST] Configuration for mod_CCTurtle.turtleBlockID found values default: 209, configured: 216, interpreted: 216
+2012-09-18 08:21:58 [FINEST] Configuration for mod_CCTurtle.turtleBlockID value set to: 216
+2012-09-18 08:21:58 [FINEST] Configuration for mod_CCTurtle.turtleGUIID found values default: 101, configured: 101, interpreted: 101
+2012-09-18 08:21:58 [FINEST] Configuration for mod_CCTurtle.turtle_fakeplayer_method found values default: perturtle, configured: perturtle, interpreted: perturtle
+2012-09-18 08:21:58 [FINEST] Configuration for mod_CCTurtle.turtle_fakeplayer_dologin found values default: false, configured: false, interpreted: false
+2012-09-18 08:21:58 [FINE] Configuration for mod_CCTurtle written to mod_CCTurtle.cfg
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/ComputerCraft/net/minecraft/server
+2012-09-18 08:21:58 [FINE] Reading existing configuration file for mod_ComputerCraft : mod_ComputerCraft.cfg
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.computerBlockID found values default: 207, configured: 207, interpreted: 207
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.diskDriveBlockID found values default: 208, configured: 208, interpreted: 208
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.diskItemID found values default: 4000, configured: 4000, interpreted: 4000
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.diskDriveGUIID found values default: 100, configured: 100, interpreted: 100
+2012-09-18 08:21:58 [WARNING] Configuration for mod_ComputerCraft.enableAPI_http found value 0 outside acceptable range 4.9E-324,1.7976931348623157E308
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.enableAPI_http found values default: 0, configured: 0, interpreted: null
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.modem_range found values default: 64, configured: 64, interpreted: 64
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.modem_rangeDuringStorm found values default: 1, configured: 16, interpreted: 16
+2012-09-18 08:21:58 [FINEST] Configuration for mod_ComputerCraft.modem_rangeDuringStorm value set to: 16
+2012-09-18 08:21:58 [FINE] Configuration for mod_ComputerCraft written to mod_ComputerCraft.cfg
+2012-09-18 08:21:58 [INFO] Loading ComputerCraft: To change block IDs, modify config/mod_ComputerCraft.cfg
+2012-09-18 08:21:58 [INFO] ComputerCraft: computerBlockID 207
+2012-09-18 08:21:58 [INFO] ComputerCraft: diskDriveBlockID 208
+2012-09-18 08:21:58 [INFO] ComputerCraft: diskItemID 4000
+2012-09-18 08:21:58 [INFO] CONFLICT @ -49 item slot already occupied by dan200.computer.shared.ItemComputer@1abd5fa1 while adding net.minecraft.server.ItemBlock@6d150be
+2012-09-18 08:21:58 [INFO] ComputerCraft: Searching for RedPowerLib...
+2012-09-18 08:21:58 [INFO] ComputerCraft: RedPowerLib and methods located.
+2012-09-18 08:21:58 [INFO] CONFLICT @ -48 item slot already occupied by dan200.computer.shared.ItemPeripheral@5fd4a617 while adding net.minecraft.server.ItemBlock@1e46128
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_EE found or required. No file written
+2012-09-18 08:21:58 [INFO] Initializing alchemy values for Equivalent Exchange..
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/EnderStorage-Bukkit 1.1.3r2.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_EnderStorage found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/NotEnoughItems-Bukkit 1.2.2.3r3.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_NotEnoughItems found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/PowerConverters-1.3.4-mcpc78-r1.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_PowerConverters found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/Railcraft-5.3.3-MCPC-1.2.5-r8.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_Railcraft found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/WR-CBE Addons-Bukkit 1.2.2.3.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_WirelessRedstoneAddons found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_WirelessRedstoneCore found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/WR-CBE RedPower-Bukkit 1.2.2.1.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_WirelessRedstoneRedPower found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/advancedMachines_4.0_bukkit.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_IC2AdvancedMachines found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_BuildCraftTransport found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_BuildCraftFactory found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_BuildCraftEnergy found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_BuildCraftCore found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_BuildCraftBuilders found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/ccSensors/net/minecraft/server
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_ccSensors found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/immibis-core_49.1.1_for_1.2.5-bukkit.jar
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_ImmibisCore found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/industrialcraft2-1.97-mcpc1.2.5-r7.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_IC2 found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/mffs_rev7_for_1.2.5-bukkit.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_ModularForceFieldSystem found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_IC2NuclearControl found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/mod_NetherOres.jar
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_NetherOres found or required. No file written
+2012-09-18 08:21:58 [INFO] NetherOres: loaded Macerator Recipes
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_IC2_ChargingBench found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_CompactSolars found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_IronChest found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerControl found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerLogic found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerLighting found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerWiring found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerCore found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerMachine found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/redpower-all-2.0p5b2-mcpc1.2.5-r15.zip
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_RedPowerWorld found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/tubestuff_49.1.2_for_1.2.5-bukkit.jar
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_TubeStuff found or required. No file written
+2012-09-18 08:21:58 [FINER] Pre-initializing /home/minecraft/server/tekkit_creative/mods/zdimensional-anchor_rev3.2_for_1.2.5-bukkit.jar
+2012-09-18 08:21:58 [FINE] No MLProp configuration for mod_ImmiChunkLoaders found or required. No file written
+2012-09-18 08:21:58 [FINE] Mod pre-initialization complete
+2012-09-18 08:21:58 [FINE] Verifying mod dependencies are satisfied
+2012-09-18 08:21:58 [FINE] All dependencies are satisfied
+2012-09-18 08:21:58 [FINE] Sorting mods into an ordered list
+2012-09-18 08:21:58 [FINE] Sorted mod list:
+2012-09-18 08:21:58 [FINE] 	mod_CodeChickenCore: CodeChickenCore-Bukkit 0.5.3r3.zip (before:*)
+2012-09-18 08:21:58 [FINE] 	mod_MinecraftForge: Tekkit.jar ()
+2012-09-18 08:21:58 [FINE] 	mod_BuildCraftTransport: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_AdditionalPipes: AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip (after:mod_BuildCraftTransport)
+2012-09-18 08:21:58 [FINE] 	Balkon's WeaponMod: BalkonsWeaponMod1.2.5.jar ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerLogic: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerLighting: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerWiring: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerCore: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerMachine: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerWorld: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_ComputerCraft: server (after:mod_RedPowerCore;after:mod_RedPowerArray;after:mod_RedPowerLighting;after:mod_RedPowerLogic;after:mod_RedPowerMachine;after:mod_RedPowerWiring;after:mod_RedPowerWorld)
+2012-09-18 08:21:58 [FINE] 	mod_CCTurtle: server (after:mod_ComputerCraft;after:mod_RedPowerCore;after:mod_RedPowerArray;after:mod_RedPowerLighting;after:mod_RedPowerLogic;after:mod_RedPowerMachine;after:mod_RedPowerWiring;after:mod_RedPowerWorld)
+2012-09-18 08:21:58 [FINE] 	mod_EE: EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_EnderStorage: EnderStorage-Bukkit 1.1.3r2.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_NotEnoughItems: NotEnoughItems-Bukkit 1.2.2.3r3.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_BuildCraftEnergy: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_BuildCraftCore: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_IC2: industrialcraft2-1.97-mcpc1.2.5-r7.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_PowerConverters: PowerConverters-1.3.4-mcpc78-r1.zip (after:mod_BuildCraftCore;after:mod_BuildCraftEnergy;after:mod_IC2)
+2012-09-18 08:21:58 [FINE] 	mod_Railcraft: Railcraft-5.3.3-MCPC-1.2.5-r8.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_WirelessRedstoneCore: WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_WirelessRedstoneAddons: WR-CBE Addons-Bukkit 1.2.2.3.zip (after:mod_WirelessRedstoneCore)
+2012-09-18 08:21:58 [FINE] 	mod_WirelessRedstoneRedPower: WR-CBE RedPower-Bukkit 1.2.2.1.zip (after:mod_WirelessRedstoneCore)
+2012-09-18 08:21:58 [FINE] 	mod_IC2AdvancedMachines: advancedMachines_4.0_bukkit.zip (after:mod_IC2)
+2012-09-18 08:21:58 [FINE] 	mod_BuildCraftFactory: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_BuildCraftBuilders: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_ccSensors: server (after:mod_ComputerCraft;after:mod_BuildCraftFactory;after:mod_IC2;after:mod_RedPowerMachine)
+2012-09-18 08:21:58 [FINE] 	mod_ImmibisCore: immibis-core_49.1.1_for_1.2.5-bukkit.jar ()
+2012-09-18 08:21:58 [FINE] 	mod_ModularForceFieldSystem: mffs_rev7_for_1.2.5-bukkit.zip (after:mod_IC2;after:mod_ImmibisCore)
+2012-09-18 08:21:58 [FINE] 	mod_IC2NuclearControl: mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip (after:mod_IC2)
+2012-09-18 08:21:58 [FINE] 	mod_NetherOres: mod_NetherOres.jar (after:mod_IC2;after:mod_RedPowerCore)
+2012-09-18 08:21:58 [FINE] 	mod_IC2_ChargingBench: mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_CompactSolars: mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip (after:mod_IC2)
+2012-09-18 08:21:58 [FINE] 	mod_IronChest: mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_RedPowerControl: redpower-all-2.0p5b2-mcpc1.2.5-r15.zip ()
+2012-09-18 08:21:58 [FINE] 	mod_TubeStuff: tubestuff_49.1.2_for_1.2.5-bukkit.jar (after:mod_ImmibisCore)
+2012-09-18 08:21:58 [FINE] 	mod_ImmiChunkLoaders: zdimensional-anchor_rev3.2_for_1.2.5-bukkit.jar (after:mod_ImmibisCore;)
+2012-09-18 08:21:58 [INFO] Loading properties
+2012-09-18 08:21:58 [INFO] Starting Minecraft server on *:25562
+2012-09-18 08:21:58 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-18 08:21:58 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-18 08:21:58 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-18 08:21:58 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-18 08:21:58 [FINE] Beginning mod initialization
+2012-09-18 08:21:58 [FINER] Initializing mod_CodeChickenCore
+2012-09-18 08:21:59 [INFO] Loaded codechicken.wirelessredstone.core.CommandFreq
+2012-09-18 08:21:59 [FINER] Initializing mod_MinecraftForge
+2012-09-18 08:21:59 [FINER] Initializing mod_BuildCraftTransport
+2012-09-18 08:21:59 [FINER] Initializing mod_AdditionalPipes
+2012-09-18 08:21:59 [FINER] Initializing Balkon's WeaponMod
+2012-09-18 08:21:59 [FINER] Initializing mod_RedPowerLogic
+2012-09-18 08:21:59 [FINER] Initializing mod_RedPowerLighting
+2012-09-18 08:21:59 [FINER] Initializing mod_RedPowerWiring
+2012-09-18 08:21:59 [FINER] Initializing mod_RedPowerCore
+2012-09-18 08:21:59 [FINER] Initializing mod_RedPowerMachine
+2012-09-18 08:21:59 [FINER] Initializing mod_RedPowerWorld
+2012-09-18 08:21:59 [FINER] Initializing mod_ComputerCraft
+2012-09-18 08:21:59 [FINER] Initializing mod_CCTurtle
+2012-09-18 08:21:59 [FINER] Initializing mod_EE
+2012-09-18 08:21:59 [FINER] Initializing mod_EnderStorage
+2012-09-18 08:21:59 [INFO] CONFLICT @ -78 item slot already occupied by net.minecraft.server.ItemBlock@16c8cb41 while adding codechicken.enderstorage.ItemEnderChest@58982416
+2012-09-18 08:21:59 [FINER] Initializing mod_NotEnoughItems
+2012-09-18 08:21:59 [INFO] CONFLICT @ -204 item slot already occupied by net.minecraft.server.ItemWithAuxData@1b45fed7 while adding net.minecraft.server.ItemMobSpawner@105de33e
+2012-09-18 08:21:59 [FINER] Initializing mod_BuildCraftEnergy
+2012-09-18 08:21:59 [FINER] Initializing mod_BuildCraftCore
+2012-09-18 08:21:59 [FINER] Initializing mod_IC2
+2012-09-18 08:21:59 [INFO] [IC2] Config loaded from /home/minecraft/server/tekkit_creative/./config/IC2.cfg
+2012-09-18 08:22:00 [FINER] Initializing mod_PowerConverters
+2012-09-18 08:22:00 [FINER] Initializing mod_Railcraft
+2012-09-18 08:22:00 [FINER] Railcraft Core Module: Bronze detected, adding alternative minecart recipe: {0}, id={1}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:00 [FINER] Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id={0}
+2012-09-18 08:22:00 [FINER] Railcraft Factory Module: Bronze detected, adding alternative recipes: {0}, id={1}
+2012-09-18 08:22:00 [FINER] Railcraft Factory Module: Refined Iron detected, adding alternative recipes: {0}, id={1}
+2012-09-18 08:22:00 [FINER] Initializing mod_WirelessRedstoneCore
+2012-09-18 08:22:00 [FINER] Initializing mod_WirelessRedstoneAddons
+2012-09-18 08:22:00 [FINER] Initializing mod_WirelessRedstoneRedPower
+2012-09-18 08:22:00 [INFO] RedPowerCore: MinecraftForge minor version mismatch, expecting 3.1.x, may lead to unexpected behavior
+2012-09-18 08:22:00 [FINER] Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id={0}
+2012-09-18 08:22:00 [FINE] Starting BuildCraft 2.2.14
+2012-09-18 08:22:00 [FINE] Copyright (c) SpaceToad, 2011
+2012-09-18 08:22:00 [FINE] http://www.mod-buildcraft.com
+2012-09-18 08:22:00 [INFO] Starting BuildCraft 2.2.14
+2012-09-18 08:22:00 [INFO] Copyright (c) SpaceToad, 2011
+2012-09-18 08:22:00 [INFO] http://www.mod-buildcraft.com
+2012-09-18 08:22:00 [FINER] Initializing mod_IC2AdvancedMachines
+2012-09-18 08:22:00 [FINER] Initializing mod_BuildCraftFactory
+2012-09-18 08:22:00 [FINER] Initializing mod_BuildCraftBuilders
+2012-09-18 08:22:00 [FINER] Initializing mod_ccSensors
+2012-09-18 08:22:00 [INFO] CONFLICT @ 1237 item slot already occupied by ccSensors.shared.ItemWiFiTransmitter@4cb351a0 while adding ccSensors.shared.ItemWiFiTransmitter@10b406b7
+2012-09-18 08:22:00 [INFO] CONFLICT @ -41 item slot already occupied by ccSensors.shared.ItemComputerSensorBlock@9e0e817 while adding net.minecraft.server.ItemBlock@ca54312
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: Buildcraft
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: IndustrialCraft2
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: Forestry
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: mod_Forestry not found - SensorModule is disabled.
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: RedPower2
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: EquivalentExchange
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: APS
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: mod_BuildcraftAPS not found - SensorModule is disabled.
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: Loading SensorModule: APS
+2012-09-18 08:22:00 [INFO] [ccSensors] INFO: mod_ThaumCraft not found - SensorModule is disabled.
+2012-09-18 08:22:00 [FINER] Initializing mod_ImmibisCore
+2012-09-18 08:22:00 [FINER] Initializing mod_ModularForceFieldSystem
+2012-09-18 08:22:00 [FINER] Initializing mod_IC2NuclearControl
+2012-09-18 08:22:00 [FINER] Initializing mod_NetherOres
+2012-09-18 08:22:00 [FINER] Initializing mod_IC2_ChargingBench
+2012-09-18 08:22:00 [FINER] Initializing mod_CompactSolars
+2012-09-18 08:22:00 [INFO] CompactSolars: MinecraftForge minor version mismatch, expecting 3.2.x, may lead to unexpected behavior
+2012-09-18 08:22:00 [FINER] Initializing mod_IronChest
+2012-09-18 08:22:00 [FINER] Initializing mod_RedPowerControl
+2012-09-18 08:22:00 [FINER] Initializing mod_TubeStuff
+2012-09-18 08:22:00 [FINER] Initializing mod_ImmiChunkLoaders
+2012-09-18 08:22:00 [FINE] Mod initialization complete
+2012-09-18 08:22:00 [FINE] Beginning mod post-initialization
+2012-09-18 08:22:00 [FINER] Post-initializing mod_CodeChickenCore
+2012-09-18 08:22:00 [FINER] Post-initializing mod_MinecraftForge
+2012-09-18 08:22:00 [FINER] Post-initializing mod_BuildCraftTransport
+2012-09-18 08:22:00 [FINER] Post-initializing mod_AdditionalPipes
+2012-09-18 08:22:00 [FINER] Post-initializing Balkon's WeaponMod
+2012-09-18 08:22:00 [FINER] Post-initializing mod_RedPowerLogic
+2012-09-18 08:22:00 [FINER] Post-initializing mod_RedPowerLighting
+2012-09-18 08:22:00 [FINER] Post-initializing mod_RedPowerWiring
+2012-09-18 08:22:00 [FINER] Post-initializing mod_RedPowerCore
+2012-09-18 08:22:00 [FINER] Post-initializing mod_RedPowerMachine
+2012-09-18 08:22:01 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:01 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:01 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:01 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-09-18 08:22:01 [FINER] Post-initializing mod_RedPowerWorld
+2012-09-18 08:22:01 [FINER] Post-initializing mod_ComputerCraft
+2012-09-18 08:22:01 [FINER] Post-initializing mod_CCTurtle
+2012-09-18 08:22:01 [INFO] ComputerCraft: turtleBlockID 216
+2012-09-18 08:22:01 [INFO] CONFLICT @ -40 item slot already occupied by dan200.turtle.shared.ItemTurtle@6312994d while adding net.minecraft.server.ItemBlock@5a0ec10b
+2012-09-18 08:22:01 [FINER] Post-initializing mod_EE
+2012-09-18 08:22:01 [FINER] Post-initializing mod_EnderStorage
+2012-09-18 08:22:01 [FINER] Post-initializing mod_NotEnoughItems
+2012-09-18 08:22:01 [FINER] Post-initializing mod_BuildCraftEnergy
+2012-09-18 08:22:01 [FINER] Post-initializing mod_BuildCraftCore
+2012-09-18 08:22:01 [FINER] Post-initializing mod_IC2
+2012-09-18 08:22:01 [INFO] [IC2] Loading IC2 submodule: bcIntegration22x
+2012-09-18 08:22:01 [INFO] [IC2] BuildCraft integration module loaded
+2012-09-18 08:22:01 [INFO] [IC2] Loaded minor compatibility modules: none
+2012-09-18 08:22:01 [FINER] Post-initializing mod_PowerConverters
+2012-09-18 08:22:01 [FINER] Post-initializing mod_Railcraft
+2012-09-18 08:22:01 [FINER] Post-initializing mod_WirelessRedstoneCore
+2012-09-18 08:22:01 [FINER] Post-initializing mod_WirelessRedstoneAddons
+2012-09-18 08:22:01 [FINER] Post-initializing mod_WirelessRedstoneRedPower
+2012-09-18 08:22:01 [FINER] Post-initializing mod_IC2AdvancedMachines
+2012-09-18 08:22:01 [FINER] Post-initializing mod_BuildCraftFactory
+2012-09-18 08:22:01 [FINER] Post-initializing mod_BuildCraftBuilders
+2012-09-18 08:22:01 [FINER] Post-initializing mod_ccSensors
+2012-09-18 08:22:01 [FINER] Post-initializing mod_ImmibisCore
+2012-09-18 08:22:01 [FINER] Post-initializing mod_ModularForceFieldSystem
+2012-09-18 08:22:01 [FINER] Post-initializing mod_IC2NuclearControl
+2012-09-18 08:22:01 [FINER] Post-initializing mod_NetherOres
+2012-09-18 08:22:01 [FINER] Post-initializing mod_IC2_ChargingBench
+2012-09-18 08:22:01 [FINER] Post-initializing mod_CompactSolars
+2012-09-18 08:22:01 [FINER] Post-initializing mod_IronChest
+2012-09-18 08:22:01 [FINE] mod_IronChest registered chests with Equivalent Exchange
+2012-09-18 08:22:01 [FINER] Post-initializing mod_RedPowerControl
+2012-09-18 08:22:01 [FINER] Post-initializing mod_TubeStuff
+2012-09-18 08:22:01 [FINER] Post-initializing mod_ImmiChunkLoaders
+2012-09-18 08:22:01 [FINE] Mod post-initialization complete
+2012-09-18 08:22:01 [INFO] Forge Mod Loader load complete, 38 mods loaded
+2012-09-18 08:22:01 [INFO] This server is running CraftBukkit version git-Bukkit-jenkins-CraftBukkit-173 (MC: 1.2.5) (Implementing API version 1.2.5-R4.1-MCPC-SNAPSHOT)
+2012-09-18 08:22:01 [INFO] Loading mod_WirelessRedstoneAddons vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_IronChest vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_IC2_ChargingBench vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_BuildCraftEnergy vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerWiring vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_MinecraftForge vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerControl vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_BuildCraftCore vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_ImmibisCore vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_BuildCraftFactory vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_IC2 vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_BuildCraftBuilders vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerMachine vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerLighting vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_NetherOres vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerWorld vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_ComputerCraft vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_EE vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_TubeStuff vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_BuildCraftTransport vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_NotEnoughItems vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_PowerConverters vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_AdditionalPipes vForgeMod
+2012-09-18 08:22:01 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-18 08:22:01 [INFO] Loading mod_IC2AdvancedMachines vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_CCTurtle vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_Railcraft vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerCore vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_RedPowerLogic vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_IC2NuclearControl vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_WirelessRedstoneRedPower vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_ModularForceFieldSystem vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_ImmiChunkLoaders vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_ccSensors vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_CompactSolars vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_EnderStorage vForgeMod
+2012-09-18 08:22:01 [INFO] Loading Balkon's WeaponMod vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_CodeChickenCore vForgeMod
+2012-09-18 08:22:01 [INFO] Loading mod_WirelessRedstoneCore vForgeMod
+2012-09-18 08:22:01 [INFO] Preparing level "world"
+2012-09-18 08:22:01 [INFO] Default game type: 1
+2012-09-18 08:22:01 [INFO] Registering world world, dimension 0, of providertype net.minecraft.server.WorldProviderNormal@7d2fbfd0(0) with Minecraft Forge
+2012-09-18 08:22:01 [INFO] Registering world world_the_end, dimension 1, of providertype net.minecraft.server.WorldProviderTheEnd@36927b70(0) with Minecraft Forge
+2012-09-18 08:22:01 [INFO] Registering world world_nether, dimension -1, of providertype net.minecraft.server.WorldProviderHell@1edb4489(0) with Minecraft Forge
+2012-09-18 08:22:01 [INFO] Preparing start region for level 0 (Seed: -7665199632819359960)
+2012-09-18 08:22:02 [INFO] Preparing start region for level 1 (Seed: -7665199632819359960)
+2012-09-18 08:22:02 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: FileNotFoundException
+2012-09-18 08:22:02 [INFO] Preparing spawn area: 28%
+2012-09-18 08:22:03 [INFO] Preparing start region for level 2 (Seed: -7665199632819359960)
+2012-09-18 08:22:03 [INFO] Preparing spawn area: 73%
+2012-09-18 08:22:03 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-18 08:22:03 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-18 08:22:04 [WARNING] [xServer] Could not save config.yml to plugins/xServer/config.yml because config.yml already exists.
+2012-09-18 08:22:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-18 08:22:04 [INFO] [xServer] Client connected to localhost:33777
+2012-09-18 08:22:04 [INFO] Done (2.522s)! For help, type "help" or "?"
+2012-09-18 08:22:04 [INFO] Unknown command. Type "help" for help.[m
+2012-09-18 08:22:04 [INFO] CONSOLE: Enabling level saving..[m
+2012-09-18 08:22:04 [INFO] Unknown command. Type "help" for help.[m
+2012-09-18 08:22:04 [INFO] CONSOLE: Forcing save..[m
+2012-09-18 08:22:04 [INFO] CONSOLE: Save complete.[m
+2012-09-18 08:22:04 [INFO] Unknown command. Type "help" for help.[m
+2012-09-18 08:22:04 [INFO] [35;1m[Server] Backup complete[m
+2012-09-18 08:22:04 [FINER] Railcraft IC2 Module {0}: IC2 Detected, creating MFE Cart and Energy Loader recipes.
+2012-09-18 08:22:04 [FINEST] [Railcraft] Loaded 0 saved Anchors
+2012-09-18 08:22:04 [INFO] [Railcraft] Loaded 0 saved Anchors
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-RP2 Core Addon
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-RP2 Core Addon
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-RP2 World Addon
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-09-18 08:22:04 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-09-18 08:22:10 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-18 12:01:59 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:05:40 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:06:04 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:06:40 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:06:57 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:07:57 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:08:09 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:12:18 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:13:27 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:14:09 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:19:30 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:24:05 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:27:26 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:49:44 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 12:52:51 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 12:57:36 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 13:53:32 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-18 14:15:17 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 14:15:21 [INFO] [Tekkit-R] lluoc: hey[m
+2012-09-18 14:15:28 [INFO] [Tekkit-R] hornetblack: hey[m
+2012-09-18 14:16:10 [INFO] [Tekkit-R] lluoc: by the way, once yoiu get a quarry up, do you want to be connected into someones power grid?[m
+2012-09-18 14:16:25 [INFO] [Tekkit-R] lluoc: they are kind of annoying to run in the beginning[m
+2012-09-18 14:16:52 [INFO] [Tekkit-R] hornetblack: That sounds nice.[m
+2012-09-18 14:17:19 [INFO] [Tekkit-R] lluoc: k, bring it up with me or taylor when you get there. Maybe nelly too[m
+2012-09-18 14:20:56 [INFO] [Tekkit-R] lluoc: oh... consoling time. need a screenshot[m
+2012-09-18 14:26:23 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-18 14:26:46 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 14:33:09 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 14:47:04 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 15:02:09 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 15:03:33 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 15:04:52 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 15:18:02 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 15:21:37 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 15:21:55 [INFO] [Tekkit-R] ozymandias12345 has joined the game[m
+2012-09-18 15:22:21 [INFO] [Tekkit-R] ozymandias12345: sleep[m
+2012-09-18 15:22:26 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 15:22:35 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 15:24:01 [INFO] [Tekkit-R] ozymandias12345 died[m
+2012-09-18 15:24:51 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 15:33:16 [INFO] [Tekkit-R] ozymandias12345: zzzzzz[m
+2012-09-18 15:43:56 [INFO] [Tekkit-R] ozymandias12345: zzz[m
+2012-09-18 16:03:28 [INFO] [Tekkit-R] ozymandias12345 died[m
+2012-09-18 16:06:28 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-18 16:06:46 [INFO] [Tekkit-R] lluoc: ohhh[m
+2012-09-18 16:06:54 [INFO] [Tekkit-R] lluoc: well shit[m
+2012-09-18 16:07:11 [INFO] [Tekkit-R] lluoc: I was wondering why my quarry was stuck[m
+2012-09-18 16:07:24 [INFO] [Tekkit-R] lluoc: there is lava to one side and water in the quarry.[m
+2012-09-18 16:07:43 [INFO] [Tekkit-R] lluoc: its makde a perpetual cobble machine...[m
+2012-09-18 16:07:51 [INFO] [Tekkit-R] ozymandias12345: nice[m
+2012-09-18 16:14:06 [INFO] [Tekkit-R] ozymandias12345 has left the game[m
+2012-09-18 16:14:14 [INFO] [Tekkit-R] ozymandias12345 has joined the game[m
+2012-09-18 16:20:21 [INFO] [Tekkit-R] ozymandias12345: for the love og god sleep[m
+2012-09-18 16:20:25 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-18 16:20:38 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-18 16:20:45 [INFO] [Tekkit-R] lluoc: say zzz[m
+2012-09-18 16:22:29 [INFO] [Tekkit-R] ozymandias12345 has left the game[m
+2012-09-18 16:27:58 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-18 16:42:07 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-18 17:14:14 [INFO] [Tekkit-R] lluoc: who ius this?[m
+2012-09-18 17:15:08 [INFO] [Tekkit-R] lluoc: sick so I'm home[m
+2012-09-18 17:15:26 [INFO] [Tekkit-R] lluoc: also, taylor?[m
+2012-09-18 17:16:03 [INFO] [Tekkit-R] lluoc: I'll let you know tommorrow. Its nt a flu like sick. Weirdly low blood pressure[m
+2012-09-18 17:16:09 [INFO] [Tekkit-R] lluoc: yes...[m
+2012-09-18 17:16:17 [INFO] [Tekkit-R] lluoc: terribly inefficient'[m
+2012-09-18 17:17:24 [INFO] [Tekkit-R] lluoc: true true[m
+2012-09-18 17:24:36 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-18 17:28:49 [INFO] lluoc [/14.200.158.249:54664] logged in with entity id 207 at ([world] 642.8143040666284, 74.63172773251719, 114.4121544354513)
+2012-09-18 17:28:50 [INFO] lluoc joined with: [CodeChickenCore 0.5.3, MinecraftForge 3.3.8.164, NotEnoughItems 1.2.2.4, ReiMinimap v3.2_04 [1.2.5], IC2 v1.97, IC2AdvancedMachines v4.0, BuildCraftCore 2.2.14, BuildCraftBuilders 2.2.14, BuildCraftEnergy 2.2.14, BuildCraftFactory 2.2.14, BuildCraftTransport 2.2.14, AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75), ComputerCraft 1.33, RedPowerMachine 2.0pr5b2, ccSensors MC1.2.5 Build017pr1, CCTurtle 1.33, EE 1.4.6.5, EnderStorage 1.1.3, IC2NuclearControl v1.1.10, ImmibisCore 49.1.1, InvTweaks 1.41b (1.2.4), MAtmos_forModLoader r12 for 1.1.x, ModularForceFieldSystem rev7, IC2_ChargingBench 1.95b, CompactSolars 2.3.2, IronChest 3.8, RedPowerCore 2.0pr5b2, NetherOres 1.2.5R1.2.2, PowerConverters 1.2.5R1.3.4, Railcraft 5.3.3, RedPowerControl 2.0pr5b2, RedPowerLighting 2.0pr5b2, RedPowerLogic 2.0pr5b2, RedPowerWiring 2.0pr5b2, RedPowerWorld 2.0pr5b2, TubeStuff 49.1.2, Balkon's WeaponMod 1.2.5 v8.6.0, WirelessRedstoneCore 1.2.2.3, WirelessRedstoneAddons 1.2.2.3, WirelessRedstoneRedPower 1.2.2.1, ImmiChunkLoaders rev3.2]
+2012-09-18 17:28:50 [INFO] Sending serverside check to: lluoc
+2012-09-18 17:29:52 [INFO] Giving lluoc 64 of Automatic Crafting Table MkII
+2012-09-18 17:31:22 [INFO] Giving lluoc 64 of Filter
+2012-09-18 17:32:37 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 17:32:37 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 17:33:19 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 17:34:05 [INFO] slotChanging(6)
+2012-09-18 17:34:07 [INFO] slotChanging(6)
+2012-09-18 17:34:07 [INFO] slotChanging(0)
+2012-09-18 17:34:08 [INFO] slotChanging(6)
+2012-09-18 17:34:09 [INFO] slotChanging(0)
+2012-09-18 17:34:10 [INFO] slotChanging(0)
+2012-09-18 17:34:21 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 17:34:28 [INFO] slotChanging(0)
+2012-09-18 17:34:42 [INFO] slotChanging(0)
+2012-09-18 17:35:00 [INFO] Giving lluoc 64 of Button
+2012-09-18 17:35:55 [INFO] slotChanging(0)
+2012-09-18 17:36:03 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:36:08 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:36:13 [INFO] slotChanging(4)
+2012-09-18 17:36:13 [INFO] slotChanging(5)
+2012-09-18 17:36:14 [INFO] slotChanging(6)
+2012-09-18 17:36:14 [INFO] slotChanging(38)
+2012-09-18 17:36:16 [INFO] slotChanging(1)
+2012-09-18 17:36:17 [INFO] slotChanging(2)
+2012-09-18 17:36:17 [INFO] slotChanging(3)
+2012-09-18 17:36:18 [INFO] slotChanging(7)
+2012-09-18 17:36:18 [INFO] slotChanging(8)
+2012-09-18 17:36:18 [INFO] slotChanging(9)
+2012-09-18 17:36:19 [INFO] slotChanging(49)
+2012-09-18 17:37:25 [INFO] Giving lluoc 64 of Chest
+2012-09-18 17:38:01 [INFO] slotChanging(0)
+2012-09-18 17:38:24 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 17:38:28 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 17:39:34 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 17:40:27 [INFO] slotChanging(4)
+2012-09-18 17:40:28 [INFO] slotChanging(5)
+2012-09-18 17:40:28 [INFO] slotChanging(6)
+2012-09-18 17:40:30 [INFO] slotChanging(7)
+2012-09-18 17:40:31 [INFO] slotChanging(8)
+2012-09-18 17:40:31 [INFO] slotChanging(9)
+2012-09-18 17:40:32 [INFO] slotChanging(1)
+2012-09-18 17:40:32 [INFO] slotChanging(2)
+2012-09-18 17:40:32 [INFO] slotChanging(3)
+2012-09-18 17:40:45 [INFO] slotChanging(28)
+2012-09-18 17:41:01 [INFO] slotChanging(29)
+2012-09-18 17:41:28 [INFO] Giving lluoc 64 of Automatic Crafting Table
+2012-09-18 17:41:29 [INFO] Giving lluoc 64 of Automatic Crafting Table
+2012-09-18 17:42:37 [INFO] Giving lluoc 64 of LV-Transformer
+2012-09-18 17:42:45 [INFO] Giving lluoc 64 of Engine Generator (MV)
+2012-09-18 17:42:56 [INFO] Giving lluoc 64 of Medium Voltage Solar Array
+2012-09-18 17:43:17 [INFO] Giving lluoc 64 of Golden Conductive Pipe
+2012-09-18 17:44:29 [INFO] Giving lluoc infinite Copper Ingot
+2012-09-18 17:44:30 [INFO] Giving lluoc infinite Copper Ingot
+2012-09-18 17:44:33 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:44:35 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:44:37 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:44:40 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:44:47 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:44:48 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:44:49 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:44:49 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:44:50 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:45:42 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 17:46:49 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 17:46:54 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 17:47:24 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 17:50:17 [INFO] Giving lluoc 64 of Sorting Machine
+2012-09-18 17:52:29 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:52:41 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:52:57 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 17:53:14 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:53:15 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 17:53:15 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 18:01:34 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 18:01:47 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 18:04:35 [INFO] Giving lluoc 64 of Tin Ingot
+2012-09-18 18:05:53 [INFO] Giving lluoc 64 of Cobblestone Waterproof Pipe
+2012-09-18 18:05:58 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 18:08:04 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 18:10:00 [INFO] Giving lluoc 64 of BatBox
+2012-09-18 18:10:14 [INFO] Giving lluoc 64 of Solar Panel
+2012-09-18 18:10:33 [INFO] Giving lluoc 64 of Battery Box
+2012-09-18 18:11:18 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 18:11:20 [INFO] Giving lluoc 1 of Magenta Paint Brush
+2012-09-18 18:12:11 [INFO] Giving lluoc 64 of Sorting Machine
+2012-09-18 18:12:23 [INFO] Giving lluoc 64 of Chest
+2012-09-18 18:13:27 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 18:13:27 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 18:14:07 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 18:14:44 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 18:14:53 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 18:15:16 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 18:15:26 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 18:16:22 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 18:17:48 [INFO] Giving lluoc 64 of Sorting Machine
+2012-09-18 18:19:03 [INFO] Giving lluoc 64 of Battery Box
+2012-09-18 18:19:05 [INFO] Giving lluoc 64 of Battery Box
+2012-09-18 18:19:29 [INFO] Giving lluoc 64 of Solar Panel
+2012-09-18 18:27:36 [INFO] Giving lluoc 1 of Mining Laser
+2012-09-18 18:28:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:28:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:28:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:28:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:28:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:52 [INFO] Giving lluoc 1 of Mining Laser
+2012-09-18 18:29:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:29:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:30:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:32 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 18:31:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:49 [INFO] Giving lluoc 64 of Chest
+2012-09-18 18:31:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:31:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:07 [INFO] Giving lluoc 64 of Transposer
+2012-09-18 18:32:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:32:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:19 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 18:33:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:31 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 18:33:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:33:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:00 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 18:34:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:34:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:35:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:35:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:35:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-18 18:36:22 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 18:37:14 [INFO] Giving lluoc 64 of Timer
+2012-09-18 18:38:01 [INFO] Giving lluoc 64 of Sorting Machine
+2012-09-18 18:38:50 [INFO] Giving lluoc 64 of Battery Box
+2012-09-18 18:39:28 [INFO] Giving lluoc 64 of Solar Panel
+2012-09-18 18:43:42 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 18:43:46 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 18:43:47 [INFO] Giving lluoc 1 of Light Blue Paint Brush
+2012-09-18 18:43:54 [INFO] Giving lluoc 64 of Paint Brush
+2012-09-18 18:46:05 [INFO] Giving lluoc 1 of Green Paint Brush
+2012-09-18 18:47:36 [INFO] Giving lluoc 64 of Crystal Chest
+2012-09-18 18:48:59 [INFO] Giving lluoc 1 of Sign
+2012-09-18 18:49:44 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 18:49:50 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 18:49:59 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 18:50:50 [INFO] Giving lluoc 64 of Blue Alloy Wire
+2012-09-18 18:51:18 [INFO] Giving lluoc 64 of Blue Alloy Wire
+2012-09-18 18:53:09 [INFO] Giving lluoc 64 of Automatic Crafting Table
+2012-09-18 18:54:11 [INFO] Giving lluoc 64 of Copper
+2012-09-18 18:55:28 [INFO] Giving lluoc 64 of Automatic Crafting Table MkII
+2012-09-18 18:55:41 [INFO] slotChanging(3)
+2012-09-18 18:55:41 [INFO] slotChanging(2)
+2012-09-18 18:55:42 [INFO] slotChanging(1)
+2012-09-18 18:55:42 [INFO] slotChanging(7)
+2012-09-18 18:55:42 [INFO] slotChanging(8)
+2012-09-18 18:55:43 [INFO] slotChanging(9)
+2012-09-18 18:55:44 [INFO] slotChanging(4)
+2012-09-18 18:55:44 [INFO] slotChanging(5)
+2012-09-18 18:55:45 [INFO] slotChanging(6)
+2012-09-18 18:55:59 [INFO] slotChanging(37)
+2012-09-18 18:56:00 [INFO] slotChanging(37)
+2012-09-18 18:56:01 [INFO] slotChanging(37)
+2012-09-18 18:56:02 [INFO] slotChanging(37)
+2012-09-18 18:56:03 [INFO] slotChanging(38)
+2012-09-18 18:56:04 [INFO] slotChanging(38)
+2012-09-18 18:56:05 [INFO] slotChanging(38)
+2012-09-18 18:56:06 [INFO] slotChanging(38)
+2012-09-18 18:56:07 [INFO] slotChanging(38)
+2012-09-18 18:56:08 [INFO] slotChanging(38)
+2012-09-18 18:56:09 [INFO] slotChanging(38)
+2012-09-18 18:56:10 [INFO] slotChanging(37)
+2012-09-18 18:56:11 [INFO] slotChanging(37)
+2012-09-18 18:56:29 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 18:56:39 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 18:58:11 [INFO] Giving lluoc 64 of Automatic Crafting Table
+2012-09-18 19:00:16 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 19:04:29 [INFO] Giving lluoc 64 of Blue Alloy Wire
+2012-09-18 19:11:43 [INFO] Giving lluoc infinite Redstone
+2012-09-18 19:11:44 [INFO] Giving lluoc infinite Redstone
+2012-09-18 19:11:47 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:47 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:48 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:52 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:53 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:53 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:54 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:11:55 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 19:12:19 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 19:12:34 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 19:12:35 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 19:14:18 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:15:35 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 19:15:37 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 19:15:52 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:16:02 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:16:45 [INFO] Giving lluoc 64 of Automatic Crafting Table
+2012-09-18 19:17:40 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 19:17:48 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 19:19:37 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 19:19:58 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 19:21:27 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 19:22:08 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:29:10 [INFO] Giving lluoc 1 of Sign
+2012-09-18 19:30:13 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 19:30:22 [INFO] Giving lluoc 64 of Tin Ingot
+2012-09-18 19:31:32 [INFO] Giving lluoc 1 of Green Paint Brush
+2012-09-18 19:35:30 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 19:36:45 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 19:37:22 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 19:39:21 [INFO] Giving lluoc 1 of Magenta Paint Brush
+2012-09-18 19:39:55 [INFO] Giving lluoc 64 of Glass
+2012-09-18 19:40:15 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-18 19:42:24 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:43:37 [INFO] Giving lluoc 64 of Golden Waterproof Pipe
+2012-09-18 19:43:40 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 19:44:18 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 19:44:30 [INFO] Giving lluoc 64 of Wooden Planks
+2012-09-18 19:45:22 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 19:45:36 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 19:46:04 [INFO] Giving lluoc 1 of Yellow Paint Brush
+2012-09-18 19:46:18 [INFO] Giving lluoc 64 of Crystal Chest
+2012-09-18 19:46:48 [INFO] Giving lluoc 64 of Stone Waterproof Pipe
+2012-09-18 19:46:57 [INFO] Giving lluoc 64 of Stone Waterproof Pipe
+2012-09-18 19:47:04 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 19:47:34 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 19:50:30 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 19:50:38 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 19:51:09 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:54:10 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 19:56:56 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 19:57:56 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 19:58:49 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-18 19:59:14 [INFO] Giving lluoc 1 of Pink Paint Brush
+2012-09-18 19:59:29 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-18 19:59:59 [INFO] Giving lluoc 1 of Gray Paint Brush
+2012-09-18 20:00:37 [INFO] Giving lluoc infinite Redstone
+2012-09-18 20:05:41 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 20:14:02 [INFO] Giving lluoc infinite Redstone
+2012-09-18 20:14:05 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 20:14:28 [INFO] Giving lluoc 64 of Tin Ingot
+2012-09-18 20:15:11 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 20:16:47 [INFO] Giving lluoc 1 of Magenta Paint Brush
+2012-09-18 20:18:23 [INFO] Giving lluoc 64 of Chest
+2012-09-18 20:18:50 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 20:19:04 [INFO] Giving lluoc 64 of Tin Ingot
+2012-09-18 20:19:18 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 20:19:34 [INFO] Giving lluoc 64 of Copper Ingot
+2012-09-18 20:19:50 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 20:20:17 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-18 20:22:21 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 20:23:07 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 20:26:30 [INFO] Giving lluoc 1 of RE-Battery
+2012-09-18 20:26:38 [INFO] Giving lluoc 64 of Furnace
+2012-09-18 20:26:50 [INFO] Giving lluoc 64 of Machine Block
+2012-09-18 20:29:08 [INFO] Giving lluoc 64 of Copper Dust
+2012-09-18 20:29:19 [INFO] Giving lluoc 64 of Coal
+2012-09-18 20:29:23 [INFO] Giving lluoc 64 of Furnace
+2012-09-18 20:29:50 [INFO] Giving lluoc 64 of Copper
+2012-09-18 20:31:38 [INFO] Giving lluoc 16 of RE-Battery
+2012-09-18 20:33:35 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 20:33:35 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-18 20:33:41 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 20:33:42 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 20:33:47 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 20:33:47 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 20:34:09 [INFO] Giving lluoc 1 of Light Blue Paint Brush
+2012-09-18 20:35:43 [INFO] Giving lluoc 1 of Mining Laser
+2012-09-18 20:37:02 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 20:38:23 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 20:39:11 [INFO] Giving lluoc 64 of Wooden Planks
+2012-09-18 20:39:26 [INFO] Giving lluoc 64 of Copper
+2012-09-18 20:40:05 [INFO] Giving lluoc 64 of Wooden Planks
+2012-09-18 20:40:20 [INFO] Giving lluoc 1 of Yellow Paint Brush
+2012-09-18 20:41:31 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 20:41:55 [INFO] Giving lluoc 64 of Glass
+2012-09-18 20:42:04 [INFO] Giving lluoc 64 of Electronic Circuit
+2012-09-18 20:42:15 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-18 20:42:27 [INFO] Giving lluoc 64 of Generator
+2012-09-18 20:43:47 [INFO] Giving lluoc 1 of Lime Paint Brush
+2012-09-18 20:44:20 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 20:44:24 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 20:44:53 [INFO] Giving lluoc 64 of Solar Panel
+2012-09-18 20:45:04 [INFO] Giving lluoc 64 of LV-Transformer
+2012-09-18 20:45:54 [INFO] Giving lluoc 64 of Chest
+2012-09-18 20:47:38 [INFO] Giving lluoc 64 of Copper
+2012-09-18 20:48:11 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 20:48:14 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 20:48:32 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-18 20:48:55 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-18 20:49:07 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 20:49:07 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 20:49:22 [INFO] Giving lluoc 64 of Glass
+2012-09-18 20:49:40 [INFO] Giving lluoc 64 of Tin
+2012-09-18 20:49:48 [INFO] Giving lluoc 64 of Wooden Planks
+2012-09-18 20:49:58 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 20:51:15 [INFO] Giving lluoc 64 of Copper
+2012-09-18 20:51:15 [INFO] Giving lluoc 64 of Copper
+2012-09-18 20:51:16 [INFO] Giving lluoc 64 of Copper
+2012-09-18 20:52:57 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 20:53:11 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 20:58:29 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:02:04 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 21:05:00 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 21:05:16 [INFO] Giving lluoc 1 of Magenta Paint Brush
+2012-09-18 21:05:45 [INFO] Giving lluoc 1 of Light Blue Paint Brush
+2012-09-18 21:06:54 [INFO] Giving lluoc 1 of Yellow Paint Brush
+2012-09-18 21:09:16 [INFO] Giving lluoc 1 of Lime Paint Brush
+2012-09-18 21:15:02 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 21:15:14 [INFO] <lluoc> want to see something impressove?[m
+2012-09-18 21:15:20 [INFO] Giving lluoc 64 of Blue Alloy Wire
+2012-09-18 21:15:36 [INFO] [Tekkit-R] hornetblack: Me?[m
+2012-09-18 21:15:41 [INFO] <lluoc> ya[m
+2012-09-18 21:15:55 [INFO] [Tekkit-R] hornetblack: sure[m
+2012-09-18 21:16:10 [INFO] <lluoc> come to the creative server (blocksoc.net:25562)[m
+2012-09-18 21:16:20 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 21:16:46 [INFO] hornetblack [/121.44.237.159:59819] logged in with entity id 236442 at ([world] 244.5, 6.620000004768372, 217.5)
+2012-09-18 21:16:46 [INFO] hornetblack joined with: [CodeChickenCore 0.5.3, MinecraftForge 3.3.8.164, NotEnoughItems 1.2.2.4, IC2 v1.97, IC2AdvancedMachines v4.0, ComputerCraft 1.33, CCTurtle 1.33, EE 1.4.6.5, EnderStorage 1.1.3, IC2NuclearControl v1.1.10, InvTweaks 1.41b (1.2.4), MAtmos_forModLoader r12 for 1.1.x, RedPowerCore 2.0pr5b2, NetherOres 1.2.5R1.2.2, BuildCraftCore 2.2.14, BuildCraftEnergy 2.2.14, PowerConverters 1.2.5R1.3.4, Railcraft 5.3.3, RedPowerControl 2.0pr5b2, RedPowerLighting 2.0pr5b2, RedPowerLogic 2.0pr5b2, RedPowerMachine 2.0pr5b2, RedPowerWiring 2.0pr5b2, RedPowerWorld 2.0pr5b2, WirelessRedstoneCore 1.2.2.3, WirelessRedstoneAddons 1.2.2.3, WirelessRedstoneRedPower 1.2.2.1, Balkon's WeaponMod 1.2.5 v8.6.0, ReiMinimap v3.2_04 [1.2.5], BuildCraftBuilders 2.2.14, BuildCraftFactory 2.2.14, BuildCraftTransport 2.2.14, AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75), ccSensors MC1.2.5 Build017pr1, ImmibisCore 49.1.1, ModularForceFieldSystem rev7, IC2_ChargingBench 1.95b, CompactSolars 2.3.2, IronChest 3.8, TubeStuff 49.1.2, ImmiChunkLoaders rev3.2]
+2012-09-18 21:16:46 [INFO] Sending serverside check to: hornetblack
+2012-09-18 21:16:53 [INFO] lluoc: Teleporting hornetblack to lluoc[m
+2012-09-18 21:17:14 [INFO] <lluoc> double jumo toto fly[m
+2012-09-18 21:17:33 [INFO] <lluoc> try to guess what it is[m
+2012-09-18 21:18:10 [INFO] <lluoc> not fullw working yet[m
+2012-09-18 21:18:29 [INFO] <lluoc> but once I work out how to send different amount s of copper to different pipes[m
+2012-09-18 21:18:35 [INFO] <lluoc> it will make LV arrays[m
+2012-09-18 21:18:49 [INFO] <hornetblack> Very nice[m
+2012-09-18 21:19:33 [INFO] <hornetblack> Advanced distribution pipe?[m
+2012-09-18 21:19:41 [INFO] <lluoc> ?[m
+2012-09-18 21:19:52 [INFO] <lluoc> Its a mix of build craft and red power pipes[m
+2012-09-18 21:20:05 [INFO] <lluoc> redpower has better pipe sorting[m
+2012-09-18 21:20:06 [INFO] <hornetblack> For sending different amounts of copper to different pipes[m
+2012-09-18 21:20:11 [INFO] <lluoc> MUCH better pipes.[m
+2012-09-18 21:20:25 [INFO] <lluoc> umm, looking it up now[m
+2012-09-18 21:21:00 [INFO] <lluoc> ha ha, thank you[m
+2012-09-18 21:23:28 [INFO] Giving lluoc 1 of Magenta Paint Brush
+2012-09-18 21:23:52 [INFO] Giving lluoc 64 of Advanced Wooden Transport Pipe
+2012-09-18 21:24:37 [INFO] Giving lluoc 1 of Light Blue Paint Brush
+2012-09-18 21:25:15 [INFO] Giving lluoc 1 of Orange Paint Brush
+2012-09-18 21:25:26 [INFO] Connection reset
+2012-09-18 21:25:26 [INFO] hornetblack lost connection: disconnect.quitting
+2012-09-18 21:25:38 [INFO] [Tekkit-R] hornetblack has joined the game[m
+2012-09-18 21:26:54 [INFO] Giving lluoc 64 of Crafting Table
+2012-09-18 21:27:03 [INFO] Giving lluoc 64 of Glass
+2012-09-18 21:27:20 [INFO] Giving lluoc 64 of Iron Ingot
+2012-09-18 21:27:37 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 21:28:37 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 21:28:50 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 21:31:52 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 21:34:27 [INFO] Giving lluoc 64 of Blue Alloy Wire
+2012-09-18 21:39:07 [INFO] Giving lluoc 64 of Copper
+2012-09-18 21:39:16 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:39:21 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:39:44 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 21:52:43 [INFO] Giving lluoc 64 of Copper
+2012-09-18 21:53:54 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:53:54 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:55:27 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 21:55:28 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 21:55:47 [INFO] Giving lluoc infinite Coal Dust
+2012-09-18 21:55:50 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-18 21:56:07 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-18 21:56:20 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:56:20 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 21:56:31 [INFO] Giving lluoc 64 of Glass
+2012-09-18 21:56:49 [INFO] Giving lluoc 64 of Tin Ingot
+2012-09-18 21:56:52 [INFO] Giving lluoc 64 of Tin
+2012-09-18 21:57:04 [INFO] Giving lluoc 64 of Wooden Planks
+2012-09-18 21:57:13 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 21:57:15 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 21:58:57 [INFO] Giving lluoc 64 of Tin
+2012-09-18 21:59:21 [INFO] [Tekkit-R] hornetblack has left the game[m
+2012-09-18 21:59:25 [INFO] hornetblack [/121.44.237.159:60154] logged in with entity id 289034 at ([world] 615.0993841725777, 108.99880380545429, 244.22071084557155)
+2012-09-18 21:59:25 [INFO] hornetblack joined with: [CodeChickenCore 0.5.3, MinecraftForge 3.3.8.164, NotEnoughItems 1.2.2.4, IC2 v1.97, IC2AdvancedMachines v4.0, ComputerCraft 1.33, CCTurtle 1.33, EE 1.4.6.5, EnderStorage 1.1.3, IC2NuclearControl v1.1.10, InvTweaks 1.41b (1.2.4), MAtmos_forModLoader r12 for 1.1.x, RedPowerCore 2.0pr5b2, NetherOres 1.2.5R1.2.2, BuildCraftCore 2.2.14, BuildCraftEnergy 2.2.14, PowerConverters 1.2.5R1.3.4, Railcraft 5.3.3, RedPowerControl 2.0pr5b2, RedPowerLighting 2.0pr5b2, RedPowerLogic 2.0pr5b2, RedPowerMachine 2.0pr5b2, RedPowerWiring 2.0pr5b2, RedPowerWorld 2.0pr5b2, WirelessRedstoneCore 1.2.2.3, WirelessRedstoneAddons 1.2.2.3, WirelessRedstoneRedPower 1.2.2.1, Balkon's WeaponMod 1.2.5 v8.6.0, ReiMinimap v3.2_04 [1.2.5], BuildCraftBuilders 2.2.14, BuildCraftFactory 2.2.14, BuildCraftTransport 2.2.14, AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75), ccSensors MC1.2.5 Build017pr1, ImmibisCore 49.1.1, ModularForceFieldSystem rev7, IC2_ChargingBench 1.95b, CompactSolars 2.3.2, IronChest 3.8, TubeStuff 49.1.2, ImmiChunkLoaders rev3.2]
+2012-09-18 21:59:25 [INFO] Sending serverside check to: hornetblack
+2012-09-18 21:59:31 [INFO] <lluoc> hey[m
+2012-09-18 21:59:35 [INFO] <hornetblack> Hello[m
+2012-09-18 21:59:51 [INFO] <lluoc> apparently there is a 'tin' and a 'tin ingot' item[m
+2012-09-18 22:00:04 [INFO] <lluoc> screwed up most of the filtes[m
+2012-09-18 22:00:06 [INFO] <hornetblack> I think tin is a tin can[m
+2012-09-18 22:00:07 [INFO] <lluoc> filters[m
+2012-09-18 22:00:13 [INFO] <lluoc> nope[m
+2012-09-18 22:00:20 [INFO] <lluoc> search for tin[m
+2012-09-18 22:00:42 [INFO] Giving lluoc 64 of Tin
+2012-09-18 22:01:39 [INFO] <lluoc> sigh[m
+2012-09-18 22:01:44 [INFO] <hornetblack> Woah, I though the world had stopped loading there for a sec[m
+2012-09-18 22:02:02 [INFO] <lluoc> apparently feeding items into a auto table[m
+2012-09-18 22:02:09 [INFO] <lluoc> with mixed pipes[m
+2012-09-18 22:02:34 [INFO] <lluoc> messes with the balancing of multple items.[m
+2012-09-18 22:03:26 [INFO] <lluoc> oh for the love off...[m
+2012-09-18 22:07:34 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 22:07:40 [INFO] Giving lluoc 64 of Stone Waterproof Pipe
+2012-09-18 22:07:41 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 22:08:19 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 22:11:50 [INFO] Giving lluoc 64 of Copper
+2012-09-18 22:11:58 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 22:11:59 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-18 22:12:09 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-18 22:12:16 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-18 22:12:23 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 22:12:23 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 22:12:28 [INFO] Giving lluoc 64 of Glass
+2012-09-18 22:12:35 [INFO] Giving lluoc 64 of Tin
+2012-09-18 22:12:41 [INFO] Giving lluoc 64 of Wooden Planks
+2012-09-18 22:12:47 [INFO] Giving lluoc 64 of Redstone
+2012-09-18 22:37:56 [INFO] Giving lluoc 64 of Crystal Chest
+2012-09-18 22:40:03 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 22:43:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-18 22:43:50 [INFO] Connection reset
+2012-09-18 22:43:57 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-18 22:44:50 [INFO] Connection reset
+2012-09-18 22:44:50 [INFO] hornetblack lost connection: disconnect.quitting
+2012-09-18 22:48:29 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-18 22:48:36 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-18 22:48:38 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-18 22:48:40 [INFO] lluoc [/14.200.158.249:63036] logged in with entity id 353687 at ([world] 534.1918692177214, 72.62380380545414, 275.25603303916347)
+2012-09-18 22:48:41 [INFO] lluoc joined with: [CodeChickenCore 0.5.3, MinecraftForge 3.3.8.164, NotEnoughItems 1.2.2.4, ReiMinimap v3.2_04 [1.2.5], IC2 v1.97, IC2AdvancedMachines v4.0, BuildCraftCore 2.2.14, BuildCraftBuilders 2.2.14, BuildCraftEnergy 2.2.14, BuildCraftFactory 2.2.14, BuildCraftTransport 2.2.14, AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75), ComputerCraft 1.33, RedPowerMachine 2.0pr5b2, ccSensors MC1.2.5 Build017pr1, CCTurtle 1.33, EE 1.4.6.5, EnderStorage 1.1.3, IC2NuclearControl v1.1.10, ImmibisCore 49.1.1, InvTweaks 1.41b (1.2.4), MAtmos_forModLoader r12 for 1.1.x, ModularForceFieldSystem rev7, IC2_ChargingBench 1.95b, CompactSolars 2.3.2, IronChest 3.8, RedPowerCore 2.0pr5b2, NetherOres 1.2.5R1.2.2, PowerConverters 1.2.5R1.3.4, Railcraft 5.3.3, RedPowerControl 2.0pr5b2, RedPowerLighting 2.0pr5b2, RedPowerLogic 2.0pr5b2, RedPowerWiring 2.0pr5b2, RedPowerWorld 2.0pr5b2, TubeStuff 49.1.2, Balkon's WeaponMod 1.2.5 v8.6.0, WirelessRedstoneCore 1.2.2.3, WirelessRedstoneAddons 1.2.2.3, WirelessRedstoneRedPower 1.2.2.1, ImmiChunkLoaders rev3.2]
+2012-09-18 22:48:41 [INFO] Sending serverside check to: lluoc
+2012-09-18 22:49:41 [INFO] Giving lluoc 1 of Mining Laser
+2012-09-18 22:49:42 [INFO] Giving lluoc 1 of Mining Laser
+2012-09-18 22:49:43 [INFO] Giving lluoc 1 of Mining Laser
+2012-09-18 22:50:07 [INFO] Giving lluoc 64 of Orange Wool
+2012-09-18 22:53:24 [INFO] Giving lluoc 64 of Crystal Chest
+2012-09-18 22:53:37 [INFO] Giving lluoc 1 of Chest
+2012-09-18 22:54:30 [INFO] Giving lluoc 64 of Wooden Transport Pipe
+2012-09-18 22:54:32 [INFO] Giving lluoc 64 of Cobblestone Transport Pipe
+2012-09-18 22:54:33 [INFO] Giving lluoc 64 of Stone Transport Pipe
+2012-09-18 22:54:36 [INFO] Giving lluoc 64 of Golden Transport Pipe
+2012-09-18 22:54:44 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 22:54:49 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 22:55:33 [INFO] Giving lluoc 64 of Filter
+2012-09-18 22:55:39 [INFO] Giving lluoc 64 of Transposer
+2012-09-18 22:55:56 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 22:55:57 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 22:56:06 [INFO] Giving lluoc 64 of Redstone Engine
+2012-09-18 22:56:06 [INFO] Giving lluoc 64 of Redstone Torch
+2012-09-18 22:58:57 [INFO] Giving lluoc 64 of Distribution Transport Pipe
+2012-09-18 22:59:00 [INFO] Giving lluoc 64 of Distribution Transport Pipe
+2012-09-18 22:59:09 [INFO] Giving lluoc 64 of Pneumatic Tube
+2012-09-18 23:02:07 [INFO] Giving lluoc 64 of Crystal Chest
+2012-09-18 23:02:45 [INFO] Giving lluoc infinite Orange Wool
+2012-09-18 23:02:45 [INFO] Giving lluoc infinite Magenta Wool
+2012-09-18 23:02:48 [INFO] Giving lluoc infinite Light Blue Wool
+2012-09-18 23:02:49 [INFO] Giving lluoc infinite Yellow Wool
+2012-09-18 23:02:50 [INFO] Giving lluoc infinite Lime Wool
+2012-09-18 23:03:21 [INFO] Giving lluoc infinite Gray Wool
+2012-09-18 23:03:21 [INFO] Giving lluoc infinite Light Gray Wool
+2012-09-18 23:03:22 [INFO] Giving lluoc infinite Purple Wool
+2012-09-18 23:03:22 [INFO] Giving lluoc infinite Blue Wool
+2012-09-18 23:07:09 [INFO] Giving lluoc 64 of Diamond Transport Pipe
+2012-09-18 23:12:18 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-18 23:12:25 [INFO] <lluoc> hey'=[m
+2012-09-18 23:12:38 [INFO] [Tekkit-R] nightkhaos: what ya doing?[m
+2012-09-18 23:12:44 [INFO] <lluoc> ... come to creative[m
+2012-09-18 23:12:54 [INFO] [Tekkit-R] nightkhaos: what have you done?[m
+2012-09-18 23:13:06 [INFO] <lluoc> more tries to do[m
+2012-09-18 23:13:22 [INFO] Giving lluoc 64 of Copper
+2012-09-18 23:13:28 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 23:13:55 [INFO] <lluoc> trying to make a LV array pipeline[m
+2012-09-18 23:14:05 [INFO] [Tekkit-R] nightkhaos: :S[m
+2012-09-18 23:14:17 [INFO] <lluoc> First prototype failed but it does look impressive[m
+2012-09-18 23:14:52 [INFO] <lluoc> problem getting sorting items that are used in mulitple peices[m
+2012-09-18 23:17:28 [INFO] Giving lluoc 1 of Sign
+2012-09-18 23:18:36 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-18 23:19:33 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-18 23:20:38 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-18 23:24:20 [INFO] Giving lluoc 64 of Crafting Table
+2012-09-18 23:24:22 [INFO] Giving lluoc 64 of Automatic Crafting Table
+2012-09-18 23:24:39 [INFO] Giving lluoc 64 of Copper
+2012-09-18 23:24:44 [INFO] Giving lluoc 64 of Rubber
+2012-09-18 23:26:59 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-18 23:26:59 [INFO] Connection reset
+2012-09-19 01:25:00 [INFO] lluoc [/14.200.158.249:49975] logged in with entity id 388999 at ([world] 461.69999998807907, 74.12380380545443, 327.47201249114437)
+2012-09-19 01:25:01 [INFO] lluoc joined with: [CodeChickenCore 0.5.3, MinecraftForge 3.3.8.164, NotEnoughItems 1.2.2.4, ReiMinimap v3.2_04 [1.2.5], IC2 v1.97, IC2AdvancedMachines v4.0, BuildCraftCore 2.2.14, BuildCraftBuilders 2.2.14, BuildCraftEnergy 2.2.14, BuildCraftFactory 2.2.14, BuildCraftTransport 2.2.14, AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75), ComputerCraft 1.33, RedPowerMachine 2.0pr5b2, ccSensors MC1.2.5 Build017pr1, CCTurtle 1.33, EE 1.4.6.5, EnderStorage 1.1.3, IC2NuclearControl v1.1.10, ImmibisCore 49.1.1, InvTweaks 1.41b (1.2.4), MAtmos_forModLoader r12 for 1.1.x, ModularForceFieldSystem rev7, IC2_ChargingBench 1.95b, CompactSolars 2.3.2, IronChest 3.8, RedPowerCore 2.0pr5b2, NetherOres 1.2.5R1.2.2, PowerConverters 1.2.5R1.3.4, Railcraft 5.3.3, RedPowerControl 2.0pr5b2, RedPowerLighting 2.0pr5b2, RedPowerLogic 2.0pr5b2, RedPowerWiring 2.0pr5b2, RedPowerWorld 2.0pr5b2, TubeStuff 49.1.2, Balkon's WeaponMod 1.2.5 v8.6.0, WirelessRedstoneCore 1.2.2.3, WirelessRedstoneAddons 1.2.2.3, WirelessRedstoneRedPower 1.2.2.1, ImmiChunkLoaders rev3.2]
+2012-09-19 01:25:01 [INFO] Sending serverside check to: lluoc
+2012-09-19 01:26:48 [INFO] Giving lluoc 64 of Iron Transport Pipe
+2012-09-19 01:29:44 [INFO] Giving lluoc 64 of Wrench
+2012-09-19 01:30:36 [INFO] Giving lluoc 64 of Rubber
+2012-09-19 01:30:43 [INFO] Giving lluoc 64 of Copper
+2012-09-19 01:31:08 [INFO] Giving lluoc 64 of Copper
+2012-09-19 01:31:14 [INFO] Giving lluoc 64 of Rubber
+2012-09-19 01:32:19 [INFO] Giving lluoc 64 of Wrench
+2012-09-19 01:36:12 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-19 01:40:37 [INFO] Giving lluoc 64 of Iron Transport Pipe
+2012-09-19 01:41:29 [INFO] Giving lluoc 64 of Tin
+2012-09-19 01:42:25 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-19 01:43:31 [INFO] Giving lluoc 64 of Redstone
+2012-09-19 01:49:19 [INFO] Giving lluoc 64 of Redstone
+2012-09-19 01:49:31 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-19 01:49:41 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-19 01:50:26 [INFO] Giving lluoc 64 of Wrench
+2012-09-19 01:51:16 [INFO] Giving lluoc 64 of Iron Transport Pipe
+2012-09-19 01:53:24 [INFO] Giving lluoc 64 of Wrench
+2012-09-19 01:53:48 [INFO] Giving lluoc 64 of Redstone
+2012-09-19 01:53:54 [INFO] Giving lluoc 64 of Copper Cable
+2012-09-19 01:54:02 [INFO] Giving lluoc 64 of Tin
+2012-09-19 01:54:11 [INFO] Giving lluoc 64 of Tin
+2012-09-19 01:56:06 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-19 01:57:08 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-19 01:59:47 [INFO] Giving lluoc 64 of Generator
+2012-09-19 01:59:56 [INFO] Giving lluoc 64 of Furnace
+2012-09-19 02:00:08 [INFO] Giving lluoc 16 of RE-Battery
+2012-09-19 02:00:16 [INFO] Giving lluoc 64 of Machine Block
+2012-09-19 02:02:25 [INFO] Giving lluoc 64 of Glass
+2012-09-19 02:02:32 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-19 02:02:40 [INFO] Giving lluoc 64 of Electronic Circuit
+2012-09-19 02:02:48 [INFO] Giving lluoc 64 of Generator
+2012-09-19 02:03:43 [INFO] Giving lluoc 64 of Chest
+2012-09-19 02:06:25 [INFO] Giving lluoc 64 of Copper
+2012-09-19 02:06:33 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-19 02:06:34 [INFO] Giving lluoc 64 of Refined Iron
+2012-09-19 02:06:45 [INFO] Giving lluoc 64 of Coal Dust
+2012-09-19 02:07:01 [INFO] Giving lluoc 64 of Cobblestone
+2012-09-19 02:07:08 [INFO] Giving lluoc 64 of Rubber
+2012-09-19 02:07:09 [INFO] Giving lluoc 64 of Rubber
+2012-09-19 02:07:15 [INFO] Giving lluoc 64 of Glass
+2012-09-19 02:07:32 [INFO] Giving lluoc 64 of Redstone
+2012-09-19 02:08:00 [INFO] Giving lluoc 64 of Tin
+2012-09-19 02:33:39 [INFO] Connection reset
+2012-09-19 02:33:39 [INFO] lluoc lost connection: disconnect.quitting
+2012-09-19 02:33:43 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-19 02:37:10 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-19 02:58:28 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-19 02:59:43 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-19 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-19 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-19 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-09-19 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-19 08:05:01 [INFO] CONSOLE: Save complete.[m
+2012-09-19 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:05:01 [INFO] CONSOLE: Disabling level saving..[m
+2012-09-19 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-19 08:05:01 [INFO] Stopping server
+2012-09-19 08:05:01 [SEVERE] [xServer] Could not read packet
+2012-09-19 08:05:01 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2012-09-19 08:05:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-19 08:05:01 [SEVERE] [xServer] Couldn't send packet
+2012-09-19 08:05:01 [SEVERE] [xServer] Couldn't send packet
+2012-09-19 08:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-19 08:05:01 [INFO] Saving chunks
