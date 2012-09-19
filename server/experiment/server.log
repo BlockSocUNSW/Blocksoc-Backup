@@ -11504,3 +11504,76 @@ java.io.IOException: Input/output error
 2012-09-19 08:05:02 [INFO] Saving players
 2012-09-19 08:05:02 [INFO] Saving worlds
 2012-09-19 08:05:02 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@21abd57a
+2012-09-19 08:14:57 [INFO] Starting minecraft server version 1.3.1
+2012-09-19 08:14:57 [INFO] Loading properties
+2012-09-19 08:14:57 [INFO] Default game type: SURVIVAL
+2012-09-19 08:14:57 [INFO] Generating keypair
+2012-09-19 08:14:57 [INFO] Starting Minecraft server on *:25568
+2012-09-19 08:14:57 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.1-R2.0-b2340jnks (MC: 1.3.1) (Implementing API version 1.3.1-R2.0)
+2012-09-19 08:14:57 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-19 08:14:58 [INFO] Preparing level "world"
+2012-09-19 08:14:58 [INFO] Preparing start region for level 0 (Seed: 1950129564)
+2012-09-19 08:14:59 [INFO] Preparing start region for level 1 (Seed: 7284924033293034491)
+2012-09-19 08:14:59 [INFO] Preparing spawn area: 0%
+2012-09-19 08:14:59 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-19 08:14:59 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-19 08:14:59 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-19 08:14:59 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-19 08:14:59 [INFO] Done (1.481s)! For help, type "help" or "?"
+2012-09-19 08:15:01 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-19 08:15:01 [INFO] [xServer] Client connected to localhost:33777
+2012-09-19 08:15:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:15:01 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-19 08:15:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:15:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-19 08:15:01 [INFO] CONSOLE: Save complete.[m
+2012-09-19 08:15:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-19 08:15:01 [INFO] [35;1m[Server] Backup complete[m
+2012-09-19 08:15:03 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-19 08:15:10 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-19 10:14:39 [INFO] [Tekkit-C] hornetblack has joined the game[m
+2012-09-19 10:56:01 [INFO] [Tekkit-C] hornetblack has left the game[m
+2012-09-19 17:03:31 [INFO] [Tekkit-R] Pierzchalski has joined the game[m
+2012-09-19 17:04:25 [INFO] [Tekkit-R] Pierzchalski died[m
+2012-09-19 17:04:27 [INFO] [Tekkit-R] Pierzchalski has left the game[m
+2012-09-19 20:45:53 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-19 20:50:46 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-19 23:26:00 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-19 23:28:26 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-20 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-20 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:05:02 [INFO] [35;1m[Server] Starting backup[m
+2012-09-20 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:05:02 [INFO] CONSOLE: Forcing save..[m
+2012-09-20 08:05:02 [INFO] CONSOLE: Save complete.[m
+2012-09-20 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:05:02 [SEVERE] [xServer] Malformed Packet
+2012-09-20 08:05:02 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-20 08:05:02 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-20 08:05:02 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-20 08:05:02 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-20 08:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:05:02 [INFO] [34;1m[xServer] Fluid has disconnected[m
+2012-09-20 08:05:02 [SEVERE] [xServer] Malformed Packet
+2012-09-20 08:05:02 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-09-20 08:05:02 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-09-20 08:05:02 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-09-20 08:05:02 [INFO] CONSOLE: Stopping the server..[m
+2012-09-20 08:05:02 [INFO] Stopping server
+2012-09-20 08:05:02 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-20 08:05:02 [SEVERE] [xServer] Couldn't send packet
+2012-09-20 08:05:02 [SEVERE] [xServer] Couldn't send packet
+2012-09-20 08:05:02 [SEVERE] [xServer] Couldn't send packet
+2012-09-20 08:05:02 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-20 08:05:02 [WARNING] DSCT: Socket closed
+2012-09-20 08:05:02 [INFO] Closing listening thread
+2012-09-20 08:05:02 [INFO] Saving players
+2012-09-20 08:05:02 [INFO] Saving worlds
+2012-09-20 08:05:02 [INFO] Saving chunks for level 'world'/net.minecraft.server.WorldProviderNormal@19ed6877
+2012-09-20 08:05:02 [INFO] Saving chunks for level 'world_the_end'/net.minecraft.server.WorldProviderTheEnd@316569ed
+2012-09-20 08:05:02 [INFO] Stopping server
+2012-09-20 08:05:02 [INFO] Saving players
+2012-09-20 08:05:02 [INFO] Saving worlds
