@@ -1,0 +1,35 @@
+rednet.open("back")
+
+count = 2
+
+function getItem (call, number)
+ print(call)
+	for i=1,number do
+		rednet.broadcast(call)
+		cont = true
+		while cont do
+		  os.pullEvent("redstone")
+		  if redstone.getInput("left") then 
+			cont = false
+		  end
+		end
+	end
+end
+
+function getArray ()
+	getItem("lluoc_solar_glass",3)
+	getItem("lluoc_solar_coal_dust",3)
+	getItem("lluoc_solar_copper",7)
+	getItem("lluoc_solar_rubber",13)
+	getItem("lluoc_solar_refined_iron",10)
+	getItem("lluoc_solar_cobble",8)
+	getItem("lluoc_solar_redstone",6)
+ getItem("lluoc_solar_tin",4)
+end
+
+
+
+while true do
+	getArray ()
+end
+

@@ -1,0 +1,27 @@
+rednet.open("bottom")
+
+while true do
+   id, m = rednet.receive()
+   print( m)
+   if m=="lluoc_solar_tin" then
+      print("Sending Tin")
+      redstone.setOutput("left",true)
+      sleep(.3)
+      redstone.setOutput("left",false)
+      print("Done")
+    end
+   if m=="lluoc_solar_copper" then
+       print("Sending Copper")
+       redstone.setOutput("right",true)
+       sleep(.3)
+       redstone.setOutput("right", false)
+       print("Done")
+   end
+   if m=="lluoc_solar_refined_iron" then
+       print("Sending Refined Iron")
+       redstone.setOutput("back",true)
+       sleep(.3)
+       redstone.setOutput("back",false)
+       print("Done")
+   end
+end

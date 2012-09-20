@@ -1,0 +1,27 @@
+rednet.open("bottom")
+
+while true do
+   id, m = rednet.receive()
+   print( m)
+   if m=="lluoc_solar_cobble" then
+      print("Sending Cobble")
+      redstone.setOutput("left",true)
+      sleep(.3)
+      redstone.setOutput("left",false)
+      print("Done")
+    end
+   if m=="lluoc_solar_rubber" then
+       print("Sending Rubber")
+       redstone.setOutput("right",true)
+       sleep(.3)
+       redstone.setOutput("right", false)
+       print("Done")
+   end
+   if m=="lluoc_solar_glass" then
+       print("Sending Glass")
+       redstone.setOutput("back",true)
+       sleep(.3)
+       redstone.setOutput("back",false)
+       print("Done")
+   end
+end

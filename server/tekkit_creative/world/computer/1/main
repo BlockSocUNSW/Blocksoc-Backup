@@ -1,0 +1,12 @@
+rednet.open("back")
+
+while true do
+   id, m = rednet.receive()
+   print(m)
+   if m=="redstone" then
+      print("hit")
+      rs.setOuptup("right",true)
+      sleep(0.3)
+      rs.setOutput("right",false)
+   end
+end

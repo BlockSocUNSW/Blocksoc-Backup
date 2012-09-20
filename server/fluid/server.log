@@ -12459,3 +12459,322 @@ Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 2012-09-20 08:05:02 [INFO] Saving chunks for level 'world_the_end'/The End
 2012-09-20 08:05:02 [INFO] Stopping server
 2012-09-20 08:05:02 [INFO] Saving players
+2012-09-20 08:09:41 [INFO] Starting minecraft server version 1.3.2
+2012-09-20 08:09:41 [INFO] Loading properties
+2012-09-20 08:09:41 [INFO] Default game type: SURVIVAL
+2012-09-20 08:09:41 [INFO] Generating keypair
+2012-09-20 08:09:42 [INFO] Starting Minecraft server on *:25565
+2012-09-20 08:09:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-20 08:09:42 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-20 08:09:42 [INFO] Preparing level "world"
+2012-09-20 08:09:42 [INFO] Preparing start region for level 0 (Seed: -5450172093273386823)
+2012-09-20 08:09:43 [INFO] Preparing start region for level 1 (Seed: -5450172093273386823)
+2012-09-20 08:09:43 [INFO] Preparing spawn area: 36%
+2012-09-20 08:09:44 [INFO] Preparing start region for level 2 (Seed: -5450172093273386823)
+2012-09-20 08:09:44 [INFO] ----- Bukkit Auto Updater -----
+2012-09-20 08:09:44 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-20 08:09:44 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-20 08:09:44 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-20 08:09:44 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-20 08:09:44 [INFO] ----- ------------------- -----
+2012-09-20 08:09:44 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-20 08:09:44 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-20 08:09:44 [INFO] [xServer] THIS SERVER IS HOST
+2012-09-20 08:09:44 [INFO] [xServer] Starting as Host
+2012-09-20 08:09:44 [INFO] [xServer] Connection made on port 33777
+2012-09-20 08:09:44 [INFO] Adding Client
+2012-09-20 08:09:44 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-20 08:09:44 [INFO] [xServer] Client connected to localhost:33777
+2012-09-20 08:09:44 [INFO] Done (2.073s)! For help, type "help" or "?"
+2012-09-20 08:09:44 [INFO] [xServer] Connection made on port 33777
+2012-09-20 08:09:44 [INFO] Adding Client
+2012-09-20 08:09:44 [INFO] [34;1m[xServer] Creative has connected[m
+2012-09-20 08:09:45 [INFO] [xServer] Connection made on port 33777
+2012-09-20 08:09:45 [INFO] Adding Client
+2012-09-20 08:09:45 [INFO] [34;1m[xServer] Experiment has connected[m
+2012-09-20 08:09:45 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:09:45 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-20 08:09:45 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:09:45 [INFO] CONSOLE: Forcing save..[m
+2012-09-20 08:09:45 [INFO] CONSOLE: Save complete.[m
+2012-09-20 08:09:45 [INFO] Unknown command. Type "help" for help.[m
+2012-09-20 08:09:45 [INFO] [35;1m[Server] Backup complete[m
+2012-09-20 08:09:47 [INFO] [xServer] Connection made on port 33777
+2012-09-20 08:09:47 [INFO] Adding Client
+2012-09-20 08:09:47 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-20 08:09:54 [INFO] [xServer] Connection made on port 33777
+2012-09-20 08:09:54 [INFO] Adding Client
+2012-09-20 08:09:54 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-20 09:25:03 [INFO] [Tekkit-R] ozymandias12345 has joined the game[m
+2012-09-20 09:38:48 [INFO] [Tekkit-R] ozymandias12345 has left the game[m
+2012-09-20 09:55:29 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 10:07:00 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 16:53:27 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 17:00:41 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 17:00:43 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-20 17:02:52 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-20 17:02:56 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 17:24:32 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 17:24:35 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-20 17:24:51 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-20 17:24:55 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 17:30:50 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 17:30:53 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-20 17:31:12 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-20 17:31:17 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 18:02:08 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 18:02:10 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-20 18:02:34 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-20 18:02:37 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 18:33:52 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 18:34:26 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 19:19:45 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-20 19:19:49 [INFO] [Tekkit-R] lluoc: hey[m
+2012-09-20 19:20:25 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-20 19:20:48 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-20 19:21:05 [INFO] [Tekkit-R] H4ZM4T: every got damned time[m
+2012-09-20 19:21:08 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-20 19:21:22 [INFO] [Tekkit-R] H4ZM4T: my game end of streams me the first time I log in[m
+2012-09-20 19:21:36 [INFO] [Tekkit-R] H4ZM4T: HOLY SHIT[m
+2012-09-20 19:21:42 [INFO] [Tekkit-R] lluoc: ... no idea. probably TEKKIT[m
+2012-09-20 19:21:45 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-20 19:21:52 [INFO] [Tekkit-R] H4ZM4T: WHAT DO I DO WITH ALL THIS UU MATTER[m
+2012-09-20 19:22:03 [INFO] [Tekkit-R] lluoc: how much? also zzz[m
+2012-09-20 19:22:13 [INFO] [Tekkit-R] H4ZM4T: only a[m
+2012-09-20 19:22:21 [INFO] [Tekkit-R] H4ZM4T: crystal chest load[m
+2012-09-20 19:22:24 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-20 19:22:24 [INFO] [Tekkit-R] H4ZM4T: of stacks[m
+2012-09-20 19:22:27 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-20 19:22:31 [INFO] [Tekkit-R] lluoc: ... damn[m
+2012-09-20 19:22:40 [INFO] [Tekkit-R] H4ZM4T: diamond conversion time methinks[m
+2012-09-20 19:22:53 [INFO] [Tekkit-R] lluoc: crystal chests of diamonds are pretty[m
+2012-09-20 19:24:15 [INFO] [Tekkit-R] lluoc: I'm slowly making a HV array pipeline[m
+2012-09-20 19:24:28 [INFO] [Tekkit-R] lluoc: I basically have LV arrays working[m
+2012-09-20 19:24:55 [INFO] [Tekkit-R] lluoc: but distribution pipes are not that good at precise divisions of resources[m
+2012-09-20 19:25:14 [INFO] [Tekkit-R] lluoc: and punatic tubes don't mix well with auto tables[m
+2012-09-20 19:25:23 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-20 19:25:30 [INFO] [Tekkit-R] H4ZM4T: diamond pipes work great at it[m
+2012-09-20 19:25:41 [INFO] [Tekkit-R] H4ZM4T: just put more than one (don't stack) in each filter[m
+2012-09-20 19:26:14 [INFO] [Tekkit-R] lluoc: There is also the devision pipe which lets you have ratios up to 100 I think[m
+2012-09-20 19:26:22 [INFO] [Tekkit-R] H4ZM4T: ah okay[m
+2012-09-20 19:28:58 [INFO] [Tekkit-R] lluoc: hey, do you have any mossy cobble?[m
+2012-09-20 19:29:04 [INFO] [Tekkit-R] H4ZM4T: no[m
+2012-09-20 19:29:06 [INFO] [Tekkit-R] H4ZM4T: but I can make it[m
+2012-09-20 19:29:11 [INFO] [Tekkit-R] lluoc: you can[m
+2012-09-20 19:29:13 [INFO] [Tekkit-R] lluoc: how?[m
+2012-09-20 19:29:20 [INFO] [Tekkit-R] H4ZM4T: uu matter[m
+2012-09-20 19:29:29 [INFO] [Tekkit-R] lluoc: ahh, riiiiight[m
+2012-09-20 19:29:43 [INFO] [Tekkit-R] H4ZM4T: I have a stack for you[m
+2012-09-20 19:29:50 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-20 19:29:54 [INFO] [Tekkit-R] lluoc: I jsut needed 1[m
+2012-09-20 19:29:58 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-20 19:30:19 [INFO] [Tekkit-R] lluoc: ok, now to start making solarpanels. HV soon[m
+2012-09-20 19:30:27 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-20 19:30:33 [INFO] [Tekkit-R] H4ZM4T: I now have 3 stacks of mycelium[m
+2012-09-20 19:31:02 [INFO] [Tekkit-R] lluoc: heh, you know there is an island on the map[m
+2012-09-20 19:31:31 [INFO] [Tekkit-R] lluoc: taylor uncovered it when he was putting in the landmarks for atlantis[m
+2012-09-20 19:38:40 [INFO] [Tekkit-R] H4ZM4T: holy fucking shits[m
+2012-09-20 19:38:42 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-20 19:39:00 [INFO] [Tekkit-R] H4ZM4T: converting the UU matter[m
+2012-09-20 19:39:10 [INFO] [Tekkit-R] lluoc: ... how much diamond[m
+2012-09-20 19:39:13 [INFO] [Tekkit-R] H4ZM4T: I have 13 stacks[m
+2012-09-20 19:39:16 [INFO] [Tekkit-R] H4ZM4T: and I am not finished[m
+2012-09-20 19:39:27 [INFO] [Tekkit-R] H4ZM4T: also, and island eh?[m
+2012-09-20 19:42:19 [INFO] [Tekkit-R] H4ZM4T: 21 stacks and counting[m
+2012-09-20 19:42:25 [INFO] [Tekkit-R] lluoc: damond?[m
+2012-09-20 19:42:30 [INFO] [Tekkit-R] H4ZM4T: yup[m
+2012-09-20 19:42:34 [INFO] [Tekkit-R] lluoc: ... damn[m
+2012-09-20 19:43:10 [INFO] [Tekkit-R] lluoc: I only hav 15+37 diamond stacks[m
+2012-09-20 19:43:12 [INFO] [Tekkit-R] lluoc: aww[m
+2012-09-20 19:44:50 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-20 19:45:31 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-20 19:45:58 [INFO] [Tekkit-R] H4ZM4T: the diamond[m
+2012-09-20 19:45:59 [INFO] [Tekkit-R] H4ZM4T: so[m
+2012-09-20 19:46:00 [INFO] [Tekkit-R] H4ZM4T: uh[m
+2012-09-20 19:46:07 [INFO] [Tekkit-R] H4ZM4T: I vote I give some of this to taylor[m
+2012-09-20 19:46:17 [INFO] [Tekkit-R] H4ZM4T: but I have to deliver it in a hilarious manner[m
+2012-09-20 19:46:38 [INFO] [Tekkit-R] H4ZM4T: 26 stacks plus 49[m
+2012-09-20 19:46:48 [INFO] [Tekkit-R] lluoc: heh, nukes involved?[m
+2012-09-20 19:46:54 [INFO] [Tekkit-R] H4ZM4T: don't know how[m
+2012-09-20 19:46:55 [INFO] [Tekkit-R] lluoc: As fireworks[m
+2012-09-20 19:47:00 [INFO] [Tekkit-R] H4ZM4T: oh[m
+2012-09-20 19:47:01 [INFO] [Tekkit-R] H4ZM4T: and[m
+2012-09-20 19:47:21 [INFO] [Tekkit-R] H4ZM4T: this is after I made myself half a diamond chest of uranium[m
+2012-09-20 19:48:23 [INFO] [Tekkit-R] H4ZM4T: aaand another 3 stacks of nukes[m
+2012-09-20 19:48:28 [INFO] [Tekkit-R] lluoc: heh heh heh[m
+2012-09-20 19:49:48 [INFO] [Tekkit-R] H4ZM4T: that makes 5.5 stacks[m
+2012-09-20 19:51:34 [INFO] [Tekkit-R] H4ZM4T: oh wow[m
+2012-09-20 19:51:39 [INFO] [Tekkit-R] lluoc: more diamond?[m
+2012-09-20 19:51:41 [INFO] [Tekkit-R] H4ZM4T: what fucking dick broke all my scaffolding[m
+2012-09-20 19:51:52 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-20 19:52:20 [INFO] [Tekkit-R] H4ZM4T: quarries don't randomly restart themselves do they?[m
+2012-09-20 19:52:54 [INFO] [Tekkit-R] H4ZM4T: someone fucking broke my water facility[m
+2012-09-20 19:52:59 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 19:52:59 [INFO] [Tekkit-R] H4ZM4T: it was all pretty and shit[m
+2012-09-20 19:53:58 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 19:54:48 [INFO] [Tekkit-R] lluoc: sometimes tekkit just crashes....[m
+2012-09-20 19:56:35 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-20 20:02:07 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 20:30:14 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-20 21:41:27 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-20 21:41:30 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-20 22:26:12 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-20 22:48:50 [INFO] [Tekkit-R] adrianjboyer has joined the game[m
+2012-09-20 23:09:37 [INFO] [Tekkit-R] adrianjboyer has left the game[m
+2012-09-21 00:01:22 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 00:16:29 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-21 00:16:32 [INFO] [Tekkit-R] lluoc: hey[m
+2012-09-21 00:17:05 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-21 00:17:14 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-21 00:17:23 [INFO] [Tekkit-R] lluoc: lost stream?[m
+2012-09-21 00:17:24 [INFO] [Tekkit-R] H4ZM4T: ello[m
+2012-09-21 00:17:31 [INFO] [Tekkit-R] H4ZM4T: mhmm[m
+2012-09-21 00:17:47 [INFO] [Tekkit-R] lluoc: computer craft is fun but very very tedious[m
+2012-09-21 00:19:00 [INFO] [Tekkit-R] H4ZM4T: so uh[m
+2012-09-21 00:19:06 [INFO] [Tekkit-R] H4ZM4T: any idea who fucked up my rig?[m
+2012-09-21 00:19:12 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-21 00:19:16 [INFO] [Tekkit-R] lluoc: what do you mean[m
+2012-09-21 00:19:21 [INFO] [Tekkit-R] H4ZM4T: my water absorbing rig[m
+2012-09-21 00:19:24 [INFO] [Tekkit-R] lluoc: also beterrn what times?[m
+2012-09-21 00:19:38 [INFO] [Tekkit-R] H4ZM4T: was on pillars ofscaffold[m
+2012-09-21 00:19:56 [INFO] [Tekkit-R] lluoc: when was it ok last?[m
+2012-09-21 00:19:58 [INFO] [Tekkit-R] H4ZM4T: and the bottom was below the fucking ocean, with a foundation, all of which is now missing[m
+2012-09-21 00:20:12 [INFO] [Tekkit-R] H4ZM4T: since we killed the ender dragon[m
+2012-09-21 00:20:21 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-21 00:23:48 [INFO] [Tekkit-R] H4ZM4T: considering they mined out my foundations so far under water, they must have hat quantum armor oir[m
+2012-09-21 00:23:49 [INFO] [Tekkit-R] H4ZM4T: or the like[m
+2012-09-21 00:26:55 [INFO] [Tekkit-R] lluoc: looking through people who logged on since then[m
+2012-09-21 00:28:48 [INFO] [Tekkit-R] lluoc: ok[m
+2012-09-21 00:29:16 [INFO] [Tekkit-R] lluoc: me, taylor, zia, ben, luke (ozy), adrian boyer, hornetblack you[m
+2012-09-21 00:29:18 [INFO] [Tekkit-R] lluoc: and[m
+2012-09-21 00:29:31 [INFO] [Tekkit-R] lluoc: someone called Peirzchalski[m
+2012-09-21 00:30:04 [INFO] [Tekkit-R] H4ZM4T: do any of them even have the tech to mine out foundations under 40 blocks of water and not die[m
+2012-09-21 00:30:16 [INFO] [Tekkit-R] lluoc: the last person was on for only a minute[m
+2012-09-21 00:30:40 [INFO] [Tekkit-R] lluoc: current;y, only taylor i think[m
+2012-09-21 00:30:50 [INFO] [Tekkit-R] lluoc: though honestly you don't need high end tech to do it[m
+2012-09-21 00:31:01 [INFO] [Tekkit-R] H4ZM4T: quite a lot of foundations[m
+2012-09-21 00:31:08 [INFO] [Tekkit-R] lluoc: mining laser?[m
+2012-09-21 00:31:11 [INFO] [Tekkit-R] H4ZM4T: and cobble is a bitch to break when drowning[m
+2012-09-21 00:31:12 [INFO] [Tekkit-R] H4ZM4T: ah[m
+2012-09-21 00:31:13 [INFO] [Tekkit-R] H4ZM4T: maybe[m
+2012-09-21 00:31:45 [INFO] [Tekkit-R] lluoc: honestly zia is the only one who is online much. possibly him trolling[m
+2012-09-21 00:31:58 [INFO] [Tekkit-R] H4ZM4T: not cool[m
+2012-09-21 00:32:02 [INFO] [Tekkit-R] lluoc: could be taylor too... probably not.[m
+2012-09-21 00:32:09 [INFO] [Tekkit-R] lluoc: I'll ask on the group i guess.[m
+2012-09-21 00:32:36 [INFO] [Tekkit-R] H4ZM4T: and there are creeper holes all through my (ex)neat rubber trees[m
+2012-09-21 00:32:59 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-21 00:34:21 [INFO] [Tekkit-R] lluoc: postend. Wait and see I guess[m
+2012-09-21 00:34:31 [INFO] [Tekkit-R] lluoc: op in any materials you need[m
+2012-09-21 00:34:42 [INFO] [Tekkit-R] lluoc: from what you last[m
+2012-09-21 00:34:45 [INFO] [Tekkit-R] lluoc: lost[m
+2012-09-21 00:34:51 [INFO] [Tekkit-R] H4ZM4T: I gathered[m
+2012-09-21 00:38:05 [INFO] [Tekkit-R] lluoc: ... whitelock says it was him. Don't beleive him[m
+2012-09-21 00:38:13 [INFO] [Tekkit-R] H4ZM4T: heh[m
+2012-09-21 00:49:01 [INFO] [Tekkit-R] lluoc: ... how much damage was there?[m
+2012-09-21 00:49:23 [INFO] [Tekkit-R] H4ZM4T: the structure was made out of things[m
+2012-09-21 00:49:30 [INFO] [Tekkit-R] H4ZM4T: mostly scaffold[m
+2012-09-21 00:49:38 [INFO] [Tekkit-R] H4ZM4T: and some, now gone machine blocks[m
+2012-09-21 00:49:50 [INFO] [Tekkit-R] H4ZM4T: which is how I know it was player made[m
+2012-09-21 00:50:09 [INFO] [Tekkit-R] H4ZM4T: and I am spawning excess so I don't have to keep switching[m
+2012-09-21 00:50:15 [INFO] [Tekkit-R] H4ZM4T: will burn it all after[m
+2012-09-21 00:50:28 [INFO] [Tekkit-R] lluoc: it could possibly have been whitelock if zia didn't log out.,,[m
+2012-09-21 00:50:45 [INFO] [Tekkit-R] lluoc: ohm I trust you arn't keeping extra. Just wondering how bad it was[m
+2012-09-21 00:51:28 [INFO] [Tekkit-R] lluoc: also zia w as on for 6 minutes[m
+2012-09-21 00:52:40 [INFO] [Tekkit-R] H4ZM4T: interesting fact[m
+2012-09-21 00:52:53 [INFO] [Tekkit-R] H4ZM4T: scaffold cannot be placed on glowstone[m
+2012-09-21 00:53:19 [INFO] [Tekkit-R] lluoc: oh. odd[m
+2012-09-21 00:53:21 [INFO] [Tekkit-R] lluoc: glass?[m
+2012-09-21 00:53:27 [INFO] [Tekkit-R] H4ZM4T: not sure[m
+2012-09-21 00:56:02 [INFO] [Tekkit-R] H4ZM4T: come look[m
+2012-09-21 00:56:04 [INFO] [Tekkit-R] H4ZM4T: tis done[m
+2012-09-21 00:57:27 [INFO] [Tekkit-R] lluoc: oh wow[m
+2012-09-21 00:57:40 [INFO] [Tekkit-R] H4ZM4T: yup[m
+2012-09-21 00:57:48 [INFO] [Tekkit-R] H4ZM4T: you can see why it would be problematic[m
+2012-09-21 00:57:52 [INFO] [Tekkit-R] lluoc: forgot my ring[m
+2012-09-21 00:57:57 [INFO] [Tekkit-R] H4ZM4T: come look at the bit just here[m
+2012-09-21 00:58:20 [INFO] [Tekkit-R] lluoc: what are water cells used f or anyway?[m
+2012-09-21 00:58:21 [INFO] [Tekkit-R] H4ZM4T: look at the scaffold under the fence I am on[m
+2012-09-21 00:58:32 [INFO] [Tekkit-R] lluoc: oh[m
+2012-09-21 00:58:35 [INFO] [Tekkit-R] H4ZM4T: hehe[m
+2012-09-21 00:58:36 [INFO] [Tekkit-R] lluoc: pretty[m
+2012-09-21 00:58:46 [INFO] [Tekkit-R] H4ZM4T: I have no idea to be honest, but I want the water gone[m
+2012-09-21 00:58:47 [INFO] [Tekkit-R] H4ZM4T: so[m
+2012-09-21 00:58:52 [INFO] [Tekkit-R] H4ZM4T: feel free to harves[m
+2012-09-21 00:58:53 [INFO] [Tekkit-R] lluoc: ahh[m
+2012-09-21 00:59:15 [INFO] [Tekkit-R] H4ZM4T: also[m
+2012-09-21 00:59:22 [INFO] [Tekkit-R] H4ZM4T: come to my rubber trees[m
+2012-09-21 00:59:28 [INFO] [Tekkit-R] lluoc: yeah that would be hard to greif[m
+2012-09-21 00:59:51 [INFO] [Tekkit-R] H4ZM4T: watch[m
+2012-09-21 00:59:57 [INFO] [Tekkit-R] lluoc: noooooo[m
+2012-09-21 01:00:01 [INFO] [Tekkit-R] H4ZM4T: right click on it[m
+2012-09-21 01:00:09 [INFO] [Tekkit-R] H4ZM4T: :D[m
+2012-09-21 01:00:13 [INFO] [Tekkit-R] lluoc: siiiiigh[m
+2012-09-21 01:00:34 [INFO] [Tekkit-R] lluoc: I'm working on prototype computerised pipelines[m
+2012-09-21 01:01:19 [INFO] [Tekkit-R] H4ZM4T: ehehehe[m
+2012-09-21 01:01:27 [INFO] [Tekkit-R] H4ZM4T: now I have a bunch of pointless dancing bots[m
+2012-09-21 01:01:34 [INFO] [Tekkit-R] lluoc: siiiiigh[m
+2012-09-21 01:01:36 [INFO] [Tekkit-R] lluoc: heh heh[m
+2012-09-21 01:01:41 [INFO] [Tekkit-R] H4ZM4T: come here[m
+2012-09-21 01:01:45 [INFO] [Tekkit-R] lluoc: wait. 2 HV's[m
+2012-09-21 01:02:00 [INFO] [Tekkit-R] H4ZM4T: I have had two HV's for a while[m
+2012-09-21 01:02:02 [INFO] [Tekkit-R] lluoc: what's that?[m
+2012-09-21 01:02:27 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-21 01:02:30 [INFO] [Tekkit-R] H4ZM4T: :D[m
+2012-09-21 01:02:32 [INFO] [Tekkit-R] lluoc: well shit[m
+2012-09-21 01:02:43 [INFO] [Tekkit-R] H4ZM4T: I used most of it earlier[m
+2012-09-21 01:02:48 [INFO] [Tekkit-R] lluoc: on what?[m
+2012-09-21 01:03:23 [INFO] [Tekkit-R] lluoc: heh heh heh heh[m
+2012-09-21 01:03:30 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-21 01:03:33 [INFO] [Tekkit-R] H4ZM4T: NOIOOOO[m
+2012-09-21 01:03:45 [INFO] [Tekkit-R] lluoc: MWHAHAHAHAHA[m
+2012-09-21 01:04:48 [INFO] [Tekkit-R] lluoc: I'm heading back now. Just need to get the main driver done and then I won't even need to[m
+2012-09-21 01:04:57 [INFO] [Tekkit-R] lluoc: worry about ratio[m
+2012-09-21 01:05:09 [INFO] [Tekkit-R] lluoc: s[m
+2012-09-21 01:05:17 [INFO] [Tekkit-R] lluoc: of resources[m
+2012-09-21 01:05:36 [INFO] [Tekkit-R] lluoc: oh[m
+2012-09-21 01:05:39 [INFO] [Tekkit-R] H4ZM4T: ?[m
+2012-09-21 01:05:40 [INFO] [Tekkit-R] lluoc: moss and myc[m
+2012-09-21 01:05:43 [INFO] [Tekkit-R] lluoc: thanks[m
+2012-09-21 01:05:50 [INFO] [Tekkit-R] H4ZM4T: :D[m
+2012-09-21 01:06:16 [INFO] [Tekkit-R] lluoc: hmm, gtg[m
+2012-09-21 01:06:20 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 01:24:52 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-21 01:56:59 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 02:28:21 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 02:28:39 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 02:54:34 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 03:30:00 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 03:31:10 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 07:22:18 [INFO] [Tekkit-R] adrianjboyer has joined the game[m
+2012-09-21 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-21 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-21 08:04:04 [INFO] [Tekkit-R] adrianjboyer has left the game[m
+2012-09-21 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-09-21 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-21 08:05:01 [INFO] CONSOLE: Save complete.[m
+2012-09-21 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-21 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-21 08:05:01 [INFO] Stopping server
+2012-09-21 08:05:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-21 08:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-21 08:05:01 [SEVERE] [xServer] Could not read packet
+2012-09-21 08:05:01 [SEVERE] [xServer] Exception in server
+2012-09-21 08:05:01 [SEVERE] java.net.SocketException: Socket closed
+2012-09-21 08:05:01 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-09-21 08:05:01 [SEVERE] 	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2012-09-21 08:05:01 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:522)
+2012-09-21 08:05:01 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:490)
+2012-09-21 08:05:01 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-09-21 08:05:01 [INFO] Saving players
+2012-09-21 08:05:01 [INFO] Saving worlds
+2012-09-21 08:05:01 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-21 08:05:01 [WARNING] DSCT: Socket closed
+2012-09-21 08:05:01 [INFO] Closing listening thread
+2012-09-21 08:05:01 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-21 08:05:01 [INFO] Saving chunks for level 'world_the_end'/The End

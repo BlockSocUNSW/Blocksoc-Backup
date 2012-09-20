@@ -1,0 +1,21 @@
+rednet.open("top")
+
+while true do
+   id, m = rednet.receive()
+   print( m)
+   if m=="lluoc_3453" then
+      redstone.setOutput("left",true)
+      sleep(.3)
+      redstone.setOutput("left",false)
+    end
+   if m=="lluoc_9340" then
+       redstone.setOutput("right",true)
+       sleep(.3)
+       redstone.setOutput("right", false)
+   end
+   if m=="lluoc_6570" then
+       redstone.setOutput("back",true)
+       sleep(.3)
+       redstone.setOutput("back",false)
+   end
+end
