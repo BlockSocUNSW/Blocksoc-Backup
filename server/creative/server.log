@@ -11662,3 +11662,357 @@ java.io.IOException: Input/output error
 2012-09-21 08:05:01 [INFO] Stopping server
 2012-09-21 08:05:01 [INFO] Saving players
 2012-09-21 08:05:01 [INFO] Saving worlds
+2012-09-21 08:11:18 [INFO] Starting minecraft server version 1.3.2
+2012-09-21 08:11:18 [INFO] Loading properties
+2012-09-21 08:11:18 [INFO] Default game type: CREATIVE
+2012-09-21 08:11:18 [INFO] Generating keypair
+2012-09-21 08:11:19 [INFO] Starting Minecraft server on *:25567
+2012-09-21 08:11:19 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-09-21 08:11:19 [INFO] [xServer] Loading xServer v0.2.7
+2012-09-21 08:11:19 [INFO] Preparing level "world"
+2012-09-21 08:11:19 [INFO] Preparing start region for level 0 (Seed: 4994683471075611148)
+2012-09-21 08:11:20 [INFO] Preparing start region for level 1 (Seed: 4994683471075611148)
+2012-09-21 08:11:20 [INFO] Preparing spawn area: 3%
+2012-09-21 08:11:21 [INFO] ----- Bukkit Auto Updater -----
+2012-09-21 08:11:21 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-09-21 08:11:21 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-09-21 08:11:21 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-09-21 08:11:21 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-09-21 08:11:21 [INFO] ----- ------------------- -----
+2012-09-21 08:11:21 [INFO] Preparing start region for level 2 (Seed: 4994683471075611148)
+2012-09-21 08:11:21 [INFO] [xServer] Enabling xServer v0.2.7
+2012-09-21 08:11:21 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-09-21 08:11:21 [SEVERE] [xServer] Failed to create Socket - Client
+2012-09-21 08:11:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-09-21 08:11:21 [INFO] Done (2.364s)! For help, type "help" or "?"
+2012-09-21 08:11:22 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:11:22 [INFO] CONSOLE: Enabled level saving..[m
+2012-09-21 08:11:22 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:11:22 [INFO] CONSOLE: Forcing save..[m
+2012-09-21 08:11:22 [INFO] CONSOLE: Save complete.[m
+2012-09-21 08:11:22 [INFO] Unknown command. Type "help" for help.[m
+2012-09-21 08:11:22 [INFO] [35;1m[Server] Backup complete[m
+2012-09-21 08:11:23 [INFO] [36;1m[XServer]Connected to host[m
+2012-09-21 08:11:23 [INFO] [xServer] Client connected to localhost:33777
+2012-09-21 08:11:24 [INFO] [34;1m[xServer] Tekkit-C has connected[m
+2012-09-21 08:11:31 [INFO] [34;1m[xServer] Tekkit-R has connected[m
+2012-09-21 12:23:51 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-21 12:24:31 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-21 12:25:05 [INFO] [Tekkit-R] H4ZM4T has joined the game[m
+2012-09-21 12:26:27 [INFO] [Tekkit-R] H4ZM4T has left the game[m
+2012-09-21 13:36:00 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 13:41:15 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 17:28:04 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 17:32:00 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 17:32:03 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 18:04:35 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 18:48:11 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-21 18:58:03 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-21 19:20:37 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-21 19:33:01 [INFO] [Tekkit-R] dejai died[m
+2012-09-21 19:41:16 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-21 19:42:25 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-21 19:45:22 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-21 20:08:53 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 21:11:24 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 21:11:31 [INFO] [Tekkit-R] lluoc: hey[m
+2012-09-21 21:11:32 [INFO] [Tekkit-R] nightkhaos: hey dude[m
+2012-09-21 21:11:41 [INFO] [Tekkit-R] nightkhaos: I've built your quarries. Yet to deploy them[m
+2012-09-21 21:11:57 [INFO] [Tekkit-R] lluoc: all, all my quarries are inactive now[m
+2012-09-21 21:12:09 [INFO] [Tekkit-R] nightkhaos: Your one from me isn't[m
+2012-09-21 21:12:26 [INFO] [Tekkit-R] lluoc: not getting stuff from it... or am i[m
+2012-09-21 21:12:26 [INFO] [Tekkit-R] nightkhaos: yep, still going[m
+2012-09-21 21:12:32 [INFO] [Tekkit-R] lluoc: I am[m
+2012-09-21 21:12:39 [INFO] [Tekkit-R] lluoc: stuupid buggy pipe graphics[m
+2012-09-21 21:13:30 [INFO] [Tekkit-R] nightkhaos: come to my house. I need some help with pew pews[m
+2012-09-21 21:13:41 [INFO] [Tekkit-R] lluoc: you need what?[m
+2012-09-21 21:13:48 [INFO] [Tekkit-R] nightkhaos: I need you and your mining lazer[m
+2012-09-21 21:14:05 [INFO] [Tekkit-R] lluoc: zzz first[m
+2012-09-21 21:14:23 [INFO] [Tekkit-R] lluoc: I should probably upgrade to quantum armour already[m
+2012-09-21 21:14:30 [INFO] [Tekkit-R] lluoc: I have the resources[m
+2012-09-21 21:14:34 [INFO] [Tekkit-R] nightkhaos: probably[m
+2012-09-21 21:15:44 [INFO] [Tekkit-R] lluoc: ok[m
+2012-09-21 21:18:39 [INFO] [Tekkit-R] nightkhaos: yay! thanks[m
+2012-09-21 21:18:56 [INFO] [Tekkit-R] lluoc: heh, you forgot about drills didn't you[m
+2012-09-21 21:19:03 [INFO] [Tekkit-R] nightkhaos: pew pew pew[m
+2012-09-21 21:19:46 [INFO] [Tekkit-R] nightkhaos: okay you're going to get a little bit extra dirt in your quarry[m
+2012-09-21 21:19:58 [INFO] [Tekkit-R] nightkhaos: i worked out I should really setup the water FIRST before the quarry[m
+2012-09-21 21:21:23 [INFO] [Tekkit-R] lluoc: alsmot 4 stacks of damond from cobble gen over night...[m
+2012-09-21 21:21:40 [INFO] [Tekkit-R] lluoc: I sometimes forget to check and then it is full of diamond...[m
+2012-09-21 21:24:06 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 21:24:09 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 21:26:15 [INFO] [Tekkit-R] nightkhaos: bbs[m
+2012-09-21 21:26:29 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 21:38:01 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 21:53:57 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 22:01:34 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 22:01:37 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-21 22:03:23 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-21 22:03:26 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 22:04:14 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-21 22:04:16 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-21 22:04:45 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-21 22:04:48 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-21 22:48:12 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 22:48:17 [INFO] [Tekkit-R] nightkhaos: back[m
+2012-09-21 22:48:20 [INFO] [Tekkit-R] lluoc: hey, come look at this[m
+2012-09-21 22:48:34 [INFO] [Tekkit-R] nightkhaos: yep?[m
+2012-09-21 22:48:39 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-21 22:48:44 [INFO] [Tekkit-R] lluoc: hey ben[m
+2012-09-21 22:48:47 [INFO] [Tekkit-R] dejai: yo[m
+2012-09-21 22:48:48 [INFO] [Tekkit-R] nightkhaos: hey ben[m
+2012-09-21 22:49:09 [INFO] [Tekkit-R] lluoc: you just maintain the chests[m
+2012-09-21 22:49:15 [INFO] [Tekkit-R] lluoc: and it spits out solar panels[m
+2012-09-21 22:49:30 [INFO] [Tekkit-R] lluoc: hey ben, come to my place[m
+2012-09-21 22:50:02 [INFO] [Tekkit-R] nightkhaos: nice[m
+2012-09-21 22:50:19 [INFO] [Tekkit-R] lluoc: aaaaand a mass fab[m
+2012-09-21 22:50:35 [INFO] [Tekkit-R] nightkhaos: not as impressive as I have planned. :P[m
+2012-09-21 22:50:42 [INFO] [Tekkit-R] lluoc: this is a prototype[m
+2012-09-21 22:51:01 [INFO] [Tekkit-R] lluoc: this was me learning how to get all this to work[m
+2012-09-21 22:51:27 [INFO] [Tekkit-R] lluoc: I ultimately want assembly lines for all items[m
+2012-09-21 22:51:37 [INFO] [Tekkit-R] lluoc: which is going to be hard[m
+2012-09-21 22:51:38 [INFO] [Tekkit-R] nightkhaos: that is what I'm building in Atlantis[m
+2012-09-21 22:51:58 [INFO] [Tekkit-R] lluoc: And me under a volcano[m
+2012-09-21 22:52:24 [INFO] [Tekkit-R] nightkhaos: Volcano won't be big enough[m
+2012-09-21 22:52:28 [INFO] [Tekkit-R] lluoc: underground[m
+2012-09-21 22:52:34 [INFO] [Tekkit-R] lluoc: also tp pipes[m
+2012-09-21 22:53:57 [INFO] [Tekkit-R] lluoc: by the way, underneath the chests each transporter has a item detector[m
+2012-09-21 22:54:02 [INFO] [Tekkit-R] nightkhaos: your timing is off... or it doesn't have any...[m
+2012-09-21 22:54:18 [INFO] [Tekkit-R] lluoc: if you try to use one on the out pipe is slows waaaaay down[m
+2012-09-21 22:54:18 [INFO] [Tekkit-R] nightkhaos: you are overproducting coal dust and glass[m
+2012-09-21 22:54:23 [INFO] [Tekkit-R] lluoc: No timing[m
+2012-09-21 22:54:41 [INFO] [Tekkit-R] lluoc: it just puts the resources in for an array at time[m
+2012-09-21 22:54:53 [INFO] [Tekkit-R] lluoc: there was some surplus from some failed runs as well[m
+2012-09-21 22:55:08 [INFO] [Tekkit-R] nightkhaos: yes, but when scaled up there is a slight problem in that you will have overflow[m
+2012-09-21 22:55:22 [INFO] [Tekkit-R] lluoc: I'll need to slow it down. The code I'm using was for a much slower design[m
+2012-09-21 22:55:31 [INFO] [Tekkit-R] lluoc: as in items being pulled from the chests[m
+2012-09-21 22:55:42 [INFO] [Tekkit-R] lluoc: I need to do some recoding.[m
+2012-09-21 22:55:47 [INFO] [Tekkit-R] nightkhaos: you're better off having a request highriachy or timings[m
+2012-09-21 22:55:58 [INFO] [Tekkit-R] lluoc: coding is slooooow over the server[m
+2012-09-21 22:56:00 [INFO] [Tekkit-R] nightkhaos: request highriachy is... well... complicated.[m
+2012-09-21 22:56:10 [INFO] [Tekkit-R] nightkhaos: not if you use a RP2 CPU[m
+2012-09-21 22:56:13 [INFO] [Tekkit-R] lluoc: it is[m
+2012-09-21 22:56:15 [INFO] [Tekkit-R] lluoc: heh[m
+2012-09-21 22:56:18 [INFO] [Tekkit-R] lluoc: but the thing is[m
+2012-09-21 22:56:20 [INFO] [Tekkit-R] lluoc: this works[m
+2012-09-21 22:56:40 [INFO] [Tekkit-R] nightkhaos: Speaking of which I need a mechanism to upload disk images for RP2[m
+2012-09-21 22:57:04 [INFO] [Tekkit-R] dejai: What is so good about an iron furnace[m
+2012-09-21 22:57:15 [INFO] [Tekkit-R] lluoc: If you give meth code I can put it as program in all computercraft systems[m
+2012-09-21 22:57:22 [INFO] [Tekkit-R] nightkhaos: dejai: 10 per coal[m
+2012-09-21 22:57:23 [INFO] [Tekkit-R] lluoc: you can copy it off and then I can delete it[m
+2012-09-21 22:57:36 [INFO] [Tekkit-R] lluoc: ben: look up induction furnace[m
+2012-09-21 22:57:38 [INFO] [Tekkit-R] nightkhaos: Not computercraft, RP2.[m
+2012-09-21 22:58:17 [INFO] [Tekkit-R] lluoc: RP2?[m
+2012-09-21 22:58:18 [INFO] [Tekkit-R] lluoc: ohh[m
+2012-09-21 22:58:22 [INFO] [Tekkit-R] lluoc: right[m
+2012-09-21 22:58:27 [INFO] [Tekkit-R] nightkhaos: yes, the RP2 CPU[m
+2012-09-21 22:58:32 [INFO] [Tekkit-R] lluoc: honeslty, haven't touched them yet[m
+2012-09-21 22:59:06 [INFO] [Tekkit-R] nightkhaos: I will create an image using AMCE, then I will create a disk and give you a disk ID (hopefully). I[m
+2012-09-21 22:59:22 [INFO] [Tekkit-R] nightkhaos: then need you to replace that disk file in the world safe with the image I created. Volia[m
+2012-09-21 22:59:41 [INFO] [Tekkit-R] nightkhaos: One programmed 6502 Microcontroller xD[m
+2012-09-21 22:59:42 [INFO] [Tekkit-R] lluoc: eh, worth a try.[m
+2012-09-21 23:00:06 [INFO] [Tekkit-R] dejai: My house looks so fucked lol[m
+2012-09-21 23:00:29 [INFO] [Tekkit-R] lluoc: make a new one? Made from diamonds[m
+2012-09-21 23:00:40 [INFO] [Tekkit-R] dejai: no just[m
+2012-09-21 23:00:43 [INFO] [Tekkit-R] nightkhaos: *blink*[m
+2012-09-21 23:00:44 [INFO] [Tekkit-R] dejai: looks like a kludgy[m
+2012-09-21 23:00:47 [INFO] [Tekkit-R] dejai: bit of shit[m
+2012-09-21 23:01:04 [INFO] [Tekkit-R] dejai: Everything in one small room[m
+2012-09-21 23:01:20 [INFO] [Tekkit-R] lluoc: have you been to my place?[m
+2012-09-21 23:01:25 [INFO] [Tekkit-R] lluoc: I'm living in a hole[m
+2012-09-21 23:01:31 [INFO] [Tekkit-R] nightkhaos: you want an electric furance, not iron.[m
+2012-09-21 23:01:34 [INFO] [Tekkit-R] lluoc: of one  room[m
+2012-09-21 23:01:39 [INFO] [Tekkit-R] lluoc: no he doesn't[m
+2012-09-21 23:01:45 [INFO] [Tekkit-R] nightkhaos: also I'm giving you power[m
+2012-09-21 23:01:47 [INFO] [Tekkit-R] lluoc: he wats an induction furnace[m
+2012-09-21 23:01:49 [INFO] [Tekkit-R] lluoc: heh heh heh[m
+2012-09-21 23:02:01 [INFO] [Tekkit-R] nightkhaos: *sigh* not everyone has the resources to build an induction[m
+2012-09-21 23:02:09 [INFO] [Tekkit-R] nightkhaos: why are you using a generator?[m
+2012-09-21 23:02:15 [INFO] [Tekkit-R] lluoc: who?[m
+2012-09-21 23:02:20 [INFO] [Tekkit-R] nightkhaos: ben[m
+2012-09-21 23:02:45 [INFO] [Tekkit-R] nightkhaos: this thing... outside[m
+2012-09-21 23:03:38 [INFO] [Tekkit-R] nightkhaos: ben[m
+2012-09-21 23:03:42 [INFO] [Tekkit-R] nightkhaos: this... over here[m
+2012-09-21 23:03:44 [INFO] [Tekkit-R] nightkhaos: power[m
+2012-09-21 23:03:58 [INFO] [Tekkit-R] nightkhaos: no need to use that generator[m
+2012-09-21 23:04:27 [INFO] [Tekkit-R] dejai: Was just playing with the power[m
+2012-09-21 23:04:50 [INFO] [Tekkit-R] dejai: can I borrow a diamond for 1 second[m
+2012-09-21 23:04:56 [INFO] [Tekkit-R] nightkhaos: ...[m
+2012-09-21 23:05:04 [INFO] [Tekkit-R] lluoc: sorry ben[m
+2012-09-21 23:05:05 [INFO] [Tekkit-R] dejai: I have not mined one[m
+2012-09-21 23:05:11 [INFO] [Tekkit-R] lluoc: he can't afford one[m
+2012-09-21 23:05:11 [INFO] [Tekkit-R] dejai: And I have liek 3 stacks of gold[m
+2012-09-21 23:05:23 [INFO] [Tekkit-R] lluoc: He has barly any[m
+2012-09-21 23:05:39 [INFO] [Tekkit-R] dejai: I will literally give it straight back[m
+2012-09-21 23:06:03 [INFO] [Tekkit-R] lluoc: WHAT[m
+2012-09-21 23:06:11 [INFO] [Tekkit-R] lluoc: ... ok, fuck that.[m
+2012-09-21 23:06:35 [INFO] [Tekkit-R] lluoc: electric wrench isn't giving me back my full machine[m
+2012-09-21 23:07:30 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-21 23:08:25 [INFO] [Tekkit-R] dejai has joined the game[m
+2012-09-21 23:08:35 [INFO] [Tekkit-R] dejai: I hate that click bug[m
+2012-09-21 23:08:42 [INFO] [Tekkit-R] dejai: Where it wont let you drag[m
+2012-09-21 23:09:48 [INFO] [Tekkit-R] nightkhaos: literally straight back ha?[m
+2012-09-21 23:10:24 [INFO] [Tekkit-R] nightkhaos: 2000[m
+2012-09-21 23:10:41 [INFO] [Tekkit-R] nightkhaos: 2455[m
+2012-09-21 23:10:44 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-21 23:10:54 [INFO] [Tekkit-R] nightkhaos: EMC into condensing another dimaond[m
+2012-09-21 23:13:15 [INFO] [Tekkit-R] dejai has left the game[m
+2012-09-21 23:29:43 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 23:29:47 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 23:29:56 [INFO] [Tekkit-R] lluoc: zzz[m
+2012-09-21 23:30:04 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 23:30:07 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 23:30:09 [INFO] [Tekkit-R] lluoc: ty[m
+2012-09-21 23:31:11 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-21 23:31:15 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-21 23:33:37 [INFO] [Tekkit-R] nightkhaos: quarry 2 up rowan[m
+2012-09-21 23:34:26 [INFO] [Tekkit-R] lluoc: yay[m
+2012-09-21 23:34:38 [INFO] [Tekkit-R] lluoc: your setting up mine now?[m
+2012-09-21 23:34:44 [INFO] [Tekkit-R] nightkhaos: that's what I said[m
+2012-09-21 23:34:54 [INFO] [Tekkit-R] nightkhaos: cause I need to turn off one for a few minutes[m
+2012-09-21 23:35:07 [INFO] [Tekkit-R] lluoc: How many will you put up?[m
+2012-09-21 23:35:30 [INFO] [Tekkit-R] nightkhaos: all of them hopefully. Just didn't want to interupt your supply while doing "maintaince"[m
+2012-09-21 23:35:43 [INFO] [Tekkit-R] nightkhaos: that is 4 total. I took 24 diamonds like I said[m
+2012-09-21 23:36:29 [INFO] [Tekkit-R] lluoc: ok. Just wondering. Also supply isn't *vital* right this instant for me[m
+2012-09-21 23:36:34 [INFO] [Tekkit-R] lluoc: if that helps[m
+2012-09-21 23:39:43 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-22 00:15:39 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 00:15:43 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-22 00:34:48 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 00:34:50 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-22 00:46:54 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-22 00:46:58 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-22 01:46:31 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-22 01:46:49 [INFO] [Tekkit-R] nightkhaos: i understand congrats are in order[m
+2012-09-22 01:47:01 [INFO] [Tekkit-R] lluoc: heh heh, yes. yes they are.[m
+2012-09-22 01:47:19 [INFO] [Tekkit-R] lluoc: If I keep the chests stocked then the second one should be done around tomorrow[m
+2012-09-22 01:47:22 [INFO] [Tekkit-R] lluoc: heh heh[m
+2012-09-22 01:48:11 [INFO] [Tekkit-R] lluoc: MFSU is charging now. Shold be able to get a tp plate up between old home and site shack[m
+2012-09-22 01:48:22 [INFO] [Tekkit-R] lluoc: also, thanks[m
+2012-09-22 01:49:08 [INFO] [Tekkit-R] nightkhaos: Noted. When you want to move the TP plate and power distrbution/ resource in thing let me know[m
+2012-09-22 01:49:21 [INFO] [Tekkit-R] lluoc: Will do. Currently my quarries are powerd off[m
+2012-09-22 01:49:26 [INFO] [Tekkit-R] lluoc: I'll put them back up soon[m
+2012-09-22 01:49:27 [INFO] [Tekkit-R] nightkhaos: note I am about to temporarly disable one quarry[m
+2012-09-22 01:51:37 [INFO] [Tekkit-R] lluoc: can you sleep? I don't have a bed yet[m
+2012-09-22 01:52:08 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-22 01:52:09 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 01:52:15 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-22 01:52:18 [INFO] [Tekkit-R] lluoc: ty[m
+2012-09-22 01:55:33 [INFO] [Tekkit-R] lluoc: already have 2 million EU... damn[m
+2012-09-22 02:04:59 [INFO] [Tekkit-R] lluoc: ha ha, teleporter works[m
+2012-09-22 02:06:45 [INFO] [Tekkit-R] lluoc: zzz?[m
+2012-09-22 02:07:15 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-22 02:07:19 [INFO] [Tekkit-R] lluoc: ty[m
+2012-09-22 02:09:52 [INFO] [Tekkit-R] lluoc: FUUUU[m
+2012-09-22 02:09:59 [INFO] [Tekkit-R] lluoc: a creeper just came in a blew up a chest[m
+2012-09-22 02:10:02 [INFO] [Tekkit-R] lluoc: a crystal chest[m
+2012-09-22 02:18:33 [INFO] [Tekkit-R] nightkhaos: zzz[m
+2012-09-22 02:19:00 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 02:19:58 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-22 02:20:03 [INFO] [Tekkit-R] lluoc: sniff[m
+2012-09-22 02:20:07 [INFO] [Tekkit-R] lluoc: now i know how it feels[m
+2012-09-22 02:20:13 [INFO] [Tekkit-R] nightkhaos: damn right :P[m
+2012-09-22 02:20:15 [INFO] [Tekkit-R] lluoc: heh[m
+2012-09-22 02:26:37 [INFO] [Tekkit-R] nightkhaos: alright close to reenabling this quarry[m
+2012-09-22 02:27:11 [INFO] [Tekkit-R] lluoc: I've put my power back up[m
+2012-09-22 02:28:23 [INFO] [Tekkit-R] lluoc: fuuu[m
+2012-09-22 02:28:32 [INFO] [Tekkit-R] lluoc: I keep getting teleported to your place. not mine[m
+2012-09-22 02:28:38 [INFO] [Tekkit-R] lluoc: and I don't know why[m
+2012-09-22 02:28:46 [INFO] [Tekkit-R] nightkhaos: okay[m
+2012-09-22 02:29:01 [INFO] [Tekkit-R] nightkhaos: give me a minute[m
+2012-09-22 02:29:06 [INFO] [Tekkit-R] lluoc: how did I link my tele pad to yours?[m
+2012-09-22 02:29:18 [INFO] [Tekkit-R] nightkhaos: which freq thing did you use?[m
+2012-09-22 02:29:24 [INFO] [Tekkit-R] lluoc: and I left my fplying ring at the work site so I can't get back[m
+2012-09-22 02:29:47 [INFO] [Tekkit-R] lluoc: Riiiiigh.[m
+2012-09-22 02:29:52 [INFO] [Tekkit-R] nightkhaos: umm... these are WAY to close[m
+2012-09-22 02:30:22 [INFO] [Tekkit-R] lluoc: yeah[m
+2012-09-22 02:30:23 [INFO] [Tekkit-R] nightkhaos: the curious thing is it teleports you to spawn...[m
+2012-09-22 02:30:36 [INFO] [Tekkit-R] nightkhaos: okay. make a fresh freq thingy[m
+2012-09-22 02:30:42 [INFO] [Tekkit-R] nightkhaos: and recycle the old one[m
+2012-09-22 02:31:19 [INFO] [Tekkit-R] nightkhaos: sleep?[m
+2012-09-22 02:31:25 [INFO] [Tekkit-R] lluoc: how do you get teh gui open anyway?[m
+2012-09-22 02:31:30 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-22 02:31:34 [INFO] [Tekkit-R] nightkhaos has joined the game[m
+2012-09-22 02:31:44 [INFO] [Tekkit-R] lluoc: actually[m
+2012-09-22 02:31:53 [INFO] [Tekkit-R] lluoc: put my pad next to one of these[m
+2012-09-22 02:32:00 [INFO] [Tekkit-R] lluoc: might help[m
+2012-09-22 02:32:35 [INFO] [Tekkit-R] nightkhaos: now I need a freq linker[m
+2012-09-22 02:32:44 [INFO] [Tekkit-R] nightkhaos: is that a fresh one?[m
+2012-09-22 02:32:47 [INFO] [Tekkit-R] lluoc: yep[m
+2012-09-22 02:32:59 [INFO] [Tekkit-R] nightkhaos: cool, where is your other teleporter?[m
+2012-09-22 02:33:22 [INFO] [Tekkit-R] lluoc: -150,1350[m
+2012-09-22 02:33:26 [INFO] [Tekkit-R] lluoc: ...[m
+2012-09-22 02:35:11 [INFO] [Tekkit-R] lluoc: there is a shack on a lake of ice near the volvano. it's there[m
+2012-09-22 02:36:06 [INFO] [Tekkit-R] nightkhaos: found it[m
+2012-09-22 02:36:42 [INFO] [Tekkit-R] nightkhaos: try now[m
+2012-09-22 02:36:52 [INFO] [Tekkit-R] lluoc: hello[m
+2012-09-22 02:36:59 [INFO] [Tekkit-R] nightkhaos: there we go[m
+2012-09-22 02:37:11 [INFO] [Tekkit-R] nightkhaos: destory that freq transmitter[m
+2012-09-22 02:37:23 [INFO] [Tekkit-R] lluoc: how do you change the frequncy[m
+2012-09-22 02:37:25 [INFO] [Tekkit-R] nightkhaos: there is a bug that means we can't repurpose them. it's annoying[m
+2012-09-22 02:37:38 [INFO] [Tekkit-R] lluoc: there was something about a gui[m
+2012-09-22 02:37:42 [INFO] [Tekkit-R] lluoc: but I never got one[m
+2012-09-22 02:37:45 [INFO] [Tekkit-R] lluoc: kk[m
+2012-09-22 02:37:45 [INFO] [Tekkit-R] nightkhaos: There isn't one[m
+2012-09-22 02:37:55 [INFO] [Tekkit-R] nightkhaos: you link A to B with that device, the destory it[m
+2012-09-22 02:38:17 [INFO] [Tekkit-R] lluoc: What happend before?[m
+2012-09-22 02:38:22 [INFO] [Tekkit-R] nightkhaos: i don't know[m
+2012-09-22 02:38:31 [INFO] [Tekkit-R] lluoc: TEKKIT[m
+2012-09-22 02:39:02 [INFO] [Tekkit-R] lluoc: also never removing my flying ring from my inventory again[m
+2012-09-22 02:39:41 [INFO] [Tekkit-R] nightkhaos: *sigh* this will take a while to charge[m
+2012-09-22 02:39:46 [INFO] [Tekkit-R] lluoc: ?[m
+2012-09-22 02:39:48 [INFO] [Tekkit-R] lluoc: my end[m
+2012-09-22 02:39:51 [INFO] [Tekkit-R] nightkhaos: yes[m
+2012-09-22 02:39:54 [INFO] [Tekkit-R] lluoc: I know. I'm abandoning it soon[m
+2012-09-22 02:40:13 [INFO] [Tekkit-R] lluoc: hence the power shortages[m
+2012-09-22 02:40:33 [INFO] [Tekkit-R] nightkhaos: it's okay. I need to rework the entire network soon remember?[m
+2012-09-22 02:41:14 [INFO] [Tekkit-R] lluoc: yeah. I'll need to give you multiple tele pipes for power too[m
+2012-09-22 02:41:26 [INFO] [Tekkit-R] lluoc: there is a bottleneck there which means we can't run that many quarries[m
+2012-09-22 02:41:29 [INFO] [Tekkit-R] lluoc: at full capasity[m
+2012-09-22 02:41:35 [INFO] [Tekkit-R] nightkhaos: I am aware.[m
+2012-09-22 02:41:41 [INFO] [Tekkit-R] nightkhaos: 72EU per quarry approx[m
+2012-09-22 02:41:50 [INFO] [Tekkit-R] lluoc: I wasn't. I was wondering why my quarries were so slow lately[m
+2012-09-22 02:42:16 [INFO] [Tekkit-R] nightkhaos: I have a policy of only running two on the same power freq[m
+2012-09-22 02:42:23 [INFO] [Tekkit-R] nightkhaos: ideally one[m
+2012-09-22 02:42:57 [INFO] [Tekkit-R] lluoc: I'll have to look up the numbers again but I think 3 might be the most you can run without penalty[m
+2012-09-22 02:43:02 [INFO] [Tekkit-R] lluoc: zzz?[m
+2012-09-22 02:43:06 [INFO] [Tekkit-R] nightkhaos has left the game[m
+2012-09-22 02:45:22 [INFO] [Tekkit-R] lluoc: nigh. I've got to remove a hill[m
+2012-09-22 02:45:35 [INFO] [Tekkit-R] lluoc: pew pew pew[m
+2012-09-22 03:35:17 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 03:35:20 [INFO] [Tekkit-C] lluoc has joined the game[m
+2012-09-22 03:35:53 [INFO] [Tekkit-C] lluoc has left the game[m
+2012-09-22 03:35:58 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-22 05:15:10 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 06:33:18 [INFO] [Tekkit-R] lluoc has joined the game[m
+2012-09-22 07:00:55 [INFO] [Tekkit-R] lluoc has left the game[m
+2012-09-22 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-22 08:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-22 08:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-22 08:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-22 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-22 08:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-09-22 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-22 08:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-09-22 08:05:01 [INFO] CONSOLE: Save complete.[m
+2012-09-22 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-22 08:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-09-22 08:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-09-22 08:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-09-22 08:05:01 [INFO] Stopping server
+2012-09-22 08:05:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-09-22 08:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-09-22 08:05:01 [SEVERE] [xServer] Could not read packet
+2012-09-22 08:05:01 [INFO] Saving players
+2012-09-22 08:05:01 [WARNING] DSCT: Socket closed
+2012-09-22 08:05:01 [INFO] Closing listening thread
+2012-09-22 08:05:01 [INFO] Saving worlds
+2012-09-22 08:05:01 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-22 08:05:02 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-22 08:05:02 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-22 08:05:02 [INFO] Stopping server
+2012-09-22 08:05:02 [INFO] Saving players
+2012-09-22 08:05:02 [INFO] Saving worlds
+2012-09-22 08:05:02 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-22 08:05:02 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-22 08:05:02 [INFO] Saving chunks for level 'world_the_end'/The End
